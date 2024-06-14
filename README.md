@@ -11,4 +11,4 @@ Progetto di gruppo di statistica inferenziale
 
 # Info
 
-Manca il lab 3 che devo ancora recuperare
+Manca il lab 3 e il lab 6
