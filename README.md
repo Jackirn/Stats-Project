@@ -1,6 +1,14 @@
 # Stats-Project
 
-In questa repository verranno caricate tutte le informazioni relative al lavoro di gruppo di Statistica.
-Per comodità metto dentro anche i pdf dei laboratori, oltre al dataset scelto e il codice R
+Progetto di gruppo di statistica inferenziale-
+
+# Autori: 
+
+- Giacomo Kirn 
+- Francesco Ligorio
+- Alessandro Papi
+- Tommaso Parma
+
+# info
 
 Manca il lab 3 che devo ancora recuperare
