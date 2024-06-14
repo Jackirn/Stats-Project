@@ -1,6 +1,6 @@
 # Stats-Project
 
-Progetto di gruppo di statistica inferenziale-
+Progetto di gruppo di statistica inferenziale
 
 # Autori: 
 
