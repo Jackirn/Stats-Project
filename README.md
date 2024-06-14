@@ -9,6 +9,6 @@ Progetto di gruppo di statistica inferenziale
 - Alessandro Papi
 - Tommaso Parma
 
-# info
+# Info
 
 Manca il lab 3 che devo ancora recuperare
