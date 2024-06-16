@@ -2,7 +2,7 @@
 
 Progetto di gruppo di statistica inferenziale
 
-# Autori: 
+# Autori
 
 - Giacomo Kirn 
 - Francesco Ligorio
