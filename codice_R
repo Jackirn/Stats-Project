@@ -1,0 +1,134 @@
+library( car )
+library( ellipse )
+library( faraway )
+library( leaps )
+library(MASS)
+library( GGally)
+library(rgl)
+
+#primo modello 5 covariate
+ggpairs(dataset[,c('mpg','cylinders','displacement','weight','horsepower','acceleration','model.year')])
+g1 = lm( mpg ~ cylinders + displacement + weight + horsepower + acceleration + model.year, data = dataset )
+summary(g1)
+
+#controllo correlazioni
+vif(g1)
+cor(dataset$cylinders,dataset$displacement)
+
+#levo accelerazione che non mi serve e una ad alta correlazione
+g2=lm(mpg ~ cylinders + weight + horsepower, data = dataset)
+summary(g2)
+
+#noto che cylinders non ha impatto, faccio terzo modello
+g3=lm(mpg ~ weight + horsepower, data = dataset)
+summary(g3)
+ggpairs(dataset[,c('mpg','weight', 'horsepower')])
+
+#vif sotto al 5 (buono)
+vif(g3)
+
+
+#validità modello
+
+#errori normali
+qqnorm(g3$res)
+qqline(g3$res)
+
+#shapiro test
+shapiro.test(g3$res)
+hist(g3$res)
+boxplot(g3$res)
+
+#omoschedasticità
+plot(g3$fit,g3$res)
+plot(g3,which=1)
+
+
+
+#boxcox
+b=boxcox(mpg ~ weight + horsepower, data = dataset)
+best_lambda_ind=which.max(b$y)
+best_lambda=b$x[best_lambda_ind]
+best_lambda
+g4=lm((mpg^best_lambda-1)/best_lambda ~ weight + horsepower, data = dataset)
+summary(g4)
+
+#la funzione di mpg che modelliziamo è: 
+
+
+#validità modello
+
+#errori normali
+qqnorm(g4$res)
+qqline(g4$res)
+
+#shapiro test
+shapiro.test(g4$res)
+hist(g4$res)
+boxplot(g4$res)
+
+#omoschedasticità
+plot(g4$fit,g4$res)
+plot(g4,which=1)
+
+
+#il modello per essere interpretato meglio può essere scritto come 1/sqrt(mpg)
+g5=lm(1/sqrt(mpg) ~ weight + horsepower, data = dataset)
+summary(g5)
+
+#aumenta R2_adj
+
+#validità modello
+
+#errori normali
+qqnorm(g5$res)
+qqline(g5$res)
+
+#shapiro test
+shapiro.test(g5$res)
+hist(g5$res)
+boxplot(g5$res)
+
+#omoschedasticità
+plot(g5$fit,g5$res)
+plot(g5,which=1)
+
+#notiamo che anche i residui sono migliorati, abbiamo così validato il modello
+
+
+#analisi punti influenti
+
+#leverages
+p=g5$rank
+n=dim(dataset)[1]
+lev=hatvalues(g5)
+plot(g5$fitted.values,lev)
+abline(h=2*(p/n))
+watchout_points_lev=lev[which(lev>2*(p/n))]
+
+#residui standardizzati
+g5s=summary(g5)
+res_std=g5$res/g5s$sigma
+plot(g5$fitted.values,res_std)
+abline(h=c(-2,2))
+watchout_ids_rstd = which( abs( res_std ) > 2 )
+watchout_rstd = res_std[ watchout_ids_rstd ]
+watchout_rstd
+
+#residui studentizzati
+stud=rstandard(g5)
+plot(g5$fitted.values,stud)
+abline(h=c(-2,2))
+watchout_ids_stud = which( abs( stud ) > 2 )
+watchout_stud = stud[ watchout_ids_stud ]
+watchout_stud
+
+#errori standardizzati uguali a quelli studentizzati
+
+#grafico che considera tutto
+x11()
+influencePlot(g5,id.method="identify",main="influential plot",sub="circle size is proportial to Cook's distance")
+
+
+
+plot(g5,which=5)
