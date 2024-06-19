@@ -5,7 +5,7 @@ library( leaps )
 library(MASS)
 library( GGally)
 library(rgl)
-
+a
 #primo modello 5 covariate
 ggpairs(dataset[,c('mpg','cylinders','displacement','weight','horsepower','acceleration','model.year')])
 g1 = lm( mpg ~ cylinders + displacement + weight + horsepower + acceleration + model.year, data = dataset )
