@@ -4,42 +4,80 @@ library( faraway )
 library( leaps )
 library(MASS)
 library( GGally)
+library(BAS)
+library( Matrix )
 library(rgl)
+library(corrplot)
+library(RColorBrewer)
 
-#primo modello 6 covariate
-ggpairs(dataset[,c('mpg','cylinders','displacement','weight','horsepower','acceleration','model.year')])
-g1 = lm( mpg ~ cylinders + displacement + weight + horsepower + acceleration + model.year, data = dataset )
+#quando devi prendere una percentuale di dati casuale in un dataset
+#n=nrow(dataset)
+#sample_size=round(0.24*n) #voglio il 24% dei dati presi a caso 
+#selected_rows=sample(1:n,sample_size)
+#dataset_new=dataset[selected_rows, ]
+
+#Nella colonna price ho rimosso 4 osservazioni che contenevano punti di domanda riga 74, 322, 611, 728
+
+#cambio i nomi delle colonne
+print(names(dataset)) #mostra i nomi delle colonne prima della modifica
+names(dataset)[names(dataset)=="V1"]="ID"
+names(dataset)[names(dataset)=="V2"]="Address"
+names(dataset)[names(dataset)=="V3"]="City"
+names(dataset)[names(dataset)=="V4"]="Postal_Code"
+names(dataset)[names(dataset)=="V5"]="Price"
+names(dataset)[names(dataset)=="V6"]="Area"
+names(dataset)[names(dataset)=="V7"]="Rooms"
+names(dataset)[names(dataset)=="V8"]="Lon"
+names(dataset)[names(dataset)=="V9"]="Lat"
+print(names(dataset)) #mostra i nomi delle colonne dopo la modifica
+
+dim(dataset)
+n=dim(dataset)
+n #920 osservazioni
+
+#Sistemare il dataset: ci sono dei punti di domanda in Price
+#sum(grepl("\\?",dataset$Price)) #4 punti di domanda
+#indice_riga=which(grepl("\\?",dataset$Price)) #trovo l'indice delle righe con punti di domanda
+#print(indice_riga)
+#dataset[indice_riga, ]
+#dataset=subset(dataset,!grepl("\\?",Price)) #cancello le righe con i punti di domanda
+#sum(grepl("\\?",dataset$Price)) #controllo quanti punti di domanda ci sono: ora zero
+
+#Facciamoci un'idea dei dati
+ggpairs(dataset[,c('Price','Area','Rooms','Lon','Lat')])
+summary(dataset) #mi serve la mediana della Lat per dopo
+mediana_Lat=52.36
+#Noto alta correlazione lineare con Area e Rooms, come ci asapettavamo, bassa invece in latitudine e longitudine
+
+
+#primo modello 4 covariate
+g1 = lm( Price ~ Area + Rooms + Lon + Lat, data = dataset )
 summary(g1)
-
-#R2=0.8087 R2_adj=0.8058
-#noto che quelle significative sono weight e model.year
+#R2=0.708 R2_adj=0.7068
+#noto che quelle significative sono Area e Rooms, bassa significatività con Lat
 
 #controllo correlazioni
-vif(g1) #noto che alcune sono sopra la soglia di 5/10
-cor(dataset$cylinders,dataset$displacement) #calcolo la correlazione tra queste 2, è alta quindi elimino il displacement
+vif(g1) #sotto ai livelli soglia di 5/10
+cor(dataset$Area,dataset$Rooms) #molto alta, non ci piace
 
-#secondo modello: levo accelerazione perchè dal ggpairs vedo che non influenza linearmente che non mi serve e displacement
-g2=lm(mpg ~ cylinders + weight + horsepower + model.year, data = dataset)
+#secondo modello: levo Lon perchè p-value alto
+g2 = lm( Price ~ Area + Rooms + Lat, data = dataset )
 summary(g2)
+#R2=0.7071 R2_adj=0.7062
+#Non molto significativa la Lat
 
-#R2=0.8079 R2_adj=0.806
-
-
-#terzo modello: noto che cylinders non ha impatto, la levo
-g3=lm(mpg ~ weight + horsepower + model.year, data = dataset)
+#terzo modello: provo a levare la Lat
+g3 = lm( Price ~ Area + Rooms, data = dataset )
 summary(g3)
+#R2=0.705 R2_adj=0.7044
+cor(dataset$Area,dataset$Rooms) #molto alta, non ci piace , proviamo a levarla perchè' il beta è negativo e questo non ha senso e aggiungere la Lat come categorica
 
-#R2=0.8079 R2_adj=0.8064
-
-#quarto modello: noto che horsepower non ha impatto, la levo
-g4=lm(mpg ~ weight + model.year, data = dataset)
+#quarto modello: provo a introdurre la Lat come categorica, considero 0 chi sono a sinistra della mediana della lat, 1 a destra
+dummy=ifelse(dataset$Lat<=mediana_Lat, 0,1)
+dummy=as.factor(dummy)
+g4 = lm( Price ~ Area + Lat + dummy + dummy*Lat, data = dataset )
 summary(g4)
-
-#R2=0.8079 R2_adj=0.8069
-
-#vif sotto al 5 (buono)
-vif(g4)
-
+#R2=0.7311 R2_adj=0.7299
 
 
 #validità modello
@@ -52,24 +90,23 @@ qqline(g4$res)
 
 #shapiro test
 shapiro.test(g4$res) #molto basso, quinndi rifiuto la normalità dei residui
-hist(g4$res) #noto anomalia sulla coda destra
-boxplot(g4$res) #noto anomalia sulla coda destra
+hist(g4$res) #noto anomalia sulle code
+boxplot(g4$res) #noto anomalia sulle code
 
 #omoschedasticità
 plot(g4$fit,g4$res)
-plot(g4,which=1) #sono in media attorno allo zero e non osserviamo pattern strani, tipo aumento o diminuzione, possiamo fare meglio dopo eliminando i punti influenti
+plot(g4,which=1) #sono in media attorno allo zero ma osserviamo un pattern ascendente
 
 
 
 #boxcox: cerchiamo di trovare un lambda che ci permetta di avere residui normali
-b=boxcox(mpg ~ weight + model.year, data = dataset)
+b=boxcox(g4, data = dataset)
 best_lambda_ind=which.max(b$y)
 best_lambda=b$x[best_lambda_ind]
 best_lambda
-g5=lm((mpg^best_lambda-1)/best_lambda ~ weight + model.year, data = dataset)
+g5 = lm( log(Price) ~ Area + Lat + dummy + dummy*Lat, data = dataset )
 summary(g5)
-
-#R2=0.8791 R2_adj=0.8785
+#R2=0.7118 R2_adj=0.7105
 
 #validità modello: vediamo se ora i residui sono normali
 
@@ -87,15 +124,15 @@ boxplot(g5$res)
 #lo shapiro test ha ancora p-value basso
 
 #omoschedasticità
-plot(g5$fit,g5$res) #sono in media attorno allo zero e non osserviamo pattern strani, tipo aumento o diminuzione, possiamo fare meglio dopo eliminando i punti influenti
+plot(g5$fit,g5$res) #sono in media attorno allo zero e che aumentano, proviamo ad individuare i punti influenti
 plot(g5,which=1)
 
 
 #analisi punti influenti
 
 #leverages
-p=g5$rank #p=3
-n=dim(dataset)[1] #n=398
+p=g5$rank #p=5
+n=dim(dataset)[1] #n=920
 lev=hatvalues(g5)
 plot(g5$fitted.values,lev)
 abline(h=2*(p/n))
@@ -129,3 +166,96 @@ influencePlot(g5,id.method="identify",main="influential plot",sub="circle size i
 
 
 plot(g5,which=5)
+
+
+g_post_lev <- lm( log(Price) ~ Area + Lat + dummy + dummy*Lat, dataset,subset = ( lev<2*p/n))
+summary(g_post_lev)
+
+#validità modello: vediamo se ora i residui sono normali
+
+#errori normali
+qqnorm(g_post_lev$res)
+qqline(g_post_lev$res)
+
+#ha ancora anomalia sulle code
+
+#shapiro test
+shapiro.test(g_post_lev$res)
+hist(g_post_lev$res)
+boxplot(g_post_lev$res)
+
+#lo shapiro test ha ancora p-value basso ma molto meglio rispetto a prima
+AIC(g_post_lev)
+
+
+
+g_post_rs <- lm( log(Price) ~ Area + Lat + dummy + dummy*Lat ,dataset, subset = ( abs(stud)<2 ) )
+summary( g_post_rs )
+
+#validità modello: vediamo se ora i residui sono normali
+
+#errori normali
+qqnorm(g_post_rs$res)
+qqline(g_post_rs$res)
+
+#ha ancora anomalia sulle code
+
+#shapiro test
+shapiro.test(g_post_rs$res)
+hist(g_post_rs$res)
+boxplot(g_post_rs$res)
+
+#lo shapiro test ha ancora p-value basso ma molto meglio rispetto a prima
+AIC(g_post_rs)
+
+
+g_post_both <- lm( log(Price) ~ Area + Lat + dummy + dummy*Lat ,dataset, subset = ( abs(stud)<2 | lev<2*p/n ))
+
+
+summary( g_post_both )
+
+
+#errori normali
+qqnorm(g_post_both$res)
+qqline(g_post_both$res)
+
+#ha ancora anomalia sulle code
+
+#shapiro test
+shapiro.test(g_post_both$res)
+hist(g_post_both$res)
+boxplot(g_post_both$res)
+
+#lo shapiro test ha ancora p-value basso ma molto meglio rispetto a prima
+AIC(g_post_both)
+
+
+
+par( mfrow = c( 1, 3 ) )
+plot( g5$fitted.values, res_std, pch = 16, xlab = 'Fitted values', 
+      ylab = 'Standardized residuals', main = 'Standardized residuals' )
+points( g5$fitted.values[ watchout_ids_rstd ], res_std[ watchout_ids_rstd], 
+        col = 'green', pch = 16 )
+plot( g5$fitted.values, stud, pch = 16, xlab = 'Fitted values', 
+      ylab = 'Studentized Residuals', main = 'Studentized Residuals' )
+points( g5$fitted.values[ watchout_ids_stud ], stud[ watchout_ids_stud ], 
+        col = 'pink', pch = 16 )
+plot( g5$fitted.values, lev, pch = 16, xlab = 'Fitted values', 
+      ylab = 'Leverages', main = 'Leverages' )
+points( g5$fitted.values[ watchout_ids_lev ], lev[ watchout_ids_lev ],
+        col = 'orange', pch = 16 )
+
+
+
+x11()
+influencePlot(g_post_rs,id.method="identify",main="influential plot",sub="circle size is proportial to Cook's distance")
+
+
+
+#ANOVA
+boxplot( Price ~ dummy, data=dataset )
+abline( h = mean( dataset$Price) )
+
+
+shapiro.test( dataset$Price [ dummy == 1 ] )$p
+Ps = tapply( Price, dummy, function( x ) ( shapiro.test( x )$p ) , data=dataset)
