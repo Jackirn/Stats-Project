@@ -1,408 +1,596 @@
-name,ratings,price,imgURL,camera,display,battery,storage,ram,processor,android_version
-"SAMSUNG Galaxy F13 (Sunrise Copper, 64 GB)",4.3,9499,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/x/s/-original-imagfhu6dcpdnqkh.jpeg?q=70,50,other_types,6000,64,4,not mentioned,12
-"SAMSUNG Galaxy F13 (Waterfall Blue, 128 GB)",4.3,10499,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/0/8/4/-original-imagfhu75eupxyft.jpeg?q=70,50,other_types,6000,128,4,not mentioned,12
-"SAMSUNG Galaxy F13 (Nightsky Green, 128 GB)",4.3,10499,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/a/i/v/-original-imagfhu6bdzhnmkz.jpeg?q=70,50,other_types,6000,128,4,not mentioned,12
-"SAMSUNG Galaxy F13 (Sunrise Copper, 128 GB)",4.3,10499,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/x/s/-original-imagfhu6dcpdnqkh.jpeg?q=70,50,other_types,6000,128,4,not mentioned,12
-"SAMSUNG Galaxy F23 5G (Aqua Blue, 128 GB)",4.3,15499,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/0/h/k/-original-imagcg22czc3ggvw.jpeg?q=70,50,other_types,5000,128,6,Snapdragon750GProcessor,12
-"SAMSUNG Galaxy F23 5G (Forest Green, 128 GB)",4.3,15499,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/o/p/z/-original-imagcg22pf79cgau.jpeg?q=70,50,other_types,5000,128,6,Snapdragon750GProcessor,12
-"SAMSUNG Galaxy F04 (Jade Purple, 64 GB)",4.2,6999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/7/p/9/-original-imaghgbyypzkzvud.jpeg?q=70,13,LCD,5000,64,4,not mentioned,12
-"SAMSUNG Galaxy F04 (Opal Green, 64 GB)",4.2,6999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/w/d/o/-original-imaghgbyhy6banxv.jpeg?q=70,13,LCD,5000,64,4,not mentioned,12
-"SAMSUNG Galaxy F14 5G (GOAT Green, 128 GB)",4.2,13990,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/j/i/k/galaxy-f14-5g-sm-e146bzggins-samsung-original-imagnzdkprfwj9hv.jpeg?q=70,50,LCD,6000,128,6,not mentioned,13
-"SAMSUNG Galaxy F23 5G (Copper Blush, 128 GB)",4.3,15499,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/f/c/v/-original-imagehzbaw2wugme.jpeg?q=70,50,other_types,5000,128,6,Snapdragon750GProcessor,12
-"SAMSUNG Galaxy F14 5G (OMG Black, 128 GB)",4.2,13990,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/j/b/r/galaxy-f14-5g-sm-e146bzkhins-samsung-original-imagnzdkvrt2sxrq.jpeg?q=70,50,LCD,6000,128,6,not mentioned,13
-"SAMSUNG Galaxy M04 (Dark Blue, 64 GB)",4.1,8093,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/9/n/h/galaxy-m04-sm-m045f-samsung-original-imagh8ghfyxznzyu.jpeg?q=70,13,other_types,5000,64,4,Heilo35P,12
-"SAMSUNG Galaxy F13 (Waterfall Blue, 64 GB)",4.3,9499,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/0/8/4/-original-imagfhu75eupxyft.jpeg?q=70,50,other_types,6000,64,4,not mentioned,12
-"SAMSUNG Galaxy M04 (Light Green, 64 GB)",4.1,8185,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/f/y/galaxy-m04-sm-m045f-samsung-original-imagh799vffkjf8t.jpeg?q=70,13,other_types,5000,64,4,Heilo35P,12
-"SAMSUNG Galaxy F14 5G (GOAT Green, 128 GB)",4.2,12990,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/j/i/k/galaxy-f14-5g-sm-e146bzggins-samsung-original-imagnzdkprfwj9hv.jpeg?q=70,50,LCD,6000,128,4,not mentioned,13
-"SAMSUNG Galaxy F14 5G (OMG Black, 128 GB)",4.2,12990,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/j/b/r/galaxy-f14-5g-sm-e146bzkhins-samsung-original-imagnzdkvrt2sxrq.jpeg?q=70,50,LCD,6000,128,4,not mentioned,13
-"SAMSUNG Galaxy F13 (Nightsky Green, 64 GB)",4.3,9499,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/a/i/v/-original-imagfhu6bdzhnmkz.jpeg?q=70,50,other_types,6000,64,4,not mentioned,12
-"SAMSUNG Galaxy M33 5G (Mystique Green, 128 GB)",4.2,16479,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/3/d/-original-imagdc8mjnhxbgxj.jpeg?q=70,50,other_types,6000,128,6,not mentioned,13
-"SAMSUNG Galaxy F14 5G (B.A.E. Purple, 128 GB)",4.2,13990,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/e/0/c/galaxy-f14-5g-sm-e146blvgins-samsung-original-imagnzdkxyfqhd6r.jpeg?q=70,13,LCD,6000,128,6,Heilo35P,12
-"SAMSUNG Galaxy M04 (Light Green, 128 GB)",4.1,9320,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/v/y/b/galaxy-m04-sm-m045f-samsung-original-imagmazrn5szgza8.jpeg?q=70,50,other_types,5000,128,4,not mentioned,12
-"SAMSUNG Galaxy M13 (Aqua Green, 128 GB)",4.2,13999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/a/0/o/-original-imagghc2rfwf6q9j.jpeg?q=70,0,other_types,6000,128,6,not mentioned,13
-"SAMSUNG GALAXY M13 5G (Midnight Blue, 128 GB)",4.1,14235,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/v/p/7/-original-imagghcyfszjbgzp.jpeg?q=70,50,other_types,5000,128,6,not mentioned,12
-"SAMSUNG Galaxy M33 5G (Mystique Green, 128 GB)",4.2,16479,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/3/d/-original-imagdc8mjnhxbgxj.jpeg?q=70,50,other_types,6000,128,6,not mentioned,1
-"SAMSUNG GALAXY M13 (Aqua Green, 64 GB)",4.2,11195,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/2/p/g/-original-imagkn6dk4pbcf4d.jpeg?q=70,50,other_types,6000,64,4,not mentioned,12
-"SAMSUNG GALAXY M13 (Midnight Blue, 128 GB)",4.2,12879,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/r/8/-original-imagghcfsdbuemmd.jpeg?q=70,50,other_types,6000,128,6,not mentioned,12
-"SAMSUNG Galaxy M33 5G (Emerald Brown, 128 GB)",4.2,17678,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/2/j/q/-original-imagge7hrnffunna.jpeg?q=70,50,other_types,6000,128,8,Heilo35P,12
-"SAMSUNG Galaxy M04 (Dark Blue, 128 GB)",4.1,10470,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/9/n/h/galaxy-m04-sm-m045f-samsung-original-imagh8ghfyxznzyu.jpeg?q=70,13,other_types,5000,128,4,not mentioned,12
-"SAMSUNG GALAXY M13 (Midnight Blue, 64 GB)",4.2,11199,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/r/8/-original-imagghcfsdbuemmd.jpeg?q=70,50,other_types,6000,64,4,not mentioned,12
-"SAMSUNG Galaxy M33 5G (Deep Ocean Blue, 128 GB)",4.2,16899,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/o/w/a/-original-imagdc87gdyremd3.jpeg?q=70,50,other_types,6000,128,6,not mentioned,12
-"SAMSUNG Galaxy A23 (Black, 128 GB)",4.2,17499,https://rukminim2.flixcart.com/image/312/312/l19m93k0/mobile/s/g/h/-original-imagcv8jdxumgvxy.jpeg?q=70,50,other_types,5000,128,6,not mentioned,12
-"SAMSUNG Galaxy S20 FE 5G (Cloud Mint, 128 GB)",4.2,27585,https://rukminim2.flixcart.com/image/312/312/kg15ocw0/mobile/f/q/g/samsung-galaxy-s20-fe-sm-g780fzgnins-original-imafwd2jzgfdejgc.jpeg?q=70,50,other_types,4500,128,8,not mentioned,12
-"SAMSUNG GALAXY M13 5G (Stardust Brown, 64 GB)",4.1,12830,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/j/6/n/-original-imagghbz5jffndyy.jpeg?q=70,48,other_types,5000,64,4,"Dimensity1080,",13
-"SAMSUNG GALAXY M13 (Midnight Blue, 64 GB)",4.2,11599,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/r/8/-original-imagghcfsdbuemmd.jpeg?q=70,48,other_types,6000,64,4,"Dimensity1080,",13
-"SAMSUNG Galaxy S21 FE 5G (Graphite, 128 GB)",4.3,31999,https://rukminim2.flixcart.com/image/312/312/kzrbiq80/mobile/h/x/n/galaxy-s21-fe-5g-sm-g990ezaiinu-samsung-original-imagbpfzbrnueypq.jpeg?q=70,32,AMOLED,4500,128,8,not mentioned,12
-"SAMSUNG Galaxy S21 FE 5G (Lavender, 128 GB)",4.3,31999,https://rukminim2.flixcart.com/image/312/312/kzpw2vk0/mobile/u/o/q/galaxy-s21-fe-5g-lavender-8gb-128gb-storage-sm-g990elviinu-original-imagbnbdaj3tygup.jpeg?q=70,50,AMOLED,4500,128,8,not mentioned,12
-"SAMSUNG GALAXY M13 5G (?Stardust Brown, 128 GB)",4.1,14298,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/j/6/n/-original-imagghbz5jffndyy.jpeg?q=70,32,other_types,5000,128,6,not mentioned,12
-"SAMSUNG Galaxy A34 5G (Awesome Violet, 128 GB)",4.2,30999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/7/j/y/galaxy-a34-5g-sm-a346elvcins-samsung-original-imagnpz5dhysxrgw.jpeg?q=70,48,other_types,5000,128,8,"Dimensity1080,",13
-"SAMSUNG Galaxy S21 FE 5G (White, 128 GB)",4.3,31999,https://rukminim2.flixcart.com/image/312/312/l30hmkw0/mobile/w/j/o/galaxy-s21-fe-5g-sm-g990ewziinu-samsung-original-image8dzwv3bch4k.jpeg?q=70,32,AMOLED,4500,128,8,not mentioned,12
-"SAMSUNG GALAXY M13 (Stardust Brown, 128 GB)",4.2,12894,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/d/h/f/-original-imagghcfzz2n8gxc.jpeg?q=70,50,other_types,6000,128,6,not mentioned,12
-"SAMSUNG Galaxy S20 FE 5G (Cloud Navy, 128 GB)",4.2,27440,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/a/m/w/-original-imag47fdfgmg2gnh.jpeg?q=70,12,other_types,4500,128,8,not mentioned,10
-"SAMSUNG Galaxy A13 (Peach, 128 GB)",4.2,16499,https://rukminim2.flixcart.com/image/312/312/l19m93k0/mobile/w/g/x/-original-imagcv74zmfuu3cx.jpeg?q=70,50,other_types,5000,128,6,not mentioned,12
-"SAMSUNG Galaxy A23 5G (Light Blue, 128 GB)",3.8,23990,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/e/d/r/-original-imagmym54wrhzgpn.jpeg?q=70,50,LCD,5000,128,8,Snapdragon695,12
-"SAMSUNG Galaxy A14 5G (Black, 128 GB)",4.0,17999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/p/w/b/-original-imagmefcaj26vdhg.jpeg?q=70,50,LCD,5000,128,6,not mentioned,13
-"SAMSUNG Galaxy A04s (Copper, 64 GB)",4.1,12499,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/5/v/a/-original-imaghufzhr9hhhnj.jpeg?q=70,50,other_types,5000,64,4,not mentioned,12
-"SAMSUNG GALAXY M13 5G (Aqua Green, 128 GB)",4.1,14049,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/z/u/a/-original-imagghcygdr6gngh.jpeg?q=70,50,other_types,5000,128,6,not mentioned,12
-"SAMSUNG Galaxy M33 5G (Emerald Brown, 128 GB)",4.2,16790,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/v/k/p/galaxy-m33-5g-sm-m336bzgpins-samsung-original-imagqutjgrhgcvry.jpeg?q=70,50,other_types,6000,128,6,not mentioned,12
-"SAMSUNG GALAXY M13 5G (Aqua Green, 64 GB)",4.1,12730,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/z/u/a/-original-imagghcygdr6gngh.jpeg?q=70,50,other_types,5000,64,4,not mentioned,12
-"SAMSUNG Galaxy A03 Core (Onyx, 32 GB)",4.1,6990,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/j/7/q/galaxy-a03-core-sm-a032fck6ins-samsung-original-imagmb5kvceyb2yc.jpeg?q=70,8,other_types,5000,32,2,not mentioned,11
-"SAMSUNG Galaxy A14 5G (Dark Red, 128 GB)",4.1,19999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/6/c/5/-original-imagmefcgvntdtha.jpeg?q=70,50,LCD,5000,128,8,not mentioned,13
-"SAMSUNG Galaxy A14 5G (Dark Red, 128 GB)",4.0,17999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/6/c/5/-original-imagmefcgvntdtha.jpeg?q=70,50,LCD,5000,128,6,not mentioned,13
-"SAMSUNG Galaxy A14 5G (Black, 64 GB)",4.1,15999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/p/w/b/-original-imagmefcaj26vdhg.jpeg?q=70,50,LCD,5000,64,4,not mentioned,13
-"SAMSUNG Galaxy S20 FE (Cloud Mint, 128 GB)",4.0,27500,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/g/f/m/-original-imagkn6dw4vybxqz.jpeg?q=70,12,other_types,4500,128,8,not mentioned,10
-"SAMSUNG Galaxy A04e (Light Blue, 64 GB)",4.2,9999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/y/j/q/-original-imagh2pzwytdknpx.jpeg?q=70,13,LCD,5000,64,3,not mentioned,13
-"SAMSUNG Galaxy A14 5G (Black, 128 GB)",4.1,19999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/p/w/b/-original-imagmefcaj26vdhg.jpeg?q=70,50,LCD,5000,128,8,not mentioned,13
-"SAMSUNG Galaxy A14 5G (Black, 64 GB)",4.1,15999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/p/w/b/-original-imagmefcaj26vdhg.jpeg?q=70,50,LCD,5000,64,4,not mentioned,12
-"SAMSUNG Galaxy A04 (Black, 128 GB)",4.0,11990,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/7/3/k/-original-imagh2prjymxvgqz.jpeg?q=70,50,LCD,5000,128,4,Gen8,13
-"SAMSUNG Galaxy S23 Plus 5G (Cream, 256 GB)",4.5,29463,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/8/c/x/-original-imagmg6gy7x3xwcg.jpeg?q=70,50,HD+ AMOLED,4700,256,8,Snapdragon750GProcessor,12
-"SAMSUNG Galaxy F23 5G (Aqua Blue, 128 GB)",4.2,14499,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/0/h/k/-original-imagcg22czc3ggvw.jpeg?q=70,50,other_types,5000,128,4,not mentioned,12
-"SAMSUNG Galaxy A04s (Green, 64 GB)",4.1,12499,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/g/z/y/-original-imaghufz2jt46n8v.jpeg?q=70,50,other_types,5000,64,4,not mentioned,12
-"SAMSUNG Galaxy A23 (Peach, 128 GB)",4.2,17499,https://rukminim2.flixcart.com/image/312/312/l19m93k0/mobile/5/k/x/-original-imagcv8jubmd9pb6.jpeg?q=70,50,other_types,5000,128,6,not mentioned,12
-"SAMSUNG Galaxy A04 (Green, 128 GB)",4.0,12999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/l/y/-original-imagh2pqyvzjnc5y.jpeg?q=70,50,LCD,5000,128,4,Snapdragon888,11
-"SAMSUNG Galaxy A04s (Black, 64 GB)",4.1,12499,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/d/q/t/-original-imaghufzepfjunmu.jpeg?q=70,50,other_types,5000,64,4,not mentioned,12
-"SAMSUNG Galaxy A13 (Green, 128 GB)",4.2,16295,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/f/e/o/-original-imaggy3yrdqzsvfc.jpeg?q=70,50,other_types,5000,128,6,not mentioned,11
-"SAMSUNG Galaxy A03 Core (Green, 32 GB)",4.1,8403,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/9/v/9/galaxy-a03-core-sm-a032fzkdins-sm-a032fzk5ins-samsung-original-imaghzxw2uuxuftu.jpeg?q=70,8,LCD,5000,32,2,not mentioned,13
-"SAMSUNG Galaxy A14 5G (Light Green, 128 GB)",4.1,19999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/v/l/g/-original-imagmefctrqmqjrp.jpeg?q=70,50,LCD,5000,128,8,Snapdragon750GProcessor,12
-"SAMSUNG Galaxy F23 5G (Forest Green, 128 GB)",4.2,14499,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/o/p/z/-original-imagcg22pf79cgau.jpeg?q=70,50,other_types,5000,128,4,not mentioned,11
-"SAMSUNG Galaxy M12 (White, 64 GB)",4.2,10999,https://rukminim2.flixcart.com/image/312/312/kmjhw280/mobile/l/i/s/galaxy-m12-galaxy-m12-samsung-original-imagffyujuzhbuz7.jpeg?q=70,48,other_types,6000,64,4,Snapdragon720GProcessor,11
-"SAMSUNG Galaxy A52 (Awesome Blue, 128 GB)",4.3,25980,https://rukminim2.flixcart.com/image/312/312/kmf7ki80/mobile/s/z/a/galaxy-a52-sm-a525fzbgins-samsung-original-imagfb4xdvtk8zzb.jpeg?q=70,64,HD+ AMOLED,4500,128,6,not mentioned,12
-"SAMSUNG Galaxy A23 (Blue, 128 GB)",4.3,19990,https://rukminim2.flixcart.com/image/312/312/l19m93k0/mobile/h/3/u/-original-imagcv8jfcrdu8jv.jpeg?q=70,50,other_types,5000,128,8,not mentioned,13
-"SAMSUNG Galaxy A14 5G (Light Green, 64 GB)",4.1,15999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/v/l/g/-original-imagmefctrqmqjrp.jpeg?q=70,50,LCD,5000,64,4,not mentioned,11
-"SAMSUNG Galaxy M12 (Black, 64 GB)",4.2,12498,https://rukminim2.flixcart.com/image/312/312/kmjhw280/mobile/0/n/y/galaxy-m12-galaxy-m12-samsung-original-imagffyz6hhrw5s5.jpeg?q=70,48,other_types,6000,64,4,not mentioned,13
-"SAMSUNG Galaxy A14 5G (Dark Red, 64 GB)",4.1,15999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/6/c/5/-original-imagmefcgvntdtha.jpeg?q=70,50,LCD,5000,64,4,not mentioned,13
-"SAMSUNG Galaxy A23 5G (Orange, 128 GB)",4.1,21999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/p/g/-original-imagm2jtdqagpcfe.jpeg?q=70,50,LCD,5000,128,6,Snapdragon695,12
-"SAMSUNG Galaxy A23 5G (Silver, 128 GB)",4.1,21999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/f/g/i/-original-imagmfhbbex3ubzy.jpeg?q=70,50,LCD,5000,128,6,Snapdragon695,12
-"SAMSUNG Galaxy A03 Core (Bronze, 32 GB)",4.1,7199,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/3/j/k/galaxy-a03-core-sm-a032fzcdins-samsung-original-imagks7mvgp7syja.jpeg?q=70,8,LCD,5000,32,2,not mentioned,11
-"SAMSUNG Galaxy Z Flip4 5G (Graphite, 256 GB)",3.7,29463,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/q/u/o/-original-imagh7nnpy9wgyzh.jpeg?q=70,12,HD+ AMOLED,3700,256,8,Snapdragon1P,12
-"SAMSUNG Galaxy A03 (Black, 32 GB)",4.1,9400,https://rukminim2.flixcart.com/image/312/312/l0sgyvk0/mobile/i/v/i/-original-imagchh8dyfquhfj.jpeg?q=70,48,other_types,5000,32,3,not mentioned,11
-"SAMSUNG Galaxy A23 5G (Silver, 128 GB)",3.8,23999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/f/g/i/-original-imagmfhbbex3ubzy.jpeg?q=70,50,LCD,5000,128,8,Snapdragon695,12
-"SAMSUNG Galaxy A34 5G (Awesome Silver, 128 GB)",4.2,30999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/e/l/l/galaxy-a34-5g-sm-a346ezseins-samsung-original-imagnpz4fqyfqzqq.jpeg?q=70,48,other_types,5000,128,8,"Dimensity1080,",13
-"SAMSUNG Galaxy F62 (Laser Blue, 128 GB)",4.3,31999,https://rukminim2.flixcart.com/image/312/312/klb78nk0/mobile/a/j/b/galaxy-f62-sm-e625fzbdins-samsung-original-imagygxtmgavmhbm.jpeg?q=70,64,HD+ AMOLED,7000,128,8,not mentioned,11
-"SAMSUNG Galaxy S20 FE 5G (Cloud Navy, 128 GB)",4.2,27995,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/j/h/r/galaxy-s20-fe-5g-sm-g781b-ds-samsung-original-imagqhqyetny3sxq.jpeg?q=70,12,other_types,4500,128,8,not mentioned,10
-"SAMSUNG Galaxy M53 5G (Deep Ocean Blue, 128 GB)",4.0,29999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/g/o/0/-original-imagfzjymhrwrebm.jpeg?q=70,108,other_types,5000,128,8,not mentioned,12
-"SAMSUNG Galaxy A03 Core (Black, 32 GB)",4.1,7189,https://rukminim2.flixcart.com/image/312/312/kwqq1zk0/mobile/j/0/f/-original-imag9cm79ubcv4bd.jpeg?q=70,8,LCD,5000,32,2,not mentioned,11
-"SAMSUNG Galaxy S22 Ultra 5G (Green, 256 GB)",4.3,17964,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/g/h/2/-original-imaggj68pbbezxcr.jpeg?q=70,108,AMOLED,5000,256,12,not mentioned,12
-"SAMSUNG GALAXY M13 (Stardust Brown, 64 GB)",4.2,10490,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/d/h/f/-original-imagghcfzz2n8gxc.jpeg?q=70,50,other_types,6000,64,4,not mentioned,12
-"SAMSUNG Galaxy M12 (Black, 64 GB)",4.2,12498,https://rukminim2.flixcart.com/image/312/312/kmjhw280/mobile/0/n/y/galaxy-m12-galaxy-m12-samsung-original-imagffyz6hhrw5s5.jpeg?q=70,48,other_types,6000,64,4,not mentioned,11
-"SAMSUNG Galaxy A34 5G (Awesome Graphite, 128 GB)",4.2,30999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/a/a/v/galaxy-a34-5g-sm-a346ezkeins-samsung-original-imagnpz4h7xg6pgg.jpeg?q=70,48,other_types,5000,128,8,"Dimensity1080,",13
-"SAMSUNG Galaxy S22 Ultra 5G (Phantom Black, 256 GB)",4.3,19464,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/w/t/r/-original-imaggj68cgtdacxn.jpeg?q=70,108,AMOLED,5000,256,12,not mentioned,12
-"SAMSUNG Galaxy S23 5G (Green, 256 GB)",4.5,14463,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/s/j/p/-original-imagmg6gmq9kzq9j.jpeg?q=70,50,HD+ AMOLED,3900,256,8,Gen8,13
-"SAMSUNG Galaxy S23 5G (Green, 128 GB)",4.5,9463,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/s/j/p/-original-imagmg6gmq9kzq9j.jpeg?q=70,50,HD+ AMOLED,3900,128,8,Gen8,13
-"SAMSUNG Galaxy A03 Core (Mint, 32 GB)",4.1,7199,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/s/v/p/galaxy-a03-core-sm-a032flgd-samsung-original-imagg6h7sqygbdcs.jpeg?q=70,8,other_types,5000,32,2,not mentioned,11
-"SAMSUNG Galaxy S23 5G (Lavender, 256 GB)",4.5,14463,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/g/l/3/-original-imagmg6gyu3zemex.jpeg?q=70,50,HD+ AMOLED,3900,256,8,Gen8,13
-"SAMSUNG Galaxy M32 (Black, 64 GB)",4.2,14999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/w/p/v/-original-imag4pfhmcgbhtuv.jpeg?q=70,64,other_types,6000,64,4,not mentioned,11
-"SAMSUNG Galaxy S23 5G (Phantom Black, 128 GB)",4.5,9463,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/7/r/-original-imagmg6gyxbn4md9.jpeg?q=70,50,HD+ AMOLED,3900,128,8,Gen8,13
-"SAMSUNG Galaxy S23 5G (Phantom Black, 256 GB)",4.5,14463,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/7/r/-original-imagmg6gyxbn4md9.jpeg?q=70,50,HD+ AMOLED,3900,256,8,Gen8,13
-"SAMSUNG Galaxy A34 5G (Awesome Lime, 128 GB)",4.2,30999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/0/h/m/galaxy-a34-5g-sm-a346elgains-samsung-original-imagnpz52hphfccb.jpeg?q=70,48,other_types,5000,128,8,"Dimensity1080,",13
-"SAMSUNG Galaxy A13 (Black, 128 GB)",4.2,16499,https://rukminim2.flixcart.com/image/312/312/l19m93k0/mobile/g/q/o/-original-imagcv74epgf4fya.jpeg?q=70,50,other_types,5000,128,6,not mentioned,12
-"SAMSUNG Galaxy S23 5G (Cream, 256 GB)",4.5,14463,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/1/r/n/-original-imagmg6gyzgzzszt.jpeg?q=70,50,HD+ AMOLED,3900,256,8,Gen8,13
-"SAMSUNG Galaxy S23 5G (Cream, 128 GB)",4.5,9463,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/1/r/n/-original-imagmg6gyzgzzszt.jpeg?q=70,50,HD+ AMOLED,3900,128,8,Gen8,13
-"SAMSUNG Galaxy M11 (Metallic Blue, 64 GB)",4.2,12490,https://rukminim2.flixcart.com/image/312/312/kavefm80/mobile/w/u/z/samsung-galaxy-m11-sm-m115fmbeins-original-imafscgycugcewty.jpeg?q=70,13,LCD,5000,64,4,Snapdragon(SDM450-F01),10
-"SAMSUNG Galaxy A53 (Awesome White, 128 GB)",4.0,31999,https://rukminim2.flixcart.com/image/312/312/l3xcr680/mobile/u/j/j/-original-imagexezgtcfapss.jpeg?q=70,64,HD+ AMOLED,5000,128,6,not mentioned,12
-"SAMSUNG Galaxy S23 5G (Lavender, 128 GB)",4.5,9463,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/g/l/3/-original-imagmg6gyu3zemex.jpeg?q=70,50,HD+ AMOLED,3900,128,8,Gen8,13
-"SAMSUNG Galaxy F23 5G (Copper Blush, 128 GB)",4.2,14499,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/f/c/v/-original-imagehzbaw2wugme.jpeg?q=70,50,other_types,5000,128,4,Snapdragon750GProcessor,12
-"SAMSUNG Galaxy A33 (Awesome Blue, 128 GB)",4.1,27499,https://rukminim2.flixcart.com/image/312/312/l3xcr680/mobile/c/4/9/-original-imagexeyqhh6vwzk.jpeg?q=70,48,other_types,5000,128,8,not mentioned,12
-"SAMSUNG Galaxy A33 (Awesome Black, 128 GB)",4.1,27990,https://rukminim2.flixcart.com/image/312/312/l3xcr680/mobile/n/u/4/-original-imagexeyrcz5ckyy.jpeg?q=70,48,other_types,5000,128,8,not mentioned,12
-"SAMSUNG Galaxy M32 (Black, 128 GB)",4.2,14995,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/q/c/r/-original-imag4pfhh7mycw2u.jpeg?q=70,64,other_types,6000,128,6,not mentioned,11
-"SAMSUNG Galaxy M31 (Ocean Blue, 64 GB)",4.3,18999,https://rukminim2.flixcart.com/image/312/312/k7f34i80/mobile/h/e/4/samsung-galaxy-m31-sm-m315fzbdins-original-imafpnrzfeyrmq8a.jpeg?q=70,64,other_types,6000,64,6,not mentioned,10
-"SAMSUNG Galaxy A03 (Red, 32 GB)",4.1,9498,https://rukminim2.flixcart.com/image/312/312/l0sgyvk0/mobile/s/y/1/-original-imagchh82ezdsfca.jpeg?q=70,48,other_types,5000,32,3,not mentioned,11
-"SAMSUNG Galaxy A52 (Awesome Blue, 128 GB)",4.3,24990,https://rukminim2.flixcart.com/image/312/312/kmf7ki80/mobile/s/z/a/galaxy-a52-sm-a525fzbgins-samsung-original-imagfb4xdvtk8zzb.jpeg?q=70,64,HD+ AMOLED,4500,128,8,Snapdragon720GProcessor,11
-"SAMSUNG Galaxy A23 5G (Orange, 128 GB)",3.8,23999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/p/g/-original-imagm2jtdqagpcfe.jpeg?q=70,50,LCD,5000,128,8,Snapdragon695,12
-"SAMSUNG Galaxy A04e (Copper, 64 GB)",4.2,9999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/s/y/r/-original-imagh2pqgpzrajbp.jpeg?q=70,13,LCD,5000,64,3,not mentioned,12
-"SAMSUNG Galaxy M34 5G without charger (Prism Silver, 128 GB)",4.3,21399,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/p/i/g/galaxy-m34-5g-without-charger-sm-m346b-samsung-original-imagrhrhbuja8grh.jpeg?q=70,50,other_types,6000,128,6,not mentioned,13
-"SAMSUNG Galaxy F62 (Laser Green, 128 GB)",4.2,25999,https://rukminim2.flixcart.com/image/312/312/klb78nk0/mobile/m/2/k/galaxy-f62-sm-e625fzggins-samsung-original-imagygxxse8gbaby.jpeg?q=70,64,HD+ AMOLED,7000,128,8,not mentioned,11
-"SAMSUNG Galaxy M32 5G (Slate Black, 128 GB)",4.2,20999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/z/t/1/-original-imag6jm69crass7p.jpeg?q=70,48,other_types,5000,128,8,Dimensity720,11
-"SAMSUNG Galaxy M12 (Blue, 64 GB)",4.3,10999,https://rukminim2.flixcart.com/image/312/312/kmjhw280/mobile/h/k/v/galaxy-m12-galaxy-m12-samsung-original-imagffy3wzrmy7ep.jpeg?q=70,48,other_types,6000,64,4,not mentioned,11
-"SAMSUNG Galaxy S22 Ultra 5G (Phantom Black, 256 GB)",4.3,20463,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/w/t/r/-original-imaggj68cgtdacxn.jpeg?q=70,108,AMOLED,5000,256,12,not mentioned,12
-"SAMSUNG Galaxy M12 (Blue, 128 GB)",4.3,15499,https://rukminim2.flixcart.com/image/312/312/kmwcuq80/mobile/7/p/5/galaxy-m12-galaxy-m12-samsung-original-imagfzuhqtn5kpvj.jpeg?q=70,48,other_types,6000,128,6,not mentioned,11
-"SAMSUNG Galaxy F12 (Sky Blue, 64 GB)",4.1,10890,https://rukminim2.flixcart.com/image/312/312/kn22m4w0/mobile/9/k/s/galaxy-f12-sm-f127glbiins-samsung-original-imagftmhhhvghq7w.jpeg?q=70,48,other_types,6000,64,4,not mentioned,11
-"SAMSUNG A52s 5G (Awesome Black, 128 GB)",4.0,30990,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/6/h/n/a52s-5g-sm-a528b-ds-samsung-original-imaghg2dewy5p2j5.jpeg?q=70,64,other_types,4500,128,6,not mentioned,11
-"SAMSUNG Galaxy S20 FE (Cloud Lavender, 128 GB)",4.0,27944,https://rukminim2.flixcart.com/image/312/312/kg15ocw0/mobile/j/n/e/samsung-galaxy-s20-fe-sm-g780flvnins-original-imafwd2jr9hyc77a.jpeg?q=70,32,HD+ AMOLED,4500,128,8,not mentioned,10
-"SAMSUNG Galaxy A53 (Awesome Blue, 128 GB)",4.1,31999,https://rukminim2.flixcart.com/image/312/312/l3xcr680/mobile/a/x/k/-original-imagexezkeefuadb.jpeg?q=70,64,HD+ AMOLED,5000,128,6,not mentioned,12
-"SAMSUNG Galaxy A03 (Blue, 32 GB)",4.0,8991,https://rukminim2.flixcart.com/image/312/312/l0sgyvk0/mobile/z/4/7/-original-imagchh89wufbej2.jpeg?q=70,48,other_types,5000,32,3,not mentioned,11
-"SAMSUNG Galaxy A03s (Blue, 32 GB)",4.1,11499,https://rukminim2.flixcart.com/image/312/312/ksgehzk0/mobile/x/q/1/galaxy-a03s-sm-a037fzbgins-sm-a037fzb6ins-samsung-original-imag6ygnvtkhgjzg.jpeg?q=70,13,LCD,5000,32,3,Heilo356765,11
-"SAMSUNG Galaxy F42 5G (Matte Aqua, 128 GB)",4.1,22999,https://rukminim2.flixcart.com/image/312/312/ku4ezrk0/mobile/6/z/p/galaxy-f42-5g-sm-e426bzbgins-samsung-original-imag7anfz8jzxkv4.jpeg?q=70,64,other_types,5000,128,8,Dimensity700,11
-"SAMSUNG Galaxy A03 Core (Green, 32 GB)",4.2,8403,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/9/v/9/galaxy-a03-core-sm-a032fzkdins-sm-a032fzk5ins-samsung-original-imaghzxw2uuxuftu.jpeg?q=70,8,LCD,5000,32,2,not mentioned,11
-"SAMSUNG Galaxy A34 5G (Awesome Silver, 256 GB)",4.0,31990,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/e/l/l/galaxy-a34-5g-sm-a346ezseins-samsung-original-imagnpz4fqyfqzqq.jpeg?q=70,48,other_types,5000,256,8,"Dimensity1080,",13
-"SAMSUNG Galaxy A03s (Black, 32 GB)",4.4,11499,https://rukminim2.flixcart.com/image/312/312/ksgehzk0/mobile/f/c/e/galaxy-a03s-sm-a037fzkdins-sm-a037fzk5ins-samsung-original-imag6ygmysu8ec7n.jpeg?q=70,13,LCD,5000,32,3,Heilo356765,11
-"SAMSUNG Galaxy A03s (Black, 64 GB)",4.3,14499,https://rukminim2.flixcart.com/image/312/312/ksgehzk0/mobile/f/c/e/galaxy-a03s-sm-a037fzkdins-sm-a037fzk5ins-samsung-original-imag6ygmysu8ec7n.jpeg?q=70,13,LCD,5000,64,4,Heilo356765,11
-"SAMSUNG Galaxy F12 (Sea Green, 64 GB)",4.2,10890,https://rukminim2.flixcart.com/image/312/312/kn22m4w0/mobile/a/q/8/galaxy-f12-sm-f127gzgiins-samsung-original-imagftmjw3xqg4yk.jpeg?q=70,48,other_types,6000,64,4,not mentioned,11
-"SAMSUNG A04 e (Copper, 64 GB)",4.1,9999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/h/g/a04-e-sm-a042fzck-samsung-original-imagh8hxsfkstsxz.jpeg?q=70,13,other_types,5000,64,3,Heilo67653512,4
-"SAMSUNG Galaxy A03 (Red, 32 GB)",3.7,9498,https://rukminim2.flixcart.com/image/312/312/l0sgyvk0/mobile/s/y/1/-original-imagchh82ezdsfca.jpeg?q=70,48,other_types,5000,32,3,not mentioned,11
-"SAMSUNG Galaxy M53 5G (Deep Ocean Blue, 128 GB)",4.2,26999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/g/o/0/-original-imagfzjymhrwrebm.jpeg?q=70,108,other_types,5000,128,6,not mentioned,12
-"SAMSUNG Galaxy A50 (Black, 64 GB)",4.3,21000,https://rukminim2.flixcart.com/image/312/312/jsyyufk0/mobile/e/9/v/samsung-galaxy-a50-sm-a505fzkgins-original-imafefgh2bgdetj4.jpeg?q=70,25,AMOLED,4000,64,4,not mentioned,9
-"SAMSUNG Galaxy A13 (Black, 128 GB)",4.1,14999,https://rukminim2.flixcart.com/image/312/312/l19m93k0/mobile/g/q/o/-original-imagcv74epgf4fya.jpeg?q=70,50,other_types,5000,128,4,not mentioned,12
-"SAMSUNG Galaxy A34 5G (Awesome Lime, 128 GB)",4.3,28999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/0/h/m/galaxy-a34-5g-sm-a346elgains-samsung-original-imagnpz52hphfccb.jpeg?q=70,48,other_types,5000,128,6,"Dimensity1080,",13
-"SAMSUNG Galaxy A03 Core (Blue, 32 GB)",4.1,8150,https://rukminim2.flixcart.com/image/312/312/kwqq1zk0/mobile/v/5/d/-original-imag9cm5hydfgjjw.jpeg?q=70,8,LCD,5000,32,2,not mentioned,11
-"SAMSUNG Galaxy A12 (Blue, 64 GB)",4.2,14999,https://rukminim2.flixcart.com/image/312/312/klb78nk0/mobile/p/y/q/galaxy-a12-sm-a125fzbhins-samsung-original-imagyg84zadwb7xx.jpeg?q=70,48,LCD,5000,64,4,Heilo356765,10
-"SAMSUNG Galaxy A32 (Awesome Black, 128 GB)",4.2,20999,https://rukminim2.flixcart.com/image/312/312/kwmfqfk0/mobile/l/p/m/-original-imag98zngkzwaxkk.jpeg?q=70,64,AMOLED,5000,128,8,Heilo80P,11
-"SAMSUNG Galaxy A14 (Silver, 64 GB)",3.9,13999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/8/5/z/galaxy-a14-sm-a145fzsdins-samsung-original-imagq6cp4mbhejzn.jpeg?q=70,50,LCD,5000,64,4,not mentioned,13
-"SAMSUNG Galaxy A33 (Awesome Peach, 128 GB)",4.1,25999,https://rukminim2.flixcart.com/image/312/312/l3xcr680/mobile/q/6/v/-original-imagexfy6u2f6h3f.jpeg?q=70,48,other_types,5000,128,6,not mentioned,12
-"SAMSUNG Galaxy A04e (Copper, 128 GB)",4.1,11499,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/s/y/r/-original-imagh2pqgpzrajbp.jpeg?q=70,13,LCD,5000,128,4,not mentioned,12
-"SAMSUNG Galaxy M14 5G (Icy Silver, 128 GB)",4.2,16490,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/6/2/5/galaxy-m14-5g-sm-m146b-samsung-original-imagzwrqnpzujxks.jpeg?q=70,50,other_types,6000,128,6,not mentioned,13
-"SAMSUNG Galaxy A14 (Black, 64 GB)",3.9,13999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/9/n/3/galaxy-a14-sm-a145fzkdins-samsung-original-imagq6czznggphyk.jpeg?q=70,50,LCD,5000,64,4,not mentioned,13
-"SAMSUNG Galaxy M14 5G (Smoky Teal, 128 GB)",4.2,14989,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/e/6/d/galaxy-m14-5g-sm-m146b-samsung-original-imagzvnkybtue5da.jpeg?q=70,50,other_types,6000,128,4,not mentioned,13
-"SAMSUNG Galaxy A52 (Awesome Blue, 128 GB)",4.3,25989,https://rukminim2.flixcart.com/image/312/312/kmf7ki80/mobile/s/z/a/galaxy-a52-sm-a525fzbgins-samsung-original-imagfb4xdvtk8zzb.jpeg?q=70,64,HD+ AMOLED,4500,128,6,Snapdragon720GProcessor,11
-"SAMSUNG Galaxy Z Flip4 5G (Pink Gold, 256 GB)",3.7,29463,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/e/d/-original-imagh7nnemnbgtts.jpeg?q=70,12,HD+ AMOLED,3700,256,8,Snapdragon1P,12
-"SAMSUNG Galaxy A34 5G (Awesome Silver, 128 GB)",4.3,28700,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/e/l/l/galaxy-a34-5g-sm-a346ezseins-samsung-original-imagnpz4fqyfqzqq.jpeg?q=70,48,other_types,5000,128,6,"Dimensity1080,",13
-"SAMSUNG Galaxy F12 (Sky Blue, 128 GB)",4.3,11990,https://rukminim2.flixcart.com/image/312/312/kn22m4w0/mobile/9/k/s/galaxy-f12-sm-f127glbiins-samsung-original-imagftmhhhvghq7w.jpeg?q=70,48,other_types,6000,128,4,not mentioned,11
-"SAMSUNG Galaxy A34 5G (Awesome Violet, 128 GB)",4.3,28999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/7/j/y/galaxy-a34-5g-sm-a346elvcins-samsung-original-imagnpz5dhysxrgw.jpeg?q=70,48,other_types,5000,128,6,"Dimensity1080,",13
-"SAMSUNG M32 5G (Slate Black, 128 GB)",4.1,16999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/z/t/1/-original-imag6jm69crass7p.jpeg?q=70,48,other_types,5000,128,6,Dimensity720,11
-"SAMSUNG Galaxy M31s (Mirage Black, 128 GB)",4.2,22898,https://rukminim2.flixcart.com/image/312/312/keekmfk0/mobile/n/g/p/samsung-galaxy-m31s-sm-m317fzkdins-original-imafv3py9qnwfeft.jpeg?q=70,64,other_types,6000,128,6,not mentioned,10
-"SAMSUNG Galaxy A34 5G (Awesome Graphite, 128 GB)",4.3,28999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/a/a/v/galaxy-a34-5g-sm-a346ezkeins-samsung-original-imagnpz4h7xg6pgg.jpeg?q=70,48,other_types,5000,128,6,"Dimensity1080,",13
-"SAMSUNG Galaxy A04 (Black, 64 GB)",4.0,11199,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/7/3/k/-original-imagh2prjymxvgqz.jpeg?q=70,50,LCD,5000,64,4,not mentioned,12
-"SAMSUNG Galaxy A04 (Copper, 128 GB)",4.0,12799,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/m/s/7/-original-imagh2pzxpvggmah.jpeg?q=70,50,LCD,5000,128,4,not mentioned,12
-"SAMSUNG Galaxy A22 (Black, 128 GB)",4.2,20499,https://rukminim2.flixcart.com/image/312/312/krtjgcw0/mobile/m/r/e/galaxy-a22-sm-a225fzkrins-samsung-original-imag5j58wyhkdgtt.jpeg?q=70,48,AMOLED,5000,128,6,Heilo806769,11
-"SAMSUNG Galaxy M12 (Blue, 128 GB)",4.2,15499,https://rukminim2.flixcart.com/image/312/312/kmwcuq80/mobile/7/p/5/galaxy-m12-galaxy-m12-samsung-original-imagfzuhqtn5kpvj.jpeg?q=70,48,other_types,6000,128,6,not mentioned,11
-"SAMSUNG Galaxy Z Flip4 5G (Graphite, 128 GB)",3.7,24463,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/q/u/o/-original-imagh7nnpy9wgyzh.jpeg?q=70,12,HD+ AMOLED,3700,128,8,Snapdragon1P,12
-"SAMSUNG Galaxy A33 (Awesome Black, 128 GB)",4.1,27699,https://rukminim2.flixcart.com/image/312/312/l3xcr680/mobile/n/u/4/-original-imagexeyrcz5ckyy.jpeg?q=70,48,other_types,5000,128,6,not mentioned,12
-"SAMSUNG Galaxy A23 (Black, 128 GB)",4.3,18790,https://rukminim2.flixcart.com/image/312/312/l19m93k0/mobile/s/g/h/-original-imagcv8jdxumgvxy.jpeg?q=70,50,other_types,5000,128,8,not mentioned,12
-"SAMSUNG A04 E (Copper, 128 GB)",4.1,11499,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/h/g/a04-e-sm-a042fzck-samsung-original-imagh8hxsfkstsxz.jpeg?q=70,13,other_types,5000,128,4,not mentioned,4
-"SAMSUNG Galaxy A04e (Light Blue, 128 GB)",4.1,11499,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/y/j/q/-original-imagh2pzwytdknpx.jpeg?q=70,13,LCD,5000,128,4,not mentioned,12
-"SAMSUNG Galaxy A52 (Awesome Black, 128 GB)",4.3,24999,https://rukminim2.flixcart.com/image/312/312/kmf7ki80/mobile/r/z/1/galaxy-a52-sm-a525fzkhins-samsung-original-imagfb4vgf9eez3j.jpeg?q=70,64,HD+ AMOLED,4500,128,6,Snapdragon720GProcessor,11
-"SAMSUNG Galaxy A13 (Black, 64 GB)",4.1,18490,https://rukminim2.flixcart.com/image/312/312/l19m93k0/mobile/g/q/o/-original-imagcv74epgf4fya.jpeg?q=70,50,other_types,5000,64,4,not mentioned,12
-"SAMSUNG Galaxy J6 (Blue, 64 GB)",4.5,9999,https://rukminim2.flixcart.com/image/312/312/jjelq4w0/mobile/w/n/8/samsung-galaxy-j6-sm-j600gzbgins-original-imaf6zpf6q8tjcva.jpeg?q=70,13,other_types,3000,64,4,not mentioned,8
-"SAMSUNG Galaxy A13 (Blue, 128 GB)",4.2,16499,https://rukminim2.flixcart.com/image/312/312/l19m93k0/mobile/q/u/z/-original-imagcv74cev7ges4.jpeg?q=70,50,other_types,5000,128,6,not mentioned,12
-"SAMSUNG Galaxy F12 (Sea Green, 128 GB)",4.3,12990,https://rukminim2.flixcart.com/image/312/312/kn22m4w0/mobile/a/q/8/galaxy-f12-sm-f127gzgiins-samsung-original-imagftmjw3xqg4yk.jpeg?q=70,48,other_types,6000,128,4,not mentioned,11
-"SAMSUNG M53 5G (Mystique Green, 128 GB)",4.1,26999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/b/2/-original-imagfzj8e8hytax2.jpeg?q=70,108,other_types,5000,128,6,not mentioned,12
-"SAMSUNG Galaxy A70s (Prism Crush White, 128 GB)",4.3,30500,https://rukminim2.flixcart.com/image/312/312/kgjqefk0/mobile/j/s/5/samsung-galaxy-a70s-sm-a707fzwwins-original-imafwrdhsyfzh6yg.jpeg?q=70,64,other_types,4500,128,8,not mentioned,9
-"SAMSUNG Galaxy On Nxt (Black, 64 GB)",4.3,17900,https://rukminim2.flixcart.com/image/312/312/jjolt3k0/mobile-refurbished/g/f/a/galaxy-on-nxt-32-u-sm-g610fzkgins-samsung-3-original-imaet97hkjd6eyfc.jpeg?q=70,13,other_types,3300,64,3,not mentioned,6
-"SAMSUNG Galaxy Z Flip4 5G (Bora Purple, 128 GB)",3.7,24463,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/2/v/7/-original-imagh7nnb7ssj3xq.jpeg?q=70,12,HD+ AMOLED,3700,128,8,Snapdragon1P,12
-"SAMSUNG Galaxy A14 (Black, 128 GB)",3.9,15499,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/9/n/3/galaxy-a14-sm-a145fzkdins-samsung-original-imagq6czznggphyk.jpeg?q=70,50,LCD,5000,128,4,not mentioned,13
-"SAMSUNG Galaxy A14 (Light Green, 128 GB)",3.9,15499,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/e/e/c/galaxy-a14-sm-a145flgdins-samsung-original-imagq6czvb7qgbmc.jpeg?q=70,50,LCD,5000,128,4,not mentioned,13
-"SAMSUNG Galaxy A13 (Green, 64 GB)",4.1,15999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/f/e/o/-original-imaggy3yrdqzsvfc.jpeg?q=70,50,other_types,5000,64,4,not mentioned,12
-"SAMSUNG Galaxy J6 (Black, 64 GB)",4.5,9999,https://rukminim2.flixcart.com/image/312/312/jjelq4w0/mobile/e/3/a/samsung-galaxy-j6-sm-j600gzkgins-original-imaf6zpe7vrnygsn.jpeg?q=70,13,other_types,3000,64,4,not mentioned,8
-"SAMSUNG Galaxy On Nxt (Gold, 64 GB)",4.3,17900,https://rukminim2.flixcart.com/image/312/312/jjolt3k0/mobile-refurbished/y/m/5/galaxy-on-nxt-32-u-sm-g610fzdgins-samsung-3-original-imaet97hmqvfn5a6.jpeg?q=70,13,other_types,3300,64,3,not mentioned,6
-"SAMSUNG Galaxy On Max (Gold, 32 GB)",4.3,19900,https://rukminim2.flixcart.com/image/312/312/j4sronk0/mobile/3/z/h/samsung-on-max-sm-g615fzduins-original-imaevmfxe8xpzsw6.jpeg?q=70,13,other_types,3300,32,4,MediaTek,7
-"SAMSUNG Galaxy M32 (Light Blue, 64 GB)",4.2,16999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/5/n/y/-original-imag4pfh5k9anrfc.jpeg?q=70,48,other_types,6000,64,4,not mentioned,11
-"SAMSUNG Galaxy M34 5G without charger (Prism Silver, 128 GB)",3.7,24490,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/p/i/g/galaxy-m34-5g-without-charger-sm-m346b-samsung-original-imagrhrhbuja8grh.jpeg?q=70,50,other_types,6000,128,8,not mentioned,13
-"SAMSUNG Galaxy A13 (Peach, 64 GB)",4.2,14499,https://rukminim2.flixcart.com/image/312/312/l19m93k0/mobile/w/g/x/-original-imagcv74zmfuu3cx.jpeg?q=70,50,other_types,5000,64,4,not mentioned,12
-"SAMSUNG Galaxy S22 ultra 5G (Burgundy, 256 GB)",4.4,23463,https://rukminim2.flixcart.com/image/312/312/l3khsi80/mobile/f/s/y/galaxy-s22-ultra-5g-sm-s08edrginu-sm-s908e-ds-samsung-original-imagenuuky3dbc2d.jpeg?q=70,108,other_types,5000,256,12,not mentioned,12
-"SAMSUNG Galaxy M34 5G without charger (Prism Silver, 128 GB)",3.7,21299,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/p/i/g/galaxy-m34-5g-without-charger-sm-m346b-samsung-original-imagrhrhbuja8grh.jpeg?q=70,50,other_types,6000,128,6,not mentioned,13
-"SAMSUNG Galaxy On6 (Blue, 64 GB)",4.3,17600,https://rukminim2.flixcart.com/image/312/312/jit64cw0-1/mobile/k/y/9/samsung-galaxy-on6-sm-j600gf-original-imaf6j6py3cnep8f.jpeg?q=70,13,other_types,3000,64,4,not mentioned,8
-"SAMSUNG Galaxy Z Flip4 5G (Pink Gold, 128 GB)",4.2,24463,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/e/d/-original-imagh7nnemnbgtts.jpeg?q=70,12,HD+ AMOLED,3700,128,8,Snapdragon1P,12
-"SAMSUNG Galaxy A23 (Peach, 128 GB)",4.0,18990,https://rukminim2.flixcart.com/image/312/312/l19m93k0/mobile/5/k/x/-original-imagcv8jubmd9pb6.jpeg?q=70,50,other_types,5000,128,8,not mentioned,12
-"SAMSUNG Galaxy A12 (Blue, 64 GB)",4.5,13999,https://rukminim2.flixcart.com/image/312/312/krz97rk0/mobile/g/n/h/galaxy-a12-mtk-g35-sm-a125fzbjins-samsung-original-imag5n53wm8rg4tw.jpeg?q=70,48,LCD,5000,64,4,not mentioned,11
-"SAMSUNG Galaxy On Max (Black, 32 GB)",4.1,19900,https://rukminim2.flixcart.com/image/312/312/j4sronk0/mobile/e/n/w/samsung-on-max-sm-g615fzkuins-original-imaevmfxesgjatny.jpeg?q=70,13,other_types,3300,32,4,MediaTek,7
-"SAMSUNG Galaxy Z Fold3 5G (Phantom Green, 256 GB)",4.3,18927,https://rukminim2.flixcart.com/image/312/312/ksqeky80/mobile/x/7/1/galaxy-z-fold3-5g-sm-f926bzgdinu-samsung-original-imag68q6hpdwmngw.jpeg?q=70,12,AMOLED,4400,256,12,Snapdragon888,11
-"SAMSUNG Galaxy A13 (Green, 128 GB)",4.3,19990,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/f/e/o/-original-imaggy3yrdqzsvfc.jpeg?q=70,50,other_types,5000,128,4,not mentioned,12
-"SAMSUNG Galaxy F02s (Diamond Blue, 64 GB)",4.2,10990,https://rukminim2.flixcart.com/image/312/312/kn22m4w0/mobile/t/z/7/galaxy-f02s-sm-e025fdbfins-samsung-original-imagfthzytxvkmb2.jpeg?q=70,13,other_types,5000,64,4,Snapdragon450,10
-"SAMSUNG Galaxy M30s (Quartz Green, 64 GB)",4.2,12990,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/j/w/galaxy-m30s-sm-m307fzgdins-samsung-original-imagrcbmpcsswmqm.jpeg?q=70,48,other_types,6000,64,4,not mentioned,9
-"SAMSUNG Galaxy J3 Pro (Black, 16 GB)",4.2,8490,https://rukminim2.flixcart.com/image/312/312/j3orcsw0/mobile/h/w/k/samsung-galaxy-j3-pro-sm-j320fzkgins-original-imaeurqgzeasewhg.jpeg?q=70,8,other_types,2600,16,2,not mentioned,10
-"SAMSUNG Galaxy A13 (Blue, 128 GB)",4.1,15499,https://rukminim2.flixcart.com/image/312/312/l19m93k0/mobile/q/u/z/-original-imagcv74cev7ges4.jpeg?q=70,50,other_types,5000,128,4,not mentioned,12
-"SAMSUNG Galaxy J3 Pro (Gold, 16 GB)",4.2,8490,https://rukminim2.flixcart.com/image/312/312/j3orcsw0/mobile/r/p/v/samsung-galaxy-j3-pro-sm-j320fzdgins-original-imaeurqgnaz4puyt.jpeg?q=70,8,other_types,2600,16,2,not mentioned,5
-"SAMSUNG Galaxy S22 5G (Green, 256 GB)",4.3,14463,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/j/y/6/-original-imaggj686yhjdrgk.jpeg?q=70,50,AMOLED,3700,256,8,not mentioned,12
-"SAMSUNG Galaxy S22 Ultra 5G (Phantom White, 256 GB)",4.2,26462,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/y/c/t/-original-imaggj699hhujaqe.jpeg?q=70,108,AMOLED,5000,256,12,not mentioned,12
-"SAMSUNG Galaxy Z Fold4 5G (Graygreen, 256 GB)",4.2,23927,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/p/v/o/-original-imagh7nzmxwmbpvf.jpeg?q=70,50,HD+ AMOLED,4400,256,12,Snapdragon1P,12
-"SAMSUNG Galaxy M12 (White, 128 GB)",4.1,16999,https://rukminim2.flixcart.com/image/312/312/kmwcuq80/mobile/6/1/0/galaxy-m12-galaxy-m12-samsung-original-imagfzug8wycsxnb.jpeg?q=70,48,other_types,6000,128,6,not mentioned,11
-"SAMSUNG Galaxy A30s (Prism Crush White, 64 GB)",4.3,18900,https://rukminim2.flixcart.com/image/312/312/k4vmxzk0/mobile/5/y/k/samsung-galaxy-a30s-sm-a307fzwvins-original-imafk8hxudftet9g.jpeg?q=70,25,other_types,4000,64,4,not mentioned,9
-"SAMSUNG Galaxy A50s (Prism Crush Violet, 128 GB)",4.3,21070,https://rukminim2.flixcart.com/image/312/312/k0flmkw0/mobile/x/e/s/samsung-galaxy-a50s-sm-a507fzlvins-original-imafk8h4pfhftnz6.jpeg?q=70,48,other_types,4000,128,4,not mentioned,9
-"SAMSUNG Galaxy On Nxt (Gold, 16 GB)",4.3,11200,https://rukminim2.flixcart.com/image/312/312/jbqtqq80/mobile/s/8/9/samsung-galaxy-on-nxt-sm-g610fzdiins-original-imafff3naye6xhz5.jpeg?q=70,13,other_types,3300,16,3,not mentioned,6
-"SAMSUNG Galaxy A50s (Prism Crush Black, 128 GB)",2.9,21070,https://rukminim2.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/f/z/r/galaxy-a50s-128-gb-b-sm-a507fzkvins-samsung-4-original-imafk8h5pchaezfy.jpeg?q=70,48,other_types,4000,128,4,not mentioned,9
-"SAMSUNG Galaxy Z Fold4 5G (Phantom Black, 256 GB)",3.9,23927,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/f/n/h/-original-imagh7nzh2gcdj2x.jpeg?q=70,50,HD+ AMOLED,4400,256,12,Snapdragon1P,12
-"SAMSUNG M01 core (Blue, 32 GB)",4.2,6490,https://rukminim2.flixcart.com/image/312/312/kddf6a80/mobile/g/y/v/samsung-m01-core-b089mv96rw-original-imafuaghffexhag6.jpeg?q=70,8,LCD,3000,32,2,MediaTek,10
-"SAMSUNG Galaxy A03s (Blue, 64 GB)",4.2,11499,https://rukminim2.flixcart.com/image/312/312/ksgehzk0/mobile/x/q/1/galaxy-a03s-sm-a037fzbgins-sm-a037fzb6ins-samsung-original-imag6ygnvtkhgjzg.jpeg?q=70,50,LCD,5000,64,4,not mentioned,12
-"SAMSUNG Galaxy M14 5G (ICY Silver, 128 GB)",4.2,14885,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/6/2/5/galaxy-m14-5g-sm-m146b-samsung-original-imagzwrqnpzujxks.jpeg?q=70,50,other_types,6000,128,4,Snapdragon(SDM450-F01),10
-"SAMSUNG Galaxy M14 5G (Smoky Teal, 128 GB)",4.2,17989,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/e/6/d/galaxy-m14-5g-sm-m146b-samsung-original-imagzvnkybtue5da.jpeg?q=70,50,other_types,6000,128,6,not mentioned,13
-"SAMSUNG Galaxy M14 5G (Berry Blue, 128 GB)",4.2,15490,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/x/n/galaxy-m14-5g-sm-m146b-samsung-original-imagzwssnfnzkpex.jpeg?q=70,50,other_types,6000,128,6,not mentioned,13
-"SAMSUNG Galaxy M52 5G (Icy Blue, 128 GB)",4.4,28999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/w/w/h/-original-imag7zx66vpkp9mg.jpeg?q=70,64,other_types,5000,128,6,not mentioned,11
-"SAMSUNG Galaxy A50 (Black, 64 GB)",4.4,24000,https://rukminim2.flixcart.com/image/312/312/jsyyufk0/mobile/e/9/v/samsung-galaxy-a50-sm-a505fzkgins-original-imafefgh2bgdetj4.jpeg?q=70,25,AMOLED,4000,64,6,not mentioned,9
-"SAMSUNG Galaxy M52 5G (Blazing Black, 128 GB)",4.4,24999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/p/5/r/-original-imag7h2tmrsaugcz.jpeg?q=70,64,other_types,5000,128,6,not mentioned,11
-"SAMSUNG Galaxy S23 Ultra 5G (Green, 1 TB)",4.0,23927,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/2/s/7/-original-imagmg6gktts6sfy.jpeg?q=70,200,HD+ AMOLED,5000,1,12,Gen8,13
-"SAMSUNG Galaxy A04 (Copper, 64 GB)",4.4,11199,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/m/s/7/-original-imagh2pzxpvggmah.jpeg?q=70,50,LCD,5000,64,4,not mentioned,12
-"SAMSUNG Galaxy J6 (Blue, 32 GB)",4.3,11500,https://rukminim2.flixcart.com/image/312/312/jjelq4w0/mobile/w/n/8/samsung-galaxy-j6-sm-j600gzbgins-original-imaf6zpf6q8tjcva.jpeg?q=70,13,other_types,3000,32,3,not mentioned,8
-"SAMSUNG Galaxy S22 5G (Phantom White, 256 GB)",4.2,7463,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/l/4/i/-original-imaggj686gertymh.jpeg?q=70,50,AMOLED,3700,256,8,not mentioned,12
-"SAMSUNG Galaxy M11 (Black, 32 GB)",4.3,12999,https://rukminim2.flixcart.com/image/312/312/kavefm80/mobile/6/y/t/samsung-galaxy-m11-sm-m115fzkeins-original-imafscjyhxwghgwf.jpeg?q=70,13,LCD,5000,32,3,Snapdragon(SDM450-F01),10
-"SAMSUNG Galaxy Z Flip4 5G (Bora Purple, 256 GB)",4.3,29463,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/2/v/7/-original-imagh7nnb7ssj3xq.jpeg?q=70,12,HD+ AMOLED,3700,256,8,Snapdragon1P,12
-"SAMSUNG Galaxy A50s (Prism Crush White, 128 GB)",4.3,24900,https://rukminim2.flixcart.com/image/312/312/k0flmkw0/mobile/v/n/a/samsung-galaxy-a50s-sm-a507fzwvins-original-imafk8h46pjhgwms.jpeg?q=70,48,other_types,4000,128,4,not mentioned,9
-"SAMSUNG Galaxy M33 5G (Deep Ocean Blue, 128 GB)",3.9,19990,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/o/w/a/-original-imagdc87gdyremd3.jpeg?q=70,50,other_types,6000,128,8,not mentioned,13
-"SAMSUNG Galaxy A14 (Silver, 128 GB)",4.2,16399,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/8/5/z/galaxy-a14-sm-a145fzsdins-samsung-original-imagq6cp4mbhejzn.jpeg?q=70,50,LCD,5000,128,4,not mentioned,12
-"SAMSUNG Galaxy F54 5G (Meteor Blue, 256 GB)",4.1,29999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/y/2/b/galaxy-f54-5g-sm-e546bdbhins-samsung-original-imagq79fjhhcb6u2.jpeg?q=70,108,HD+ AMOLED,6000,256,8,not mentioned,13
-"SAMSUNG Galaxy A14 (Light Green, 64 GB)",3.9,13999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/e/e/c/galaxy-a14-sm-a145flgdins-samsung-original-imagq6czvb7qgbmc.jpeg?q=70,50,LCD,5000,64,4,not mentioned,13
-"SAMSUNG Galaxy S22 5G (Phantom Black, 256 GB)",4.3,7463,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/2/9/-original-imaggj68htbzzfhy.jpeg?q=70,50,AMOLED,3700,256,8,not mentioned,12
-"SAMSUNG Galaxy A13 (Blue, 64 GB)",4.1,14990,https://rukminim2.flixcart.com/image/312/312/l19m93k0/mobile/q/u/z/-original-imagcv74cev7ges4.jpeg?q=70,50,other_types,5000,64,4,not mentioned,12
-"SAMSUNG Galaxy M12 (Black, 128 GB)",4.0,16999,https://rukminim2.flixcart.com/image/312/312/kmwcuq80/mobile/m/1/b/galaxy-m12-galaxy-m12-samsung-original-imagfzunsgwpfgbd.jpeg?q=70,48,other_types,6000,128,6,not mentioned,11
-"SAMSUNG Galaxy S22 Plus 5G (Green, 256 GB)",4.3,23463,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/u/f/p/-original-imaggj68zy3fbtzy.jpeg?q=70,50,AMOLED,4500,256,8,Gen8,12
-"SAMSUNG Galaxy S22 5G (Phantom White, 128 GB)",4.4,7454,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/l/4/i/-original-imaggj686gertymh.jpeg?q=70,50,AMOLED,3700,128,8,not mentioned,12
-"SAMSUNG Galaxy A7 (Black, 64 GB)",4.1,22300,https://rukminim2.flixcart.com/image/312/312/jmgmmq80/mobile/r/z/z/samsung-galaxy-a7-sm-a750fzkhins-original-imaf9d35udmkv2rg.jpeg?q=70,24,AMOLED,3300,64,4,not mentioned,8
-"SAMSUNG GALAXY M13 5G (Aqua Green, 128 GB)",4.2,14990,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/z/u/a/-original-imagghcygdr6gngh.jpeg?q=70,50,other_types,5000,128,6,not mentioned,12
-"SAMSUNG Galaxy A04s (Copper, 128 GB)",4.0,14499,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/5/v/a/-original-imaghufzhr9hhhnj.jpeg?q=70,50,other_types,5000,128,4,not mentioned,12
-"SAMSUNG S22 Ultra 5G (Burgundy, 256 GB)",4.3,23463,https://rukminim2.flixcart.com/image/312/312/l1pc3gw0/mobile/5/3/m/s22-ultra-5g-256gb-12gb-ram-burgundy-s22-ultra-samsung-original-imagd79exg8w9gmq.jpeg?q=70,108,other_types,5000,256,12,not mentioned,10
-"SAMSUNG Galaxy A22 5G (Violet, 128 GB)",4.1,19999,https://rukminim2.flixcart.com/image/312/312/ks3jjbk0/mobile/2/r/a/a22-5g-sm-a226b-ds-samsung-original-imag5qzck3mkjvqn.jpeg?q=70,48,other_types,5000,128,8,Dimensity700,11
-"SAMSUNG Galaxy A22 5G (Gray, 128 GB)",4.3,15690,https://rukminim2.flixcart.com/image/312/312/krme93k0/mobile/0/d/n/galaxy-a22-5g-sm-a226bzajins-samsung-original-imag5dgh3fpehhhx.jpeg?q=70,48,TFT,5000,128,6,Dimensity700,11
-"SAMSUNG Galaxy F12 (Celestial Black, 64 GB)",4.3,10499,https://rukminim2.flixcart.com/image/312/312/kn22m4w0/mobile/6/o/e/galaxy-f12-sm-f127gzkgins-samsung-original-imagftmhuqq3arbg.jpeg?q=70,48,other_types,6000,64,4,not mentioned,10
-"SAMSUNG Galaxy M21 (Midnight Blue, 64 GB)",4.2,14248,https://rukminim2.flixcart.com/image/312/312/kah413k0/mobile/z/m/g/samsung-galaxy-m21-b07hgjj55il-original-imafsfewggf3dqwc.jpeg?q=70,48,other_types,6000,64,4,not mentioned,11
-"SAMSUNG Galaxy A12 (White, 64 GB)",4.3,11975,https://rukminim2.flixcart.com/image/312/312/krz97rk0/mobile/g/3/m/galaxy-a12-exynos-850-sm-a127fzwjins-samsung-original-imag5n52vmhdygr2.jpeg?q=70,48,LCD,5000,64,4,not mentioned,10
-"SAMSUNG Galaxy F41 (Fusion Black, 64 GB)",4.0,15999,https://rukminim2.flixcart.com/image/312/312/kfzq8i80/mobile/w/s/2/samsung-galaxy-f41-sm-f415fzkdins-original-imafwbnvxuhzvtpv.jpeg?q=70,64,other_types,6000,64,6,not mentioned,9
-"SAMSUNG Galaxy On6 (Black, 64 GB)",4.4,17600,https://rukminim2.flixcart.com/image/312/312/jit64cw0-1/mobile/4/8/h/samsung-galaxy-on6-sm-j600gf-original-imaf6j6zhqa3yfvz.jpeg?q=70,13,AMOLED,4000,64,6,not mentioned,9
-"SAMSUNG Galaxy F62 (Laser Grey, 128 GB)",4.2,23999,https://rukminim2.flixcart.com/image/312/312/klb78nk0/mobile/4/y/h/galaxy-f62-sm-e625fzkdins-samsung-original-imagygxzrsmbhptk.jpeg?q=70,64,AMOLED,5000,128,6,not mentioned,10
-"SAMSUNG Galaxy M42 5G (Prism Dot Black, 128 GB)",4.3,21450,https://rukminim2.flixcart.com/image/312/312/koenl3k0/mobile/c/b/r/galaxy-m42-5g-sm-m426bzkgins-samsung-original-imag2vggv8jqgh7s.jpeg?q=70,48,other_types,6000,64,4,not mentioned,10
-"SAMSUNG Galaxy M30s (Blue, 64 GB)",4.1,13999,https://rukminim2.flixcart.com/image/312/312/k51cpe80pkrrdj/mobile/g/f/m/samsung-galaxy-m30s-sm-m307fzbdins-original-imafkzzf3vfqzrfz.jpeg?q=70,48,other_types,5000,128,8,not mentioned,9
-"SAMSUNG Galaxy A33 (Awesome White, 128 GB)",4.3,27499,https://rukminim2.flixcart.com/image/312/312/l3xcr680/mobile/9/8/x/-original-imagexexsaxegzxk.jpeg?q=70,48,other_types,6000,64,4,Snapdragon(SDM450-F01),7
-"SAMSUNG Galaxy M21 (Raven Black, 64 GB)",4.2,12999,https://rukminim2.flixcart.com/image/312/312/kah413k0/mobile/d/m/z/samsung-galaxy-m21-b07hgh8d2r-original-imafsfexgymaayrk.jpeg?q=70,48,LCD,5000,64,4,MediaTek,10
-"SAMSUNG Galaxy M11 (Violet, 64 GB)",4.4,12999,https://rukminim2.flixcart.com/image/312/312/kavefm80/mobile/h/c/y/samsung-galaxy-m11-sm-m115fzleins-original-imafscgysncykdxv.jpeg?q=70,13,other_types,4000,32,2,not mentioned,12
-"SAMSUNG Galaxy A10s (Blue, 32 GB)",4.6,9490,https://rukminim2.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/q/m/g/galaxy-a10s-32-gb-c-sm-a107fzbdins-samsung-2-original-imafjycggdwt5akh.jpeg?q=70,13,other_types,3300,64,6,Snapdragon(SDM439),10
-"SAMSUNG Galaxy Note 8 (Orchid Grey, 64 GB)",4.2,8464,https://rukminim2.flixcart.com/image/312/312/js98x3k0/mobile/g/h/a/samsung-galaxy-note-8-na-original-imafdvaqjabwvguk.jpeg?q=70,12,LCD,4000,32,3,not mentioned,10
-"SAMSUNG Galaxy M01 (Red, 32 GB)",4.2,8999,https://rukminim2.flixcart.com/image/312/312/kavefm80/mobile/b/g/z/samsung-galaxy-m01-sm-m015gzrdins-original-imafscggbdypyqqc.jpeg?q=70,13,other_types,6000,64,4,Snapdragon(SDM450-F01),10
-"SAMSUNG Galaxy M32 Prime Edition (Black, 64 GB)",4.2,12185,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/q/2/e/-original-imagjhqzefepgn4t.jpeg?q=70,64,LCD,5000,32,3,not mentioned,11
-"SAMSUNG Galaxy M11 (Metallic Blue, 32 GB)",4.3,10999,https://rukminim2.flixcart.com/image/312/312/kavefm80/mobile/w/u/z/samsung-galaxy-m11-sm-m115fmbeins-original-imafscgycugcewty.jpeg?q=70,13,other_types,6000,64,6,not mentioned,11
-"SAMSUNG Galaxy A22 5G (Gray, 128 GB)",4.1,23999,https://rukminim2.flixcart.com/image/312/312/krme93k0/mobile/0/d/n/galaxy-a22-5g-sm-a226bzajins-samsung-original-imag5dgh3fpehhhx.jpeg?q=70,64,TFT,5000,128,6,Dimensity700,11
-"SAMSUNG Galaxy F42 5G (Matte Aqua, 128 GB)",4.3,20999,https://rukminim2.flixcart.com/image/312/312/ku4ezrk0/mobile/6/z/p/galaxy-f42-5g-sm-e426bzbgins-samsung-original-imag7anfz8jzxkv4.jpeg?q=70,48,other_types,5000,128,6,Dimensity700,10
-"SAMSUNG Galaxy F22 (Denim Black, 128 GB)",3.9,13499,https://rukminim2.flixcart.com/image/312/312/kqqykcw0/mobile/p/y/u/galaxy-f22-sm-e225fzkhins-samsung-original-imag4z99fagskjxd.jpeg?q=70,8,other_types,6000,16,1,Heilo80P,11
-"SAMSUNG Galaxy F02s (Diamond White, 32 GB)",4.2,10499,https://rukminim2.flixcart.com/image/312/312/kn22m4w0/mobile/n/u/a/galaxy-f02s-sm-e025fawfins-samsung-original-imagfthzsy3btzkj.jpeg?q=70,64,other_types,5000,128,6,Snapdragon450,12
-"SAMSUNG Galaxy M32 (Light Blue, 128 GB)",4.0,13402,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/i/3/x/-original-imag4pfh2p9hhygz.jpeg?q=70,64,other_types,6000,128,6,not mentioned,12
-"SAMSUNG Galaxy A53 (Awesome Black, 128 GB)",4.2,31999,https://rukminim2.flixcart.com/image/312/312/l3xcr680/mobile/f/b/6/-original-imagexeyn7p8ehzh.jpeg?q=70,5,HD+ AMOLED,5000,16,1,not mentioned,11
-"SAMSUNG Galaxy M32 Prime Edition (Light Blue, 64 GB)",4.2,11370,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/f/n/-original-imagjhr894wgfzzc.jpeg?q=70,64,other_types,6000,128,6,not mentioned,12
-"SAMSUNG Galaxy A22 (Black, 128 GB)",4.0,16999,https://rukminim2.flixcart.com/image/312/312/kqqykcw0/mobile/6/3/t/a22-sm-a22sf-ds-samsung-original-imag4pfdwfpbjguk.jpeg?q=70,48,other_types,5000,128,6,not mentioned,11
-"SAMSUNG Galaxy A53 (Awesome Peach, 128 GB)",4.2,31999,https://rukminim2.flixcart.com/image/312/312/l3xcr680/mobile/1/9/o/-original-imagexezfaz48pzt.jpeg?q=70,64,HD+ AMOLED,5000,64,4,not mentioned,12
-"SAMSUNG Galaxy A12 (Blue, 64 GB)",4.2,12999,https://rukminim2.flixcart.com/image/312/312/krz97rk0/mobile/g/n/h/galaxy-a12-mtk-g35-sm-a125fzbjins-samsung-original-imag5n53wm8rg4tw.jpeg?q=70,48,LCD,5000,64,4,not mentioned,11
-"SAMSUNG Galaxy M32 Prime Edition (Light Blue, 64 GB)",4.1,12678,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/f/n/-original-imagjhr894wgfzzc.jpeg?q=70,50,other_types,6000,64,4,not mentioned,12
-"SAMSUNG Galaxy A03 (Blue, 64 GB)",4.1,11499,https://rukminim2.flixcart.com/image/312/312/l0sgyvk0/mobile/z/4/7/-original-imagchh89wufbej2.jpeg?q=70,13,other_types,5000,64,4,not mentioned,10
-"SAMSUNG Galaxy A13 (White, 64 GB)",4.3,14499,https://rukminim2.flixcart.com/image/312/312/l19m93k0/mobile/p/h/e/-original-imagcv7424zgvfk8.jpeg?q=70,5,other_types,5000,128,4,not mentioned,11
-"SAMSUNG M02s (Blue, 32 GB)",4.0,8597,https://rukminim2.flixcart.com/image/312/312/kk2wl8w0/mobile/o/c/v/m02s-sb08rswhmz65-samsung-original-imafzg9at5uyrwhh.jpeg?q=70,64,other_types,5000,8,1,Snapdragon450P,11
-"SAMSUNG Galaxy M32 5G (Sky Blue, 128 GB)",4.2,18999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/z/t/1/-original-imag6jm69crass7p.jpeg?q=70,48,other_types,5000,128,8,not mentioned,10
-"SAMSUNG Galaxy M42 5G (Prism Dot Gray, 128 GB)",4.2,20909,https://rukminim2.flixcart.com/image/312/312/koenl3k0/mobile/z/x/r/galaxy-m42-5g-sm-m426bzkgins-samsung-original-imag2vpg9gthtpgz.jpeg?q=70,48,AMOLED,5000,128,6,Snapdragon750G,10
-"SAMSUNG Galaxy M02 (Black, 32 GB)",4.1,7430,https://rukminim2.flixcart.com/image/312/312/kkzrpu80/mobile/q/0/5/galaxy-m02-b08t2nnt4s1-samsung-original-imagy73chee62pyq.jpeg?q=70,13,other_types,5000,32,2,MediaTek,9
-"SAMSUNG Galaxy M32 Prime Edition (Black, 64 GB)",4.2,11400,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/q/2/e/-original-imagjhqzefepgn4t.jpeg?q=70,48,other_types,6000,64,4,not mentioned,10
-"SAMSUNG Galaxy A21s (Blue, 64 GB)",4.2,19999,https://rukminim2.flixcart.com/image/312/312/kbi9h8w0/mobile/q/2/x/samsung-galaxy-a21s-sm-a217fzbfins-original-imafsuyataz9hpmz.jpeg?q=70,32,other_types,5000,64,6,not mentioned,11
-"SAMSUNG Galaxy M40 (Midnight Blue, 128 GB)",4.0,15798,https://rukminim2.flixcart.com/image/312/312/k51cpe80pkrrdj/mobile/t/p/8/samsung-galaxy-m40-m40-original-imafgrennxenxgfh.jpeg?q=70,13,other_types,3500,128,6,MediaTek,11
-"SAMSUNG Galaxy A12 (Black, 64 GB)",4.3,12999,https://rukminim2.flixcart.com/image/312/312/krz97rk0/mobile/v/2/z/galaxy-a12-exynos-850-sm-a127fzkjins-samsung-original-imag5n52vuufpgcp.jpeg?q=70,48,LCD,5000,64,4,not mentioned,11
-"SAMSUNG Galaxy F12 (Celestial Black, 128 GB)",3.6,11499,https://rukminim2.flixcart.com/image/312/312/kn22m4w0/mobile/6/o/e/galaxy-f12-sm-f127gzkgins-samsung-original-imagftmhuqq3arbg.jpeg?q=70,5,other_types,6000,128,4,not mentioned,12
-"SAMSUNG Galaxy M32 5G (Slate Black, 128 GB)",4.2,18499,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/z/x/-original-imag6jmvqyef5nyf.jpeg?q=70,64,other_types,5000,128,8,Heilo80P,10
-"SAMSUNG Galaxy A32 (Awesome Blue, 128 GB)",4.3,23499,https://rukminim2.flixcart.com/image/312/312/kwmfqfk0/mobile/t/t/6/-original-imag98znfq8jpauy.jpeg?q=70,64,AMOLED,5000,128,8,not mentioned,10
-"SAMSUNG Galaxy M32 Prime Edition (Black, 128 GB)",4.3,14499,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/q/2/e/-original-imagjhqzefepgn4t.jpeg?q=70,48,other_types,6000,128,6,not mentioned,13
-"SAMSUNG Galaxy A51 (Prism Crush Blue, 128 GB)",4.2,27999,https://rukminim2.flixcart.com/image/312/312/k62i5jk0/mobile/c/n/s/samsung-galaxy-a51-sm-a515fzbhins-original-imafzhr4cqc4wqnf.jpeg?q=70,13,AMOLED,4000,128,8,Snapdragon450,5
-"SAMSUNG Galaxy F02s (Diamond Blue, 32 GB)",4.2,9499,https://rukminim2.flixcart.com/image/312/312/kn22m4w0/mobile/t/z/7/galaxy-f02s-sm-e025fdbfins-samsung-original-imagfthzytxvkmb2.jpeg?q=70,48,other_types,5000,32,3,"Dimensity1080,",1
-"SAMSUNG Galaxy M32 5G (Sky Blue, 128 GB)",4.2,19999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/z/t/1/-original-imag6jm69crass7p.jpeg?q=70,13,other_types,5000,128,8,Snapdragon410,11
-"SAMSUNG Galaxy A12 (Blue, 128 GB)",4.8,14999,https://rukminim2.flixcart.com/image/312/312/klb78nk0/mobile/p/y/q/galaxy-a12-sm-a125fzbhins-samsung-original-imagyg84zadwb7xx.jpeg?q=70,8,LCD,5000,128,4,not mentioned,11
-"SAMSUNG M21 2021 Edition (Charcoal Black, 64 GB)",4.2,11530,https://rukminim2.flixcart.com/image/312/312/krp94sw0/mobile/n/j/2/m21-2021-edition-sm-m215gzkhins-samsung-original-imag5fgngku8xcqn.jpeg?q=70,48,other_types,6000,64,4,not mentioned,10
-"SAMSUNG Galaxy A52 (Awesome Violet, 128 GB)",4.3,31999,https://rukminim2.flixcart.com/image/312/312/kmf7ki80/mobile/z/w/q/galaxy-a52-sm-a525flvhins-samsung-original-imagfb4x2yshzagy.jpeg?q=70,64,HD+ AMOLED,4500,128,8,Snapdragon720GProcessor,11
-"SAMSUNG M02s (Black, 64 GB)",4.2,10190,https://rukminim2.flixcart.com/image/312/312/kk2wl8w0/mobile/i/t/a/m02s-sb08rswhmz61-samsung-original-imafzg4azbgz4c3y.jpeg?q=70,13,other_types,5000,64,4,Snapdragon450P,6
-"SAMSUNG Galaxy M32 (Black, 128 GB)",4.3,13402,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/q/c/r/-original-imag4pfhh7mycw2u.jpeg?q=70,64,other_types,6000,128,6,not mentioned,12
-"SAMSUNG Galaxy On Nxt (Black, 16 GB)",4.1,11200,https://rukminim2.flixcart.com/image/312/312/jbqtqq80/mobile/e/z/z/samsung-galaxy-on-nxt-sm-g610fzkiins-original-imafff34qgyjw5pb.jpeg?q=70,13,other_types,3300,16,3,not mentioned,11
-"SAMSUNG Galaxy A33 (Awesome White, 128 GB)",4.3,25999,https://rukminim2.flixcart.com/image/312/312/l3xcr680/mobile/9/8/x/-original-imagexexsaxegzxk.jpeg?q=70,48,other_types,5000,128,6,not mentioned,11
-"SAMSUNG Galaxy A22 5G (Mint, 128 GB)",4.2,19999,https://rukminim2.flixcart.com/image/312/312/krme93k0/mobile/k/x/5/galaxy-a22-5g-sm-a226blghins-samsung-original-imag5dgzhyf8gjta.jpeg?q=70,48,TFT,5000,128,6,Dimensity700,10
-"SAMSUNG Galaxy M32 5G (Slate Black, 128 GB)",4.2,19000,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/z/x/-original-imag6jmvqyef5nyf.jpeg?q=70,64,other_types,6000,128,8,not mentioned,11
-"SAMSUNG Galaxy M31s (Mirage Black, 128 GB)",4.3,17999,https://rukminim2.flixcart.com/image/312/312/keekmfk0/mobile/n/g/p/samsung-galaxy-m31s-sm-m317fzkdins-original-imafv3py9qnwfeft.jpeg?q=70,48,other_types,6000,128,6,not mentioned,12
-"SAMSUNG Galaxy F22 (Denim Black, 64 GB)",4.3,11499,https://rukminim2.flixcart.com/image/312/312/kqqykcw0/mobile/p/y/u/galaxy-f22-sm-e225fzkhins-samsung-original-imag4z99fagskjxd.jpeg?q=70,50,other_types,6000,64,4,Heilo80P,11
-"SAMSUNG Galaxy A23 (Peach, 128 GB)",4.3,18999,https://rukminim2.flixcart.com/image/312/312/l19m93k0/mobile/5/k/x/-original-imagcv8jubmd9pb6.jpeg?q=70,64,other_types,5000,128,8,not mentioned,10
-"SAMSUNG Galaxy F62 (Laser Grey, 128 GB)",4.0,25999,https://rukminim2.flixcart.com/image/312/312/klb78nk0/mobile/4/y/h/galaxy-f62-sm-e625fzkdins-samsung-original-imagygxzrsmbhptk.jpeg?q=70,13,HD+ AMOLED,7000,128,8,not mentioned,11
-"SAMSUNG Galaxy M02 (Blue, 32 GB)",4.0,7399,https://rukminim2.flixcart.com/image/312/312/kkzrpu80/mobile/x/x/u/galaxy-m02-b08t2nnt4s3-samsung-original-imagy73c8fubvzg3.jpeg?q=70,13,other_types,5000,32,2,MediaTek,10
-"SAMSUNG Galaxy A03s (White, 64 GB)",4.2,14499,https://rukminim2.flixcart.com/image/312/312/ksgehzk0/mobile/j/9/r/galaxy-a03s-sm-a037fzwgins-sm-a037fzw6ins-samsung-original-imag6ygqbmhzgevh.jpeg?q=70,48,LCD,5000,64,4,Heilo356765,10
-"SAMSUNG Galaxy A21s (White, 64 GB)",4.0,13999,https://rukminim2.flixcart.com/image/312/312/kbi9h8w0/mobile/q/z/t/samsung-galaxy-a21s-sm-a217fzwfins-original-imafsuyavazdt7rq.jpeg?q=70,13,other_types,5000,64,4,not mentioned,6
-"SAMSUNG Galaxy M02 (Gray, 32 GB)",3.9,7364,https://rukminim2.flixcart.com/image/312/312/kkzrpu80/mobile/b/e/u/galaxy-m02-b08t2nnt4s5-samsung-original-imagy73cteuu4kfj.jpeg?q=70,16,other_types,5000,32,2,MediaTek,12
-"SAMSUNG Galaxy A7-2017 (Gold Sand, 32 GB)",4.3,25900,https://rukminim2.flixcart.com/image/312/312/j5lchow0/mobile/a/c/z/samsung-galaxy-a7-2017-sm-a720fzddins-original-imaew8vk2vkt4kgc.jpeg?q=70,64,other_types,3600,32,3,not mentioned,12
-"SAMSUNG Galaxy M32 Prime Edition (Light Blue, 128 GB)",4.1,14640,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/f/n/-original-imagjhr894wgfzzc.jpeg?q=70,50,other_types,6000,128,6,not mentioned,10
-"SAMSUNG Galaxy A13 (Peach, 128 GB)",4.0,14999,https://rukminim2.flixcart.com/image/312/312/l19m93k0/mobile/w/g/x/-original-imagcv74zmfuu3cx.jpeg?q=70,3,other_types,5000,128,4,not mentioned,11
-"SAMSUNG Galaxy A12 (Black, 64 GB)",4.3,13999,https://rukminim2.flixcart.com/image/312/312/klb78nk0/mobile/e/8/v/galaxy-a12-sm-a125fzkgins-samsung-original-imagyg84vawdfeay.jpeg?q=70,64,LCD,5000,64,4,not mentioned,12
-"SAMSUNG Galaxy A22 5G (Mint, 128 GB)",4.1,17700,https://rukminim2.flixcart.com/image/312/312/krme93k0/mobile/k/x/5/galaxy-a22-5g-sm-a226blghins-samsung-original-imag5dgzhyf8gjta.jpeg?q=70,48,TFT,5000,128,8,Dimensity700,11
-"SAMSUNG Galaxy M32 Prime Edition (Light Blue, 128 GB)",4.3,14640,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/f/n/-original-imagjhr894wgfzzc.jpeg?q=70,64,other_types,6000,128,6,not mentioned,11
-"SAMSUNG Galaxy A12 (Black, 128 GB)",4.1,17999,https://rukminim2.flixcart.com/image/312/312/krz97rk0/mobile/v/2/z/galaxy-a12-exynos-850-sm-a127fzkjins-samsung-original-imag5n52vuufpgcp.jpeg?q=70,48,LCD,5000,128,6,not mentioned,9
-"SAMSUNG M21 2021 Edition (Charcoal Black, 128 GB)",4.3,16989,https://rukminim2.flixcart.com/image/312/312/krp94sw0/mobile/n/j/2/m21-2021-edition-sm-m215gzkhins-samsung-original-imag5fgngku8xcqn.jpeg?q=70,48,other_types,6000,128,6,not mentioned,11
-"SAMSUNG Galaxy A10s (Black, 32 GB)",4.3,11000,https://rukminim2.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/d/u/c/galaxy-a10s-32-gb-c-sm-a107fzkdins-samsung-2-original-imafjycfagsvuzrw.jpeg?q=70,13,other_types,4000,32,3,MediaTek,10
-"SAMSUNG Galaxy A52 (Awesome White, 128 GB)",4.4,30499,https://rukminim2.flixcart.com/image/312/312/kmf7ki80/mobile/3/j/0/galaxy-a52-sm-a525fzwhins-samsung-original-imagfb4vjky63hmh.jpeg?q=70,64,HD+ AMOLED,4500,128,6,Snapdragon720GProcessor,11
-"SAMSUNG GALAXY M51 (ELECTRIC BLUE, 128 GB)",4.2,17996,https://rukminim2.flixcart.com/image/312/312/kfeamq80/mobile/y/s/f/samsung-galaxy-m51-sm-m515fzbd-original-imafvvgfegtvb6fx.jpeg?q=70,64,other_types,7000,128,6,not mentioned,10
-"SAMSUNG Galaxy M32 5G (Sky Blue, 128 GB)",4.2,19499,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/z/t/1/-original-imag6jm69crass7p.jpeg?q=70,48,other_types,5000,128,8,not mentioned,10
-"SAMSUNG M02s (Black, 32 GB)",4.3,9490,https://rukminim2.flixcart.com/image/312/312/kk2wl8w0/mobile/i/t/a/m02s-sb08rswhmz61-samsung-original-imafzg4azbgz4c3y.jpeg?q=70,13,other_types,5000,32,3,Snapdragon450P,11
-"SAMSUNG Galaxy A51 (Haze Crush Silver, 128 GB)",4.2,29999,https://rukminim2.flixcart.com/image/312/312/kcuug7k0/mobile/x/u/q/samsung-galaxy-a51-sm-a515fmswins-original-imaftw9cecyhye7d.jpeg?q=70,48,AMOLED,4000,128,8,not mentioned,12
-"SAMSUNG Galaxy M32 5G (Sky Blue, 128 GB)",4.2,17990,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/z/x/-original-imag6jmvqyef5nyf.jpeg?q=70,48,other_types,5000,128,8,Dimensity720,10
-"SAMSUNG Galaxy A13 (White, 128 GB)",4.3,16499,https://rukminim2.flixcart.com/image/312/312/l19m93k0/mobile/p/h/e/-original-imagcv7424zgvfk8.jpeg?q=70,50,other_types,5000,128,6,not mentioned,11
-"SAMSUNG Galaxy A51 (Haze Crush Silver, 128 GB)",4.3,20990,https://rukminim2.flixcart.com/image/312/312/kcuug7k0/mobile/x/u/q/samsung-galaxy-a51-sm-a515fmswins-original-imaftw9cecyhye7d.jpeg?q=70,48,AMOLED,4000,128,6,not mentioned,11
-"SAMSUNG Galaxy F22 (Denim Blue, 64 GB)",4.2,11499,https://rukminim2.flixcart.com/image/312/312/kqqykcw0/mobile/j/5/7/galaxy-f22-sm-e225flbdins-samsung-original-imag4z99fp4qdfby.jpeg?q=70,48,other_types,6000,64,4,Heilo80P,11
-"SAMSUNG Galaxy A22 (Mint, 128 GB)",4.2,20499,https://rukminim2.flixcart.com/image/312/312/krtjgcw0/mobile/n/t/i/galaxy-a22-sm-a225flgrins-samsung-original-imag5j58quhjzvvh.jpeg?q=70,48,AMOLED,5000,128,6,Heilo806769,9
-"SAMSUNG Galaxy A22 (Mint, 128 GB)",4.3,16999,https://rukminim2.flixcart.com/image/312/312/kqqykcw0/mobile/w/r/n/a-22-sm-a22sf-ds-samsung-original-imag4pfjf9xp6jzz.jpeg?q=70,48,other_types,5000,128,6,not mentioned,10
-"SAMSUNG Galaxy A10s (Blue, 32 GB)",4.0,11000,https://rukminim2.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/q/m/g/galaxy-a10s-32-gb-c-sm-a107fzbdins-samsung-2-original-imafjycggdwt5akh.jpeg?q=70,13,other_types,4000,32,3,MediaTek,11
-"SAMSUNG Galaxy M02 (Black, 32 GB)",4.3,8499,https://rukminim2.flixcart.com/image/312/312/kkzrpu80/mobile/q/0/5/galaxy-m02-b08t2nnt4s1-samsung-original-imagy73chee62pyq.jpeg?q=70,13,other_types,5000,32,3,MediaTek,10
-"SAMSUNG Galaxy A52 (Awesome Violet, 128 GB)",4.2,30499,https://rukminim2.flixcart.com/image/312/312/kmf7ki80/mobile/z/w/q/galaxy-a52-sm-a525flvhins-samsung-original-imagfb4x2yshzagy.jpeg?q=70,64,HD+ AMOLED,4500,128,6,Snapdragon720GProcessor,13
-"SAMSUNG Galaxy F02s (Diamond Black, 64 GB)",4.2,10990,https://rukminim2.flixcart.com/image/312/312/kn22m4w0/mobile/q/q/f/galaxy-f02s-sm-e025fakeins-samsung-original-imagfthzbvzgzpnb.jpeg?q=70,13,other_types,5000,64,4,Snapdragon450,11
-"SAMSUNG Galaxy M34 5G (Graphite Black, 128 GB)",4.2,21999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/v/t/t/galaxy-m34-5g-sm-m346b-ds-samsung-original-imagrzu7ngrbzkzk.jpeg?q=70,50,other_types,6000,128,6,not mentioned,10
-"SAMSUNG Galaxy F62 (Laser Green, 128 GB)",4.2,23999,https://rukminim2.flixcart.com/image/312/312/klb78nk0/mobile/m/2/k/galaxy-f62-sm-e625fzggins-samsung-original-imagygxxse8gbaby.jpeg?q=70,64,HD+ AMOLED,7000,128,6,not mentioned,11
-"SAMSUNG Galaxy M21 (Midnight Blue, 128 GB)",4.1,16499,https://rukminim2.flixcart.com/image/312/312/kah413k0/mobile/z/m/g/samsung-galaxy-m21-b07hgjj55il-original-imafsfewggf3dqwc.jpeg?q=70,48,other_types,6000,128,6,not mentioned,9
-"SAMSUNG Galaxy Z Fold3 5G (Phantom Black, 512 GB)",4.3,26927,https://rukminim2.flixcart.com/image/312/312/ksnjp8w0/mobile/b/t/k/galaxy-z-fold3-5g-sm-f926bzkdinu-samsung-original-imag662a7zgxn2fv.jpeg?q=70,12,AMOLED,4400,512,12,Snapdragon888,9
-"SAMSUNG Galaxy A20s (Black, 32 GB)",4.3,12900,https://rukminim2.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/z/y/j/galaxy-a20s-64-a-sm-a207fzkgins-samsung-4-original-imafkx2d6qnvdfgh.jpeg?q=70,13,other_types,4000,32,3,not mentioned,10
-"SAMSUNG Galaxy A20s (Blue, 32 GB)",4.2,12900,https://rukminim2.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/p/3/a/galaxy-a20s-32-a-sm-a207fzbdins-samsung-3-original-imafkx2dygmrbhah.jpeg?q=70,13,other_types,4000,32,3,not mentioned,10
-"SAMSUNG Galaxy M31 (Space Black, 128 GB)",4.2,16790,https://rukminim2.flixcart.com/image/312/312/k7f34i80/mobile/k/g/h/samsung-galaxy-m31-sm-m315fzkgins-original-imafpnrzzt9krr9a.jpeg?q=70,48,other_types,6000,128,6,not mentioned,10
-"SAMSUNG Galaxy M21 (Raven Black, 128 GB)",4.4,15980,https://rukminim2.flixcart.com/image/312/312/kah413k0/mobile/d/m/z/samsung-galaxy-m21-b07hgh8d2r-original-imafsfexgymaayrk.jpeg?q=70,64,other_types,6000,128,6,not mentioned,11
-"SAMSUNG GALAXY M51 (Celestial Black, 128 GB)",4.1,20990,https://rukminim2.flixcart.com/image/312/312/kfeamq80/mobile/b/a/6/samsung-galaxy-m51-sm-m515fzkd-original-imafvvcnhyx5mwtb.jpeg?q=70,48,other_types,7000,128,6,not mentioned,10
-"SAMSUNG Galaxy A22 5G (Gray, 128 GB)",4.4,15690,https://rukminim2.flixcart.com/image/312/312/krme93k0/mobile/0/d/n/galaxy-a22-5g-sm-a226bzajins-samsung-original-imag5dgh3fpehhhx.jpeg?q=70,64,TFT,5000,128,6,Dimensity700,11
-"SAMSUNG Galaxy A71 (Haze Crush Silver, 128 GB)",4.3,29499,https://rukminim2.flixcart.com/image/312/312/kctf0cw0/mobile/g/a/z/samsung-galaxy-a71-sm-a715fmswins-original-imaftvyfbzzgbham.jpeg?q=70,48,AMOLED,4500,128,8,not mentioned,12
-"SAMSUNG Galaxy F12 (Celestial Black, 64 GB)",4.1,10499,https://rukminim2.flixcart.com/image/312/312/kn22m4w0/mobile/6/o/e/galaxy-f12-sm-f127gzkgins-samsung-original-imagftmhuqq3arbg.jpeg?q=70,48,other_types,6000,64,4,not mentioned,10
-"SAMSUNG Galaxy A33 (Awesome Blue, 128 GB)",4.3,25999,https://rukminim2.flixcart.com/image/312/312/l3xcr680/mobile/c/4/9/-original-imagexeyqhh6vwzk.jpeg?q=70,48,other_types,5000,128,6,not mentioned,11
-"SAMSUNG Galaxy M21 (Midnight Blue, 64 GB)",4.1,14248,https://rukminim2.flixcart.com/image/312/312/kah413k0/mobile/z/m/g/samsung-galaxy-m21-b07hgjj55il-original-imafsfewggf3dqwc.jpeg?q=70,48,other_types,6000,64,4,not mentioned,12
-"SAMSUNG Galaxy M21 2021 Edition (Arctic Blue, 64 GB)",4.1,11490,https://rukminim2.flixcart.com/image/312/312/ks99aq80/mobile/r/m/y/galaxy-m21-2021-edition-sm-m215glbdins-samsung-original-imag5v9zf8fjvq9h.jpeg?q=70,50,other_types,6000,64,4,not mentioned,11
-"SAMSUNG Galaxy A13 (White, 128 GB)",4.2,14999,https://rukminim2.flixcart.com/image/312/312/l19m93k0/mobile/p/h/e/-original-imagcv7424zgvfk8.jpeg?q=70,48,other_types,5000,128,4,not mentioned,10
-"SAMSUNG Galaxy A12 (White, 64 GB)",4.3,11975,https://rukminim2.flixcart.com/image/312/312/krz97rk0/mobile/g/3/m/galaxy-a12-exynos-850-sm-a127fzwjins-samsung-original-imag5n52vmhdygr2.jpeg?q=70,64,LCD,5000,64,4,not mentioned,8
-"SAMSUNG Galaxy A10s (Green, 32 GB)",4.4,11000,https://rukminim2.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/7/f/x/galaxy-a10s-32-gb-b-sm-a107fzggins-samsung-3-original-imafjycgsuszbkhn.jpeg?q=70,13,other_types,3000,64,4,not mentioned,10
-"SAMSUNG Galaxy A50 (Blue, 64 GB)",3.1,18600,https://rukminim2.flixcart.com/image/312/312/jsyyufk0/mobile/e/t/q/samsung-galaxy-a50-sm-a505fzbgins-original-imafefghgjpvhxkq.jpeg?q=70,25,AMOLED,4000,64,6,not mentioned,11
-"SAMSUNG Galaxy F62 (Laser Grey, 128 GB)",4.1,23999,https://rukminim2.flixcart.com/image/312/312/klb78nk0/mobile/4/y/h/galaxy-f62-sm-e625fzkdins-samsung-original-imagygxzrsmbhptk.jpeg?q=70,64,HD+ AMOLED,7000,128,6,Heilo356765,9
-"SAMSUNG Galaxy A12 (Blue, 128 GB)",4.2,17999,https://rukminim2.flixcart.com/image/312/312/krz97rk0/mobile/g/n/h/galaxy-a12-mtk-g35-sm-a125fzbjins-samsung-original-imag5n53wm8rg4tw.jpeg?q=70,48,LCD,5000,128,6,Snapdragon750G,12
-"SAMSUNG Galaxy M42 5G (Prism Dot Black, 128 GB)",4.3,21450,https://rukminim2.flixcart.com/image/312/312/koenl3k0/mobile/c/b/r/galaxy-m42-5g-sm-m426bzkgins-samsung-original-imag2vggv8jqgh7s.jpeg?q=70,48,AMOLED,5000,128,6,not mentioned,9
-"SAMSUNG Galaxy M30s (Blue, 64 GB)",4.1,13999,https://rukminim2.flixcart.com/image/312/312/k51cpe80pkrrdj/mobile/g/f/m/samsung-galaxy-m30s-sm-m307fzbdins-original-imafkzzf3vfqzrfz.jpeg?q=70,48,other_types,6000,64,4,not mentioned,10
-"SAMSUNG Galaxy A33 (Awesome White, 128 GB)",4.3,27499,https://rukminim2.flixcart.com/image/312/312/l3xcr680/mobile/9/8/x/-original-imagexexsaxegzxk.jpeg?q=70,48,other_types,5000,128,8,not mentioned,10
-"SAMSUNG Galaxy A70s (Prism Crush Red, 128 GB)",4.3,31000,https://rukminim2.flixcart.com/image/312/312/kgjqefk0/mobile/u/y/6/samsung-galaxy-a70s-sm-a707fzrwins-original-imafwraz3ahtvchh.jpeg?q=70,64,other_types,4500,128,6,not mentioned,10
-"SAMSUNG Galaxy M21 (Raven Black, 64 GB)",4.2,12999,https://rukminim2.flixcart.com/image/312/312/kah413k0/mobile/d/m/z/samsung-galaxy-m21-b07hgh8d2r-original-imafsfexgymaayrk.jpeg?q=70,48,other_types,6000,64,4,not mentioned,7
-"SAMSUNG Galaxy A21s (Silver, 128 GB)",4.2,16999,https://rukminim2.flixcart.com/image/312/312/kg6vfrk0/mobile/w/6/g/samsung-galaxy-a21s-sm-a217fzslins-original-imafwhjezxc7afzx.jpeg?q=70,48,other_types,5000,128,6,Snapdragon(SDM450-F01),10
-"SAMSUNG Galaxy M11 (Violet, 64 GB)",4.4,12999,https://rukminim2.flixcart.com/image/312/312/kavefm80/mobile/h/c/y/samsung-galaxy-m11-sm-m115fzleins-original-imafscgysncykdxv.jpeg?q=70,13,LCD,5000,64,4,not mentioned,9
-"SAMSUNG Galaxy A10s (Blue, 32 GB)",4.6,9490,https://rukminim2.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/q/m/g/galaxy-a10s-32-gb-c-sm-a107fzbdins-samsung-2-original-imafjycggdwt5akh.jpeg?q=70,13,other_types,4000,32,2,Snapdragon(SDM439),12
-"SAMSUNG Galaxy Note 8 (Orchid Grey, 64 GB)",4.2,8464,https://rukminim2.flixcart.com/image/312/312/js98x3k0/mobile/g/h/a/samsung-galaxy-note-8-na-original-imafdvaqjabwvguk.jpeg?q=70,12,other_types,3300,64,6,not mentioned,10
-"SAMSUNG Galaxy M01 (Red, 32 GB)",4.3,8999,https://rukminim2.flixcart.com/image/312/312/kavefm80/mobile/b/g/z/samsung-galaxy-m01-sm-m015gzrdins-original-imafscggbdypyqqc.jpeg?q=70,13,LCD,4000,32,3,not mentioned,10
-"SAMSUNG Galaxy A70s (Prism Crush White, 128 GB)",4.2,31000,https://rukminim2.flixcart.com/image/312/312/kgjqefk0/mobile/j/s/5/samsung-galaxy-a70s-sm-a707fzwwins-original-imafwrdhsyfzh6yg.jpeg?q=70,64,other_types,4500,128,6,Snapdragon(SDM450-F01),10
-"SAMSUNG Galaxy M32 Prime Edition (Black, 64 GB)",4.2,12185,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/q/2/e/-original-imagjhqzefepgn4t.jpeg?q=70,64,other_types,6000,64,4,not mentioned,8
-"SAMSUNG Galaxy M11 (Metallic Blue, 32 GB)",4.3,10999,https://rukminim2.flixcart.com/image/312/312/kavefm80/mobile/w/u/z/samsung-galaxy-m11-sm-m115fmbeins-original-imafscgycugcewty.jpeg?q=70,13,LCD,5000,32,3,not mentioned,11
-"SAMSUNG Galaxy F41 (Fusion Blue, 64 GB)",4.3,15999,https://rukminim2.flixcart.com/image/312/312/kfzq8i80/mobile/y/j/f/samsung-galaxy-f41-sm-f415fzbdins-original-imafwbnpdafmeuj6.jpeg?q=70,64,other_types,6000,64,6,not mentioned,8
-"SAMSUNG Galaxy A52 (Awesome Black, 128 GB)",4.3,31999,https://rukminim2.flixcart.com/image/312/312/kmf7ki80/mobile/r/z/1/galaxy-a52-sm-a525fzkhins-samsung-original-imagfb4vgf9eez3j.jpeg?q=70,64,HD+ AMOLED,4500,128,8,Snapdragon720GProcessor,12
-"SAMSUNG Galaxy J6 (Black, 32 GB)",4.4,11500,https://rukminim2.flixcart.com/image/312/312/jjelq4w0/mobile/e/3/a/samsung-galaxy-j6-sm-j600gzkgins-original-imaf6zpe7vrnygsn.jpeg?q=70,13,other_types,3000,32,3,not mentioned,7
-"SAMSUNG Galaxy M32 Prime Edition (Black, 128 GB)",4.3,15200,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/q/2/e/-original-imagjhqzefepgn4t.jpeg?q=70,64,other_types,6000,128,6,not mentioned,10
-"SAMSUNG Galaxy J2 2018 (Gold, 16 GB)",4.5,8200,https://rukminim2.flixcart.com/image/312/312/jgpfs7k0/mobile/a/q/y/samsung-j2-2018-sm-j250g-original-imaf4uwk3udf3uj4.jpeg?q=70,8,other_types,2600,16,2,Snapdragon425P,11
-"SAMSUNG Galaxy A12 (Blue, 128 GB)",4.1,17999,https://rukminim2.flixcart.com/image/312/312/krz97rk0/mobile/g/n/h/galaxy-a12-mtk-g35-sm-a125fzbjins-samsung-original-imag5n53wm8rg4tw.jpeg?q=70,48,LCD,5000,128,6,Heilo356765,10
-"SAMSUNG M32 5G (Sky blue, 128 GB)",4.2,16200,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/z/x/-original-imag6jmvqyef5nyf.jpeg?q=70,48,other_types,5000,128,6,Dimensity720,10
-"SAMSUNG Galaxy M01 (Blue, 32 GB)",4.6,8999,https://rukminim2.flixcart.com/image/312/312/kavefm80/mobile/d/f/a/samsung-galaxy-m01-sm-m015gzbdins-original-imafscggmdqgt62q.jpeg?q=70,13,LCD,4000,32,3,Snapdragon(SDM439),8
-"SAMSUNG Galaxy F41 (Fusion Blue, 128 GB)",4.4,14499,https://rukminim2.flixcart.com/image/312/312/kfzq8i80/mobile/y/j/f/samsung-galaxy-f41-sm-f415fzbdins-original-imafwbnpdafmeuj6.jpeg?q=70,64,other_types,6000,128,6,not mentioned,8
-"SAMSUNG Galaxy A7 (Gold, 64 GB)",4.2,22300,https://rukminim2.flixcart.com/image/312/312/jmgmmq80/mobile/6/p/7/samsung-galaxy-a7-sm-a750fzddins-original-imaf9d35yrmzjvn5.jpeg?q=70,24,AMOLED,3300,64,4,not mentioned,13
-"SAMSUNG Galaxy J2 Core (Black, 16 GB)",4.4,6999,https://rukminim2.flixcart.com/image/312/312/kqidx8w0/mobile/s/g/t/galaxy-j2-core-sm-j260gzkdins-samsung-original-imaf9f33s65wbgdn.jpeg?q=70,8,LCD,2600,16,1,not mentioned,11
-"SAMSUNG Galaxy S23 Ultra 5G (Phantom Black, 1 TB)",4.1,23927,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/m/l/o/-original-imagmg6gzjf7gggt.jpeg?q=70,200,HD+ AMOLED,5000,1,12,Gen8,10
-"SAMSUNG Galaxy F42 5G (Matte Black, 128 GB)",4.3,20999,https://rukminim2.flixcart.com/image/312/312/ku4ezrk0/mobile/v/5/e/galaxy-f42-5g-sm-e426bzahins-samsung-original-imag7anfwxsgumgz.jpeg?q=70,64,other_types,5000,128,6,Dimensity700,10
-"SAMSUNG Galaxy F41 (Fusion Green, 64 GB)",4.3,15999,https://rukminim2.flixcart.com/image/312/312/kfzq8i80/mobile/w/z/z/samsung-galaxy-f41-sm-f415fzgdins-original-imafwbnhbywwg5gh.jpeg?q=70,64,other_types,6000,64,6,not mentioned,11
-"SAMSUNG M31s (Mirage Blue, 128 GB)",4.1,24999,https://rukminim2.flixcart.com/image/312/312/kdt50nk0/screen-guard/screen-guard/h/h/e/marshland-trt46-original-imafumwfbkwhsg9y.jpeg?q=70,64,AMOLED,6000,128,8,not mentioned,9
-"SAMSUNG Galaxy A32 (Awesome Blue, 128 GB)",4.4,24999,https://rukminim2.flixcart.com/image/312/312/kltryq80/mobile/3/d/b/galaxy-a32-sm-a325fzbhins-samsung-original-imagyuy3vgyeuntc.jpeg?q=70,64,HD+ AMOLED,5000,128,6,Heilo80P,9
-"SAMSUNG Galaxy A50 (White, 64 GB)",4.3,24000,https://rukminim2.flixcart.com/image/312/312/jsyyufk0/mobile/b/w/f/samsung-galaxy-a50-sm-a505fzwdins-original-imafefghh95xxr6d.jpeg?q=70,25,AMOLED,4000,64,6,not mentioned,11
-"SAMSUNG Galaxy A70 (Blue, 128 GB)",4.4,30900,https://rukminim2.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/h/d/t/galaxy-a70-128-u-sm-a705gzbhins-samsung-6-original-imaffhmhffzeqkhw.jpeg?q=70,32,other_types,4500,128,6,not mentioned,10
-"SAMSUNG Galaxy F22 (Denim Blue, 128 GB)",4.1,13499,https://rukminim2.flixcart.com/image/312/312/kqqykcw0/mobile/j/5/7/galaxy-f22-sm-e225flbdins-samsung-original-imag4z99fp4qdfby.jpeg?q=70,48,other_types,6000,128,6,Heilo80P,11
-"SAMSUNG Galaxy M01 (Black, 32 GB)",4.2,8999,https://rukminim2.flixcart.com/image/312/312/kavefm80/mobile/x/g/r/samsung-galaxy-m01-sm-m015gzkdins-original-imafscggjk6twbh6.jpeg?q=70,13,LCD,4000,32,3,Snapdragon(SDM439),4
-"SAMSUNG Galaxy M42 (Prism Dot Gray, 128 GB)",4.2,18990,https://rukminim2.flixcart.com/image/312/312/kpcy5jk0/mobile/w/m/y/galaxy-m42-galaxy-m42-samsung-original-imag3hz5gndhffxn.jpeg?q=70,48,other_types,5000,128,8,Snapdragon750GProcessor,10
-"SAMSUNG Galaxy core prime (Milky White, 8 GB)",4.1,8999,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/j/m/3/galaxy-core-prime-sm-g360fzwyinu-samsung-original-imagzyh4jxrdqwbg.jpeg?q=70,5,other_types,2000,8,1,not mentioned,10
-"SAMSUNG GALAXY M31S (Mirage Black, 128 GB)",4.3,23900,https://rukminim2.flixcart.com/image/312/312/kffq2kw0/mobile/h/3/j/samsung-galaxy-m31s-sm-m317fzkdins-original-imafvweqsfr6uwwm.jpeg?q=70,64,other_types,6000,128,8,not mentioned,10
-"SAMSUNG Galaxy M21 (Iceberg Blue, 64 GB)",4.2,14775,https://rukminim2.flixcart.com/image/312/312/kgv5x8w0/mobile/v/t/y/samsung-galaxy-m21-sm-m215flbdins-original-imafxykjnbc2wghg.jpeg?q=70,48,other_types,6000,64,4,not mentioned,10
-"SAMSUNG Galaxy A21s (Black, 128 GB)",4.0,16999,https://rukminim2.flixcart.com/image/312/312/kbi9h8w0/mobile/g/g/c/samsung-galaxy-a21s-sm-a217fzkfins-original-imafsuyajewgnfcg.jpeg?q=70,48,other_types,5000,128,6,not mentioned,10
-"SAMSUNG Galaxy M02 (Gray, 32 GB)",4.3,8499,https://rukminim2.flixcart.com/image/312/312/kkzrpu80/mobile/b/e/u/galaxy-m02-b08t2nnt4s5-samsung-original-imagy73cteuu4kfj.jpeg?q=70,13,other_types,5000,32,3,MediaTek,13
-"SAMSUNG Galaxy M31 (Space Black, 128 GB)",4.5,18799,https://rukminim2.flixcart.com/image/312/312/ke8uv0w0/mobile/g/e/k/samsung-galaxy-m31-sm-m315fzkhins-original-imafuywtj9yfjjhx.jpeg?q=70,64,other_types,6000,128,8,not mentioned,10
-"SAMSUNG Galaxy S23 Plus 5G (Phantom Black, 256 GB)",4.3,29463,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/c/1/h/-original-imagmg6gcjyuvzvn.jpeg?q=70,50,HD+ AMOLED,4700,256,8,Gen8,9
-"SAMSUNG Galaxy A51 (Prism Crush Black, 128 GB)",4.3,20999,https://rukminim2.flixcart.com/image/312/312/k62i5jk0/mobile/y/k/s/samsung-galaxy-a51-sm-a515fzkhins-original-imafzhr399hrsbzb.jpeg?q=70,48,AMOLED,4000,128,6,not mentioned,11
-"SAMSUNG Galaxy A70 (Black, 128 GB)",4.2,30900,https://rukminim2.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/u/k/g/galaxy-a70-128-b-sm-a705gzkhins-samsung-6-original-imaffnv6tzdve9ju.jpeg?q=70,32,other_types,4500,128,6,not mentioned,13
-"SAMSUNG Galaxy M52 5G (Blazing Black, 128 GB)",4.1,23068,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/p/5/r/-original-imag7h2tmrsaugcz.jpeg?q=70,64,other_types,5000,128,6,not mentioned,9
-"SAMSUNG Galaxy A20s (Green, 32 GB)",4.4,12900,https://rukminim2.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/g/f/a/galaxy-a20s-64-a-sm-a207fzggins-samsung-4-original-imafh4nxesr3ghcf.jpeg?q=70,13,other_types,4000,32,3,not mentioned,10
-"SAMSUNG Galaxy S23 Ultra 5G (Green, 1 TB)",4.3,23927,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/2/s/7/-original-imagmg6gktts6sfy.jpeg?q=70,200,HD+ AMOLED,5000,1,12,Gen8,7
-"SAMSUNG Galaxy A70s (Prism Crush Red, 128 GB)",4.3,32000,https://rukminim2.flixcart.com/image/312/312/kgjqefk0/mobile/u/y/6/samsung-galaxy-a70s-sm-a707fzrwins-original-imafwraz3ahtvchh.jpeg?q=70,64,other_types,4500,128,8,not mentioned,5
-"SAMSUNG Galaxy A31 (Prism Crush Black, 128 GB)",4.6,23999,https://rukminim2.flixcart.com/image/312/312/kamtsi80/mobile/g/2/j/samsung-galaxy-a31-sm-a315fzkwins-original-imafs5p5ffjbkf3w.jpeg?q=70,48,AMOLED,5000,128,6,MediaTek,8
-"SAMSUNG Galaxy Note 8 (Midnight Black, 64 GB)",4.1,8464,https://rukminim2.flixcart.com/image/312/312/jbpeavk0/mobile/f/f/n/samsung-galaxy-note-8-sm-n950f-original-imafy3r926hhgzy8.jpeg?q=70,12,other_types,3300,64,6,not mentioned,10
-"SAMSUNG Galaxy duos (White, 4 GB)",4.2,13390,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/e/u/s-dues-galaxy-s-dues-samsung-original-imagn6fufpugdgrh.jpeg?q=70,5,other_types,1500,4,1,not mentioned,10
-"SAMSUNG Galaxy A7 (Blue, 64 GB)",4.4,22300,https://rukminim2.flixcart.com/image/312/312/jmgmmq80/mobile/x/f/z/samsung-galaxy-a7-sm-a750fzbhins-original-imaf9d35cv5anzqw.jpeg?q=70,24,AMOLED,3300,64,4,not mentioned,11
-"SAMSUNG Galaxy Note 20 (Mystic Blue, 256 GB)",4.2,20464,https://rukminim2.flixcart.com/image/312/312/kdxfc7k0/mobile/u/a/z/samsung-galaxy-note-20-sm-n980fzbgins-original-imafuq7pxeyqhkkx.jpeg?q=70,64,HD+ AMOLED,4300,256,8,not mentioned,11
-"SAMSUNG Galaxy S20+ (Cosmic Black, 128 GB)",4.4,17464,https://rukminim2.flixcart.com/image/312/312/k6mibgw0/mobile/z/u/x/samsung-galaxy-s20-sm-g985fzkdinu-original-imafpfkbsxshxns2.jpeg?q=70,64,AMOLED,4500,128,8,not mentioned,6
-"SAMSUNG Galaxy Z Flip3 5G (Phantom Black, 256 GB)",4.3,23463,https://rukminim2.flixcart.com/image/312/312/ksnjp8w0/mobile/f/k/y/galaxy-z-flip3-5g-sm-f711bzkainu-samsung-original-imag662axn2xmght.jpeg?q=70,12,HD+ AMOLED,3300,256,8,Snapdragon888,10
-"SAMSUNG Galaxy A12 (Blue, 128 GB)",4.5,12867,https://rukminim2.flixcart.com/image/312/312/krz97rk0/mobile/g/n/h/galaxy-a12-mtk-g35-sm-a125fzbjins-samsung-original-imag5n53wm8rg4tw.jpeg?q=70,48,LCD,5000,128,6,not mentioned,8
-"SAMSUNG Galaxy J7 Prime (Gold, 32 GB)",4.3,15300,https://rukminim2.flixcart.com/image/312/312/jdkjzww0/mobile/c/h/f/samsung-galaxy-j7-prime-sm-g610fzddins-sm-g610fzdoins-original-imaf2gf2gcbcyykg.jpeg?q=70,13,other_types,3300,32,3,not mentioned,8
-"SAMSUNG Galaxy A31 (Prism Crush Blue, 128 GB)",4.4,16999,https://rukminim2.flixcart.com/image/312/312/kamtsi80/mobile/z/c/w/samsung-galaxy-a31-sm-a315fzbwins-original-imafs5p5kwscdurq.jpeg?q=70,48,AMOLED,5000,128,6,MediaTek,10
-"SAMSUNG Galaxy J8 (Blue, 64 GB)",4.4,17000,https://rukminim2.flixcart.com/image/312/312/jjelq4w0/mobile/4/x/5/samsung-galaxy-j8-sm-j810gzbgins-original-imaf6zg5zkgnwguk.jpeg?q=70,16,other_types,3500,64,4,Snapdragon450P,10
-"SAMSUNG Galaxy J8 (Black, 64 GB)",4.2,17000,https://rukminim2.flixcart.com/image/312/312/jjelq4w0/mobile/z/g/g/samsung-galaxy-j8-sm-j810g-original-imaf6zg5bwpvhezx.jpeg?q=70,16,other_types,3500,64,4,Snapdragon450P,10
-"SAMSUNG Galaxy M31s (Mirage Blue, 128 GB)",4.1,18999,https://rukminim2.flixcart.com/image/312/312/ke8uv0w0/mobile/e/7/r/samsung-galaxy-m31s-sm-m317fzbdins-original-imafuywznfyhzy9t.jpeg?q=70,64,other_types,6000,128,6,not mentioned,9
-"SAMSUNG Galaxy A32 (Awesome Black, 128 GB)",4.5,24999,https://rukminim2.flixcart.com/image/312/312/klscivk0/mobile/5/t/k/a32-sm-a325fzkhins-samsung-original-imagyu3bndhp4tzf.jpeg?q=70,64,other_types,5000,128,6,not mentioned,9
-"SAMSUNG Galaxy F41 (Fusion Black, 128 GB)",4.4,14499,https://rukminim2.flixcart.com/image/312/312/kfzq8i80/mobile/w/s/2/samsung-galaxy-f41-sm-f415fzkdins-original-imafwbnvxuhzvtpv.jpeg?q=70,64,other_types,6000,128,6,not mentioned,9
-"SAMSUNG Galaxy A10s (Black, 32 GB)",4.3,10000,https://rukminim2.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/d/u/c/galaxy-a10s-32-gb-c-sm-a107fzkdins-samsung-2-original-imafjycfagsvuzrw.jpeg?q=70,13,other_types,4000,32,2,MediaTek,9
-"SAMSUNG Galaxy A50 (Blue, 64 GB)",4.2,21000,https://rukminim2.flixcart.com/image/312/312/jsyyufk0/mobile/e/t/q/samsung-galaxy-a50-sm-a505fzbgins-original-imafefghgjpvhxkq.jpeg?q=70,25,AMOLED,4000,64,4,not mentioned,8
-"SAMSUNG Galaxy M40 (Seawater Blue, 128 GB)",4.5,21490,https://rukminim2.flixcart.com/image/312/312/k51cpe80pkrrdj/mobile/5/j/g/samsung-galaxy-m40-m40-original-imafg6vph4j6fazf.jpeg?q=70,32,other_types,3500,128,6,not mentioned,9
-"SAMSUNG Galaxy A30s (Prism Crush Violet, 64 GB)",4.3,16199,https://rukminim2.flixcart.com/image/312/312/k4vmxzk0/mobile/g/v/z/samsung-galaxy-a30s-sm-a307fzlvins-original-imafk8hxeujuqvzw.jpeg?q=70,25,other_types,4000,64,4,not mentioned,12
-"SAMSUNG Galaxy J4 Plus (Black, 32 GB)",4.4,9000,https://rukminim2.flixcart.com/image/312/312/jmgmmq80/mobile/b/r/h/samsung-galaxy-j4-plus-sm-j415fzkfins-original-imaf9d4khsftw4pz.jpeg?q=70,13,other_types,3300,32,2,Snapdragon425P,8
-"SAMSUNG Galaxy M01s (Gray, 32 GB)",4.2,10999,https://rukminim2.flixcart.com/image/312/312/kdnf98w0/mobile/g/z/n/samsung-galaxy-m01s-b089ms4lgt-original-imafug5gtyqhdwb8.jpeg?q=70,13,other_types,4000,32,3,MediaTek,9
-"SAMSUNG Galaxy S22 (Pink Gold, 128 GB)",4.2,20463,https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/h/f/galaxy-s22-sm-s901eiddinu-samsung-original-imagpegzgujrzvvj.jpeg?q=70,50,other_types,3700,128,8,not mentioned,12
+2025 Rank,2024 Rank,Institution Name,Location,Location Full,Size,Academic Reputation,Employer Reputation,Faculty Student,Citations per Faculty,International Faculty,International Students,International Research Network,Employment Outcomes,Sustainability,QS Overall Score
+1,1,Massachusetts Institute of Technology (MIT) ,US,United States,M,100,100,100,100,99.3,86.8,96,100,99,100
+2,6,Imperial College London,UK,United Kingdom,L,98.5,99.5,98.2,93.9,100,99.6,97.4,93.4,99.7,98.5
+3,3,University of Oxford,UK,United Kingdom,L,100,100,100,84.8,98.1,97.7,100,100,85,96.9
+4,4,Harvard University,US,United States,L,100,100,96.3,100,74.1,69,99.6,100,84.4,96.8
+5,2,University of Cambridge,UK,United Kingdom,L,100,100,100,84.6,100,94.8,99.3,100,84.8,96.7
+6,5,Stanford University,US,United States,L,100,100,100,99,70.3,60.8,96.8,100,81.2,96.1
+7,7,ETH Zurich - Swiss Federal Institute of Technology,CH,Switzerland,L,98.8,87.2,65.9,97.9,100,98.6,95.7,90.5,98.8,93.9
+8,8,National University of Singapore (NUS),SG,Singapore,XL,99.5,91.1,68.8,93.1,100,88.9,91.6,100,97.7,93.7
+9,9,UCL,UK,United Kingdom,XL,99.5,98.3,95.9,72.2,99,100,99.9,70.3,74.8,91.6
+10,15,California Institute of Technology (Caltech),US,United States,S,96.5,95.3,100,100,100,79.8,65.5,31,62.5,90.9
+11,12,University of Pennsylvania,US,United States,L,96.3,91.9,99.8,74,90.9,66.2,91.9,100,93,90.3
+12,10,"University of California, Berkeley (UCB)",US,United States,XL,100,100,23.5,98.2,91.5,61,97.2,98.4,100,90.1
+13,14,The University of Melbourne,AU,Australia,XL,98.5,93.9,15.4,93,95.1,99.8,97.4,96.5,99.6,88.9
+14,17,Peking University,CN,China (Mainland),XL,99.5,96.6,92.6,97.7,50.3,23.6,79.8,94.2,46.9,88.5
+15,26,"Nanyang Technological University, Singapore (NTU)",SG,Singapore,L,91.9,73.3,80.6,92.4,100,83.5,89.4,83.9,95.6,88.4
+16,13,Cornell University,US,United States,L,98.3,93.1,52.7,97.5,54.2,63.4,94,97.1,72.1,87.9
+17,26,The University of Hong Kong,HK,Hong Kong SAR,L,97.4,59.4,81.2,86.4,100,99.3,81.4,99.7,89.2,87.6
+18,19,The University of Sydney,AU,Australia,XL,96.4,90,10.9,93.7,99.9,100,95.8,93.1,99.6,87.3
+19,19,The University of New South Wales (UNSW Sydney),AU,Australia,XL,90.5,90.4,20.6,94.9,100,99.4,98.3,97.7,99.2,87.1
+20,25,Tsinghua University,CN,China (Mainland),XL,99.2,97.7,95,99.1,18.1,13.4,79.2,92.3,40.4,86.5
+21,11,University of Chicago,US,United States,L,99.1,96.4,94.2,60.8,79,87,85.1,99.1,46.9,86.2
+22,17,Princeton University,US,United States,M,99.8,98.3,57,100,9.6,56.6,78.3,95.7,51.5,85.5
+23,16,Yale University,US,United States,L,99.9,99.9,100,38.6,91.5,63.3,93.9,98.5,92.2,85.2
+24,24,Université PSL,FR,France,L,74.4,97.6,98.1,87.6,62.3,65,99.8,97.1,73.4,84.7
+25,21,University of Toronto,CA,Canada,XL,99.7,96.9,44.9,50.8,96.9,96.1,97.7,98.7,100,84.1
+26,36,EPFL,CH,Switzerland,M,84.2,67.2,91.2,93.6,100,100,81.7,27.2,86.7,83.5
+27,22,The University of Edinburgh,UK,United Kingdom,XL,98.3,97.2,65.5,47.7,98.7,99.8,99.5,55.9,99,83.3
+28,37,Technical University of Munich,DE,Germany,XL,83,98.6,76.8,75.9,80.4,98.6,95.6,34.5,93.1,83.2
+29,30,McGill University,CA,Canada,L,94.3,87.6,62.3,57.9,83.7,89.6,94.2,98.3,99.1,83
+30,34,The Australian National University,AU,Australia,L,93.8,75.4,34.6,84.6,100,96.2,91.4,56.6,97.1,82.4
+31,41,Seoul National University,KR,South Korea,L,98.5,98.6,83.1,71.7,10.5,16.9,73.2,100,96,82.3
+32,28,Johns Hopkins University,US,United States,L,86,62.6,100,84.2,63.7,95.8,98.7,71.5,61.9,82.1
+32,28,The University of Tokyo,JP,Japan,L,100,99.8,89.3,57.3,10.1,29.7,87.4,99.9,98.3,82.1
+34,23,Columbia University,US,United States,XL,99.6,98.8,100,31.7,41.5,97,98.5,99.9,71.8,82
+34,32,The University of Manchester,UK,United Kingdom,XL,95.6,98.1,51.3,45.1,93.1,99.2,99.2,87.6,99.8,82
+36,47,The Chinese University of Hong Kong (CUHK),HK,Hong Kong SAR,L,86.7,53.3,64.2,92.9,100,87.5,74.2,89,86.7,81.3
+37,42,Monash University,AU,Australia,XL,89.2,79.6,9.4,87.6,100,100,94.8,79.4,98.2,81.2
+38,34,University of British Columbia,CA,Canada,XL,98.3,94.3,34.5,57.7,95.5,72.8,96.2,74.6,99.8,81
+39,50,Fudan University,CN,China (Mainland),XL,85.7,87.8,79.7,80.7,88.4,35.1,67.2,64.4,82.7,80.3
+40,40,King's College London,UK,United Kingdom,XL,90.3,85.7,64.3,53.6,99.1,99.5,98.6,59.8,96.2,80.2
+40,43,The University of Queensland,AU,Australia,XL,86.7,74,21.2,90.2,100,100,96.7,56.7,96.7,80.2
+42,29,"University of California, Los Angeles (UCLA)",US,United States,XL,100,99.8,35.4,74,42.2,22.3,95.5,94.7,67.1,79.8
+43,38,New York University (NYU),US,United States,XL,96.3,98.8,90.5,28.6,30.2,98.1,92.6,98.4,95.4,79.6
+44,33,University of Michigan-Ann Arbor,US,United States,XL,97.9,92.1,80.3,47.6,65.5,39.2,95.8,94.5,62.2,79
+45,51,Shanghai Jiao Tong University,CN,China (Mainland),XL,84,86.3,58.6,99.6,23.1,19.6,73.7,73.5,80.3,77.8
+46,38,Institut Polytechnique de Paris,FR,France,M,44.7,99.6,95.9,86.1,99.1,98,89.6,97.7,54.8,77.5
+47,60,The Hong Kong University of Science and Technology,HK,Hong Kong SAR,M,81.1,50.3,56.7,99.7,100,95.4,46.7,65.4,77.6,77.1
+47,44,Zhejiang University,CN,China (Mainland),XL,75.3,95.4,54.7,99.5,95,15.9,91.8,55.5,30.7,77.1
+49,47,Delft University of Technology,NL,Netherlands,L,74.4,83,39.4,79.7,100,91.4,93.7,54.8,99.1,77
+50,46,Kyoto University,JP,Japan,L,98.8,99,94.2,39.3,15.9,19,85.7,72.8,85.2,76
+50,47,Northwestern University,US,United States,L,84,68,97.6,67.7,45.4,52,89.4,96.8,55.4,76
+50,45,The London School of Economics and Political Science (LSE),UK,United Kingdom,L,67.2,97,35.1,69.4,100,100,81.2,99.6,91.3,76
+53,56,KAIST - Korea Advanced Institute of Science & Technology,KR,South Korea,M,87.7,91,60.2,96.2,21.1,10.9,46.8,63.3,60.3,75.7
+54,55,University of Bristol,UK,United Kingdom,L,75.8,82.5,36.7,75.9,87.5,89.8,94.6,51.2,98.9,75.4
+55,53,University of Amsterdam,NL,Netherlands,XL,83.8,52.1,21.4,92.2,96,87.5,96.3,79.8,38.2,73.7
+56,76,Yonsei University,KR,South Korea,L,81.5,97,84.2,44.1,20.7,51.2,78.7,87.8,88.9,72.9
+57,65,The Hong Kong Polytechnic University,HK,Hong Kong SAR,L,68,35.6,65,94.9,100,91.9,78.9,64.5,77.4,72.1
+58,52,Carnegie Mellon University,US,United States,L,69.8,80.1,40.9,98.9,33.7,99.1,79.9,61.5,24.5,72
+59,54,Ludwig-Maximilians-Universität München,DE,Germany,XL,92.2,86.6,38.5,50,75.1,37.6,95.5,66.9,62.2,71.6
+60,65,Universiti Malaya (UM),MY,Malaysia,L,82.9,95.1,75.7,29.1,60.2,64.2,91.8,69.3,83.6,71.2
+61,57,Duke University,US,United States,L,86,74.7,100,35.1,16.3,61,93.3,85.5,75,70.8
+62,70,City University of Hong Kong,HK,Hong Kong SAR,M,60.9,30.8,89.5,100,100,100,62.9,37.5,72.9,70.7
+63,61,KU Leuven,BE,Belgium,XL,84.6,49.6,7.1,91,93.8,47.7,99.5,75.3,51.2,70.3
+63,59,Sorbonne University,FR,France,XL,87.2,52,43,72.3,33.8,46.7,99.8,79.7,87.6,70.3
+65,68,The University of Auckland,NZ,New Zealand,XL,82.2,44.7,15.5,66.9,100,84,87.4,92.9,99.7,69.7
+66,58,University of Texas at Austin,US,United States,XL,93.5,86.6,8.1,76.7,6.1,11.7,91.7,81.7,52.1,69.5
+67,79,Korea University,KR,South Korea,L,78.2,93.8,73,45,15.2,45.7,65.7,89,85.2,69
+68,69,National Taiwan University (NTU),TW,Taiwan,XL,93.4,92.1,25.5,44.3,16.7,27.4,71.5,99.9,90,68.7
+69,67,The University of Warwick,UK,United Kingdom,L,72.2,86.4,35.5,37.7,98.1,99.1,94.2,65.7,89.7,68.2
+69,64,University of Illinois at Urbana-Champaign,US,United States,XL,83.9,75.7,6.4,77.5,14,56.3,90.4,81.7,65,68.2
+71,95,Universidad de Buenos Aires (UBA),AR,Argentina,XL,94.1,94.1,71.7,1.6,63.9,64.6,73.4,99.8,51.8,67.6
+72,62,"University of California, San Diego (UCSD)",US,United States,XL,89.3,57.8,50.8,67,54.6,44.3,95.5,21.7,44.3,67.1
+73,71,Université Paris-Saclay,FR,France,XL,60.7,99.1,99.8,35,35.7,58.6,98.6,70.8,72.6,67
+74,73,KTH Royal Institute of Technology ,SE,Sweden,L,45.2,55.6,62.3,86.1,92,65.9,91.1,62.4,94.8,65.7
+75,85,Lund University,SE,Sweden,L,68.3,52.5,55.5,44.6,97.4,73.4,96.7,86.5,99.6,65.6
+76,63,University of Washington,US,United States,XL,81.9,55.5,28.6,78.8,11,32.8,95.6,68.7,66.5,65.3
+77,72,The University of Western Australia,AU,Australia,L,55.5,41.8,13.1,98.8,100,99.8,94.2,78,50.8,65.2
+78,76,University of Glasgow,UK,United Kingdom,XL,77.4,67.7,38,32.5,95.7,99.4,97.6,33.5,98.5,65
+79,73,Brown University,US,United States,M,59.9,49.6,77.7,76.4,79.9,50.9,83.2,63.6,46.6,64.7
+80,84,University of Birmingham,UK,United Kingdom,XL,68.9,69,39,40.5,92.6,89.3,97.5,44.5,96.8,64.1
+80,81,University of Southampton,UK,United Kingdom,L,50.1,44.3,40.7,83.4,92.5,98,97.1,49.2,96.9,64.1
+82,89,The University of Adelaide,AU,Australia,L,56,38.9,17.9,87,100,99.3,93.6,51.5,95.7,63.8
+82,75,University of Leeds,UK,United Kingdom,XL,70.5,75.9,36.4,39.8,82.5,88.5,98.8,50.9,71.8,63.8
+84,87,Ruprecht-Karls-Universität Heidelberg,DE,Germany,L,76.9,59.4,99.4,32.7,54.2,53.6,94.5,25.2,77.6,63.7
+84,91,Tokyo Institute of Technology (Tokyo Tech),JP,Japan,M,75.1,94.1,84.1,43.1,23.4,30.5,61.2,23.7,62.2,63.7
+86,80,Osaka University,JP,Japan,L,82.4,87,45.2,54.9,23.9,12.2,68.2,33,68,63.5
+87,81,"Trinity College Dublin, The University of Dublin",IE,Ireland,L,69.5,47.4,20.2,58.4,99.3,88,91.3,88.6,57.7,62.9
+88,90,University of Technology Sydney,AU,Australia,L,43.9,55,9.8,97.7,96.6,86,91.4,40.2,96.3,62.4
+89,78,Durham University,UK,United Kingdom,L,59.6,83.9,26.3,40.9,97.3,84.9,89.7,39.4,98.6,61.7
+89,83,Pennsylvania State University,US,United States,XL,76.6,64.5,25,55.4,25.1,28,97.9,61.9,96.5,61.7
+89,99,Purdue University,US,United States,XL,63.3,81.1,11.4,54.3,79.6,45.2,92.9,63.1,90.1,61.7
+92,85,Universidade de São Paulo,BR,Brazil,XL,92.8,74.6,21.4,28.5,6.8,2.1,95.9,97.9,93.6,61.6
+93,103,Pontificia Universidad Católica de Chile (UC),CL,Chile,L,93.7,98,23.7,8.8,26,3.7,82.5,99.9,79.3,61.5
+94,87,Lomonosov Moscow State University,RU,Russia,XL,78,82.3,99.7,4.1,19.7,91.5,88.1,95.8,3.5,61.4
+94,93,Universidad Nacional Autónoma de México (UNAM),MX,Mexico,XL,97,94.4,37.4,2.4,7.5,2.3,93.2,93.2,83.4,61.4
+96,111,University of Alberta,CA,Canada,XL,57,42.2,39.1,61.3,98.3,71,96,70,97.6,61.2
+97,98,Freie Universitaet Berlin,DE,Germany,L,80.3,56.9,5,71.7,62.4,43.7,93.1,32.8,31.3,60.6
+98,100,Pohang University of Science And Technology (POSTECH),KR,South Korea,S,45.9,80,99.9,96.9,27.6,2.7,26.6,11,36.6,60.3
+99,106,RWTH Aachen University,DE,Germany,XL,46.6,93.7,6.3,71.9,48.6,85.5,86.1,33.4,84.8,59.9
+100,107,University of Copenhagen,DK,Denmark,XL,74,31.6,99.8,23.1,84.9,15.6,98.2,90.8,73.2,59.6
+101,180,King Fahd University of Petroleum & Minerals,SA,Saudi Arabia,M,38,46.5,86,78,100,47.6,73.9,97.8,20.1,59.5
+102,119,"KIT, Karlsruhe Institute of Technology",DE,Germany,L,44.9,80.9,39.4,68.4,70.5,42.9,86.4,50.8,75.3,59.4
+103,105,Uppsala University,SE,Sweden,L,61.4,33.7,52,42.3,99.4,81.1,96.7,68.4,99.2,59.3
+104,95,University of St Andrews,UK,United Kingdom,M,46.5,63.2,64.7,49.2,98.4,100,83.8,18.5,91.1,59.2
+105,104,The University of Sheffield,UK,United Kingdom,L,58.3,48.7,52.5,43.9,83.3,96.8,95.8,33.8,97.7,59.1
+105,107,Utrecht University,NL,Netherlands,XL,66.5,38.8,31,79.5,55.7,19.4,97.3,54.7,61.9,59.1
+107,113,Tohoku University,JP,Japan,L,73.8,82.8,97.8,23.9,14.1,11.4,68.3,22.6,78.6,58.8
+108,100,University of Nottingham,UK,United Kingdom,XL,61.1,65.8,32.8,37.6,89.4,70.5,98,38,97,58.5
+109,121,Technical University of Denmark,DK,Denmark,M,33.2,22.1,99.1,84.4,100,87.7,88.1,43.6,47.9,58.3
+109,91,University of Zurich,CH,Switzerland,L,59.9,26.4,92.2,40.1,100,42.8,94.3,88.6,58.7,58.3
+111,123,Politecnico di Milano,IT,Italy,XL,70.8,77,5.8,40.2,67.4,56.8,88.1,52.9,72.6,58.2
+108,93,Boston University,US,United States,L,61.9,69.1,38.3,41.3,34.3,88.9,86.9,77.2,65.9,58.1
+113,109,Aalto University,FI,Finland,L,45.7,40.6,33.2,73.6,95.2,40.1,78.2,95.1,94.7,57.9
+114,97,Georgia Institute of Technology,US,United States,XL,67.1,82.6,20.3,52.8,21.3,66.4,75.5,43.1,39.5,57.3
+115,112,University of Waterloo,CA,Canada,XL,40.4,64.2,6.5,78.9,75.8,71.3,84.6,58.9,93.3,57.2
+116,102,University of Wisconsin-Madison,US,United States,XL,77.7,47.8,74.3,23.7,35.3,23.6,91.6,81.6,59.6,57.1
+117,115,University of Helsinki,FI,Finland,L,62.3,29.1,59.4,49.6,73.4,5.7,96.9,90.5,94.5,56.8
+118,149,Indian Institute of Technology Bombay (IITB),IN,India,L,58.5,86,14.4,79.1,4.3,1.3,52.3,64.5,52.5,56.3
+119,117,University of Oslo,NO,Norway,L,55.6,16,73.8,55.7,91.6,31.7,97.3,80.9,72.1,56.1
+120,145,Queen Mary University of London,UK,United Kingdom,L,48.3,36.9,30.4,62.8,99.5,99.2,92.5,21.4,95.6,55.8
+120,114,Western University,CA,Canada,XL,32.6,38.9,3.3,93.4,99.8,49.5,81.5,96.7,99.3,55.8
+122,173,Qatar University,QA,Qatar,M,29.8,50.6,68.1,48.2,100,96.5,89.4,98.6,74,55.7
+123,140,RMIT University,AU,Australia,XL,40.4,48,5.2,77.7,100,91.4,83.2,38.4,93.9,55.5
+123,145,Sungkyunkwan University(SKKU),KR,South Korea,L,57.9,70.7,80.5,41.3,17.5,41.7,54.2,36.5,79.1,55.5
+125,116,University of Southern California,US,United States,XL,50.4,54.5,17.3,58,26,74.1,85.8,92.6,97.7,55.2
+126,120,Humboldt-Universität zu Berlin,DE,Germany,XL,89.2,69.9,7.4,27,69.1,35.1,93.1,19,19.9,55
+126,171,University College Dublin,IE,Ireland,L,51.4,43.5,16.6,46.4,99.1,74.8,87.2,89.8,95.6,55
+128,118,Stockholm University,SE,Sweden,L,52.5,21,26.7,64.5,80.7,89.8,95.7,86.6,58.7,54.8
+129,110,Newcastle University,UK,United Kingdom,L,50,59.3,39.2,38.7,89.5,68.6,97.1,31.3,97.1,54.5
+130,118,"University of California, Davis",US,United States,XL,63,48,23.5,52.5,72.7,51.3,90.6,22.8,76.1,54.4
+131,124,University of Basel,CH,Switzerland,M,26.6,13.5,61.4,94.5,100,85.8,89.4,69.9,44.6,54.3
+132,134,Sapienza University of Rome,IT,Italy,XL,80.7,48.5,5,45.3,3.1,8,97.1,88,72.3,54.2
+133,154,Alma Mater Studiorum - University of Bologna,IT,Italy,XL,80.8,47.8,3.7,46.6,14.5,12.3,96,53.8,88.4,54.1
+133,130,Macquarie University,AU,Australia,L,33.4,39.2,9.1,79.6,99.9,91.6,90.9,54.1,95,54.1
+145,141,Nanjing University,CN,China (Mainland),XL,57.1,32.5,35.6,93,61.9,7.6,67.1,29,16.5,53
+136,124,Eindhoven University of Technology,NL,Netherlands,M,28.7,72.1,35.7,79.3,100,82.7,70.8,24.2,29.8,54
+137,130,University of Vienna,AT,Austria,XL,70.9,40.4,23.2,13,100,92,96,89.7,60.9,53.9
+138,159,Universiti Kebangsaan Malaysia (UKM),MY,Malaysia,L,61.7,66.4,80.4,14.1,45.7,78.8,83.7,22.5,64.4,53.8
+139,129,Chalmers University of Technology,SE,Sweden,M,26.3,50.4,50.5,77.4,100,63.1,77,31.7,87,53.7
+139,159,Universidad de Chile,CL,Chile,XL,82.8,90,8,11.2,8.5,4.5,77.1,96.1,64.1,53.7
+141,122,Lancaster University,UK,United Kingdom,L,38.9,36.7,27.7,69.6,93.3,92.3,89.7,28.8,96.2,53.6
+141,126,Leiden University,NL,Netherlands,XL,68.4,32.9,21.3,54.5,85,51.7,95.2,48.8,25.5,53.6
+141,145,Rice University,US,United States,M,39.1,27.3,62.5,87.9,77.5,94.1,62.2,29.5,20.6,53.6
+144,143,Aarhus University,DK,Denmark,L,54.7,27.6,30.8,63.8,89.8,11.9,96.1,69.5,76.4,53.3
+133,137,University of Science and Technology of China,CN,China (Mainland),L,50,23.7,94.7,97.7,11.6,5.1,75.7,31.9,11.9,54.1
+146,137,Universiti Sains Malaysia (USM),MY,Malaysia,L,63.3,69.7,46.4,19.6,24.3,96.4,87.8,20.1,71.2,52.7
+147,154,Technische Universität Berlin (TU Berlin),DE,Germany,L,55.3,74.3,58,22.1,63.2,74.8,86.1,37.7,35.4,52.5
+148,158,Universiti Putra Malaysia (UPM),MY,Malaysia,L,61,61.9,58.8,25.7,36.1,92,80.5,17.5,53.5,52.3
+149,143,King Abdulaziz University (KAU),SA,Saudi Arabia,XL,59.8,61.4,41.6,34.4,89.3,9.5,93.1,35.9,58.4,52.2
+150,197,Indian Institute of Technology Delhi (IITD),IN,India,M,54.1,80.9,17.3,77.4,3.1,1.5,63.3,35.1,32.7,52.1
+150,148,University of Bath,UK,United Kingdom,L,35.8,67.9,18.3,52,94.3,80,84.2,35.2,90.4,52.1
+152,136,Michigan State University,US,United States,XL,59.5,48.6,11.4,50.3,54.5,12.4,97.5,57.1,96.3,51.9
+152,176,Nagoya University,JP,Japan,L,63.2,65.8,84.7,25.4,14.5,19.6,64.8,21.5,75,51.9
+154,134,Texas A&M University,US,United States,XL,61.2,66,4.4,64.3,21.9,12.1,92.6,44.4,39.5,51.8
+155,128,University of Geneva,CH,Switzerland,L,45.5,17.2,40.4,62.4,100,97.6,94.2,49.5,42.3,51.6
+155,132,"University of North Carolina, Chapel Hill",US,United States,XL,61.4,36.5,72.9,47.2,23.5,11.1,91.6,55.2,44.6,51.6
+155,151,Wageningen University & Research,NL,Netherlands,L,42.1,23.8,98.6,41.3,59.4,81.2,97.9,21.1,92.3,51.6
+158,176,Erasmus University Rotterdam ,NL,Netherlands,L,37,58.2,18.1,63.3,76,70,85.4,89.3,28.7,51.5
+159,141,Université de Montréal ,CA,Canada,XL,55.5,32.8,76,19.3,87.6,54.1,84.9,54.2,91.4,51.3
+159,139,University of Groningen,NL,Netherlands,XL,52.3,34.4,49.3,41.2,93.2,83.5,94.1,40,40.1,51.3
+161,126,University of Bern,CH,Switzerland,M,29.7,16.1,45.9,99.3,100,38,93.8,30.7,52.1,51.2
+162,164,Hanyang University,KR,South Korea,L,43,78,77.1,28.5,17.4,57.6,63,43.3,85.8,51.1
+163,230,Al-Farabi Kazakh National University,KZ,Kazakhstan,L,54.2,79.6,99.3,1.4,49,54.2,64.7,59.6,29.8,51
+164,171,Complutense University of Madrid,ES,Spain,XL,68.1,68.1,28.7,7.9,10.5,34.3,91.8,96.3,88.9,50.9
+165,164,Universitat de Barcelona,ES,Spain,XL,73.7,30.3,12.4,38.1,23.1,26.3,96.8,71.5,92.2,50.7
+165,176,University of Liverpool,UK,United Kingdom,L,46.1,39.4,37.8,36.6,88.3,85.4,97.2,36.3,95.6,50.7
+167,164,Kyushu University,JP,Japan,L,58.3,66.5,78.4,27.9,18.7,14.1,69.9,15.1,77.6,50.3
+167,162,University of Wollongong,AU,Australia,L,29.5,24.5,17,94.6,91.8,56.3,89,18.3,93.9,50.3
+169,159,Ghent University,BE,Belgium,XL,53.2,24.8,78.5,21.5,79.7,21.4,99.5,72.9,98.3,50.1
+169,153,The University of Exeter,UK,United Kingdom,L,42.9,45,30.2,42.5,91,72.2,95.1,30.1,97.1,50.1
+171,173,University of Cape Town,ZA,South Africa,L,45.2,51.8,13.8,46.8,56.5,19.2,97.3,95.8,95.6,50
+172,169,University of Reading,UK,United Kingdom,L,32.2,41.7,13.1,65.7,86.2,78.6,91.7,47.8,94,49.9
+173,196,Hokkaido University,JP,Japan,L,59,63.3,76.2,26,18.7,12.1,77.7,15.5,78.1,49.8
+174,183,Curtin University,AU,Australia,L,33.1,27.7,15.7,84.7,100,24.3,94.2,31,90.7,49.3
+175,149,Universitat Autònoma de Barcelona,ES,Spain,XL,64,35.8,11.5,59.5,18.5,16.5,93.1,24,86.7,49.2
+176,189,McMaster University,CA,Canada,L,39.5,34.2,63.8,35.6,96.2,56.7,82.6,49.9,91.9,49
+176,154,Washington University in St. Louis,US,United States,L,36.3,12,99.7,47.7,69.5,72.4,83.6,31.9,86.7,49
+178,163,"University of California, Santa Barbara (UCSB)",US,United States,L,52.6,21.3,7.7,97.8,75.4,17.2,71.2,7.9,28.4,48.9
+179,173,"The University of Newcastle, Australia (UON)",AU,Australia,L,28.3,24.5,28.7,91.7,99.9,24.2,82,14.8,92.4,48.7
+179,198,Universidad de los Andes,CO,Colombia,L,67.7,88.4,14.2,5.9,22.8,1.9,55.2,98.2,80,48.7
+181,188,Universiti Teknologi Malaysia ,MY,Malaysia,L,48.6,59.6,46,40.5,14.1,86.9,82.9,18,52.1,48.5
+181,199,Waseda University,JP,Japan,XL,60.7,96.1,23.5,3.8,27.9,28,66.4,83.7,56.1,48.5
+183,310,Hamad Bin Khalifa University,QA,Qatar,S,12.9,4.7,99.9,100,100,100,74.3,6,2.6,48.3
+184,167,University of York,UK,United Kingdom,L,42.9,30.1,43,40.1,87.8,75.6,92.5,23.5,97.4,48.2
+185,184,Tecnológico de Monterrey,MX,Mexico,XL,53.8,91.4,62.5,2.4,20.8,10.6,56.6,96.1,54.4,48.1
+186,154,Cardiff University,UK,United Kingdom,L,46.8,43.2,36.1,30,82.8,67.7,92.3,18.9,96,47.6
+187,184,École Normale Supérieure de Lyon,FR,France,S,29.8,16.3,97,93.5,59,11.7,70.3,14,6.6,47.5
+188,214,Keio University,JP,Japan,XL,53,91.6,57.2,5.1,9.4,10.2,57.5,91.4,59,47.4
+189,203,University of Ottawa,CA,Canada,XL,26.2,23.3,3.5,81.3,91.7,77.8,93,39.8,92.9,47.3
+190,184,Technische Universität Wien,AT,Austria,M,33.9,50.4,12.5,73.8,85.5,90.4,71.6,19.1,11.3,47.2
+191,205,Universität Hamburg,DE,Germany,L,50.7,35.7,16.5,54.7,40.2,20.4,93.4,42.8,90.6,47.1
+194,194,Wuhan University,CN,China (Mainland),XL,39.2,40.5,14,91.9,39.2,4.9,78.2,46.5,22.2,46.7
+193,209,Queen's University at Kingston,CA,Canada,L,40.8,56.7,5.4,42.6,69.2,26.6,71.2,87.1,93.8,46.8
+194,187,University of Gothenburg,SE,Sweden,L,35.4,18.3,60.9,33.6,90,78.2,94.2,63.1,92.8,46.7
+271,272,Beijing Normal University ,CN,China (Mainland),L,33.9,10.3,24.2,92.6,6.6,21.3,70.8,10.5,19.7,38.5
+196,166,Emory University,US,United States,L,25.2,19,93.8,78.4,52.2,33.9,85.6,22.8,37,46.6
+197,233,Deakin University,AU,Australia,XL,31.3,23.9,4.6,73.6,96.4,63.8,82.7,36.8,93.7,46.4
+198,199,Universidad Autónoma de Madrid,ES,Spain,XL,61,64.3,29.1,21,7.7,10.4,92,43.1,79.6,46.3
+198,182,University of Calgary,CA,Canada,XL,37.9,44.5,18.1,40.3,77.7,66.2,85.2,53.3,93.3,46.3
+200,179,Arizona State University,US,United States,XL,48.6,44.1,7.4,47.1,52.1,37.2,95.7,23.6,96.3,46.2
+200,203,King Saud University,SA,Saudi Arabia,XL,39.4,28.7,54.3,40,99.4,15,95.1,99,33,46.2
+202,230,Khalifa University of Science and Technology,AE,United Arab Emirates,S,22.7,21,80,60.7,100,78.9,78.8,9.3,61.6,46.1
+203,180,Université catholique de Louvain (UCLouvain),BE,Belgium,L,48.4,25.9,4.6,55,91,47.6,89.9,76.4,27.1,46
+203,195,University of Minnesota Twin Cities,US,United States,XL,56.8,33.1,32.4,41.9,7.7,8.7,91.7,52.5,96.5,46
+205,192,Ecole des Ponts ParisTech,FR,France,S,8.9,58.5,99,62.6,43.5,96.5,37.3,59.5,10.8,45.8
+206,202,Queen's University Belfast,UK,United Kingdom,L,35.4,33.6,28.6,40.6,100,98.2,92.8,9.9,88.9,45.7
+206,237,Universitas Indonesia,ID,Indonesia,XL,53.8,79.2,55.7,2.1,88.3,7.1,37.2,77.3,32.7,45.7
+208,151,The Ohio State University,US,United States,XL,58.6,50.4,39.5,31.2,13.4,10.6,94.6,45.3,50.8,45.6
+209,215,Tel Aviv University,IL,Israel,L,32,18.6,4.2,99.4,39.7,7,77.9,88.4,46.2,45.2
+210,233,National Tsing Hua University,TW,Taiwan,M,54.8,71.2,28,49.6,9.5,11.1,45,16.3,32.1,45.1
+211,225,Indian Institute of Science,IN,India,S,45.7,26.3,37.9,99.9,3.7,1.5,39.1,13.1,23.7,45
+212,192,Albert-Ludwigs-Universitaet Freiburg,DE,Germany,L,43.1,24.5,24.6,52.2,67.6,33.7,92.3,32.5,90,44.8
+213,189,Queensland University of Technology (QUT),AU,Australia,XL,39.8,33.1,8.1,59.9,97.9,20.7,83.4,19,89.4,44.7
+214,206,University of Otago,NZ,New Zealand,L,45,24.6,12.8,38.8,100,37.6,79.5,59.1,96,44.4
+215,228,National Cheng Kung University (NCKU),TW,Taiwan,L,51.5,74,33.4,20.3,16.3,13.9,58.7,42.4,83.8,44.2
+215,168,University of Florida,US,United States,XL,46.7,42.3,62.9,32.1,17.8,10.3,98.3,44.5,60.6,44.2
+217,242,La Trobe University,AU,Australia,L,23.6,19.8,8,77.7,92.6,95,78.6,19.6,78.4,44.1
+218,169,"University of Maryland, College Park",US,United States,XL,48.6,29.4,32.5,55,20.9,16.2,92.3,41.2,54.4,44
+219,217,National Yang Ming Chiao Tung University,TW,Taiwan,L,32.9,62.7,51.1,52.7,19.6,19.2,53.7,58.3,38.8,43.9
+219,226,Universidad Nacional de Colombia,CO,Colombia,XL,71,89.9,5.4,3.4,5.6,1.4,65.9,42.6,53.1,43.9
+221,207,Vrije Universiteit Amsterdam,NL,Netherlands,XL,39.4,17.8,21.3,63.7,67.3,47.4,89,45.1,50.8,43.8
+222,213,Eberhard Karls Universität Tübingen,DE,Germany,L,46,30.7,87.1,20.5,76.1,26.2,93.8,30.9,33,43.7
+222,271,Indian Institute of Technology Kharagpur (IIT-KGP),IN,India,L,34,51.1,9,90.2,1.1,1.1,69.3,33,44.3,43.7
+224,229,Friedrich-Alexander-Universität Erlangen-Nürnberg,DE,Germany,L,25.8,27.7,3.2,94.9,27.2,48.8,87.1,19.6,74.5,43.6
+224,212,Loughborough University,UK,United Kingdom,L,29.7,55.3,23.8,32.4,87.1,68.6,87.1,23.2,93.8,43.6
+224,220,University of Lausanne,CH,Switzerland,L,28.4,18.8,36.8,61,100,54.2,79.8,51.8,51.2,43.6
+227,285,Indian Institute of Technology Madras (IITM),IN,India,M,42.4,63.2,20.3,70.3,3.9,1.6,37.5,27,44.6,43.5
+227,239,Rheinische Friedrich-Wilhelms-Universität Bonn,DE,Germany,L,52.8,24.1,62.7,17.2,44.3,38.9,94.7,35.4,83.2,43.5
+229,211,Chulalongkorn University,TH,Thailand,XL,68.2,35.9,31.7,7.5,18.7,3,79.6,93.6,73.2,43.4
+230,256,Maastricht University ,NL,Netherlands,L,23,27.8,13.2,62.8,99.4,100,80.5,38.2,52.5,43
+230,189,Universite libre de Bruxelles,BE,Belgium,XL,33.3,34.5,3,49.9,98.7,84.4,87.5,65.5,25.2,43
+232,220,Universidade Estadual de Campinas (Unicamp),BR,Brazil,XL,71.8,40.3,14.7,24.3,10.7,2.7,85.4,25.1,65.9,42.9
+233,210,University of Twente,NL,Netherlands,M,20.7,32,43.3,61.3,100,90.4,87.6,20,13.8,42.7
+234,246,Technische Universität Dresden,DE,Germany,L,36.3,42.5,80.3,28.5,35.8,27.6,93.8,8.8,75.8,42.6
+235,250,University of Waikato,NZ,New Zealand,M,19.1,11.7,12.4,84.7,99,56.9,55.1,46.4,89.5,42.5
+236,219,Università di Padova,IT,Italy,XL,58.9,27.3,8.5,45.7,9.2,11.1,94.9,18.8,87.7,42.3
+236,208,University of Aberdeen,UK,United Kingdom,L,30.5,28.8,32.7,32,94.5,92.6,88.5,22.2,96.5,42.3
+236,224,University of Rochester,US,United States,M,22.6,20.8,99.1,33.6,63.9,93.8,64.3,40.4,63.7,42.3
+239,263,Gadjah Mada University,ID,Indonesia,XL,54.4,73.5,57.6,1.7,40.3,4.1,38.1,69,26.8,41.8
+239,239,Massey University,NZ,New Zealand,M,30.1,14,48,27.4,98.5,95.2,85.1,49.2,91.4,41.8
+241,252,Politecnico di Torino,IT,Italy,XL,40.2,52.1,3.1,51.6,4.9,41,81.4,30.6,77.9,41.7
+241,246,Technical University of Darmstadt,DE,Germany,L,20,35.9,6.7,70,60.3,81.4,65.9,44.4,71.8,41.7
+243,237,Dartmouth College,US,United States,M,22.8,31,65.8,60.6,9.2,40.9,42.5,68.8,71.2,41.3
+244,241,Victoria University of Wellington,NZ,New Zealand,L,42.8,21.4,10.1,32.1,100,31,70.7,71.6,91.4,41.2
+245,254,University of Macau,MO,Macau SAR,L,11.9,10.5,9.8,99.1,100,99.9,57,50.3,7.7,41.1
+246,248,Charles University,CZ,Czech Republic,XL,45.6,49.1,32.2,8,25,50.5,96.3,65.5,77.4,41
+246,218,University of Sussex,UK,United Kingdom,L,22.6,10.4,15.5,56.8,99.6,84.9,84.7,39.9,97.7,41
+248,261,Vanderbilt University,US,United States,L,24.4,21.8,100,53,30.1,36,78.6,34.7,24.5,40.8
+249,280,University of Navarra,ES,Spain,L,30.6,68,49.6,14.7,24.8,73.8,63.6,75.8,42.3,40.7
+250,226,American University of Beirut (AUB),LB,Lebanon,M,28.6,29.5,48.5,28.9,63.2,37,73.1,97,80.5,40.6
+251,284,Taylor's University,MY,Malaysia,S,27,81,71.5,10.1,64.8,99.6,41.4,4.2,22.2,40.5
+192,216,Tongji University,CN,China (Mainland),XL,31.8,16.9,29.1,96.9,54.5,26.5,72.9,24,81.4,46.9
+252,295,Hong Kong Baptist University,HK,Hong Kong SAR,M,18.2,12,60,61.4,98.9,100,37,15.7,54.4,40.3
+252,232,University of Göttingen,DE,Germany,L,46.4,27.1,76.4,16.2,49.7,22.4,95.1,40.3,32.1,40.3
+255,243,Griffith University,AU,Australia,L,27,13.7,8.4,62.5,99.8,38.5,92.1,17.9,96.4,40.1
+256,281,Bandung Institute of Technology (ITB),ID,Indonesia,L,43.2,72.7,55.8,2.6,94.4,3.8,26.3,49.2,37.6,39.9
+256,235,Heriot-Watt University,UK,United Kingdom,M,17.8,27.1,17.6,65.2,100,98.1,75.4,26.3,25.7,39.9
+258,262,University of Warsaw ,PL,Poland,XL,50,53.6,46.4,5.5,10.5,8.4,84.1,60,69.8,39.8
+259,255,Case Western Reserve University,US,United States,M,17.2,15.4,82.3,61.6,35.7,71.7,55.6,29.3,53.1,39.7
+260,266,University of Lisbon ,PT,Portugal,XL,44,20.7,10.7,36.5,9,39.4,98.2,94,70.9,39.6
+261,290,United Arab Emirates University,AE,United Arab Emirates,M,30.1,38.3,49.8,16.6,100,34.2,86.2,82,36.6,39.4
+261,256,University of Canterbury | Te Whare W?nanga o Waitaha,NZ,New Zealand,L,34.7,27.3,10.4,31.4,100,27.7,63,82.3,91.1,39.4
+263,278,Indian Institute of Technology Kanpur (IITK),IN,India,M,36.9,56.9,14,73.3,2.6,1.1,38.8,19.6,22,39.3
+264,292,Norwegian University of Science And Technology,NO,Norway,XL,33.2,25.2,22.3,30.4,75.1,9.3,94.4,89.4,85.8,39.1
+265,300,UCSI University,MY,Malaysia,M,27,65.1,78.1,3.6,89.1,95.8,37.6,10.2,27.9,38.8
+265,310,Universitat Pompeu Fabra (Barcelona),ES,Spain,M,31.7,29.4,12.1,67.1,75.6,24.5,74,16.4,27.9,38.8
+267,248,University of Antwerp,BE,Belgium,L,24.1,11.3,37.5,48.1,94.4,32,94.6,44.8,74.8,38.7
+267,264,University of Witwatersrand,ZA,South Africa,L,26.5,42.1,8.9,30.5,75.1,5.8,96.8,98.9,84.8,38.7
+331,323,Sun Yat-sen University,CN,China (Mainland),XL,31.8,28.8,46.4,49.5,2.2,3.6,77.4,21.4,15.9,33.7
+269,307,Universiti Teknologi PETRONAS (UTP),MY,Malaysia,S,19.5,28.1,38.5,79,83.9,20.1,63.9,4.1,18.4,38.6
+252,256,Harbin Institute of Technology,CN,China (Mainland),XL,27.1,21.1,33.7,99.8,8,5,68.6,28.3,14.6,40.3
+272,222,Radboud University ,NL,Netherlands,L,28,14.1,27,66,81.3,18.6,93.9,19.6,39.8,38.4
+273,292,University College Cork,IE,Ireland,L,30.1,35.1,22.1,28.5,89,52.1,69.1,34,91,38.3
+273,289,University of Galway,IE,Ireland,L,26.2,30.3,63.2,13.2,95.2,43.2,81.3,46.6,85.9,38.3
+275,298,Dalhousie University,CA,Canada,L,19.4,16.7,12.9,53.5,99.9,74.6,77.4,30.1,87.9,38.2
+275,245,University of Massachusetts Amherst,US,United States,L,38.2,17.2,10,48.8,61,25.3,79.8,30.6,83.4,38.2
+275,222,University of Pittsburgh,US,United States,L,35,12.7,96.3,31.3,9.5,13.5,91.7,42.6,53.5,38.2
+278,253,University of Porto,PT,Portugal,XL,41.3,17.9,10.8,59.6,6.6,19.8,95.1,39.1,53.1,38.1
+278,259,Vrije Universiteit Brussel (VUB),BE,Belgium,L,23.3,13.7,76.1,18.2,93.6,58.2,93.1,51.8,72.1,38.1
+280,266,Ulsan National Institute of Science and Technology (UNIST),KR,South Korea,S,13.6,13.5,87.9,98.1,29.3,9.6,24.8,3.3,16.1,38
+281,251,The Hebrew University of Jerusalem,IL,Israel,L,32.8,18.2,79.3,19.4,53.2,23.8,77.8,94.6,34.2,37.9
+281,276,University of Strathclyde,UK,United Kingdom,L,25.9,30,16.7,31.8,93,64,85,33.6,88.6,37.9
+283,328,Université Paris 1 Panthéon-Sorbonne ,FR,France,XL,65.6,33.3,4.6,2.9,34.3,46.5,70.3,74.8,23.7,37.5
+362,392,Xiamen University,CN,China (Mainland),XL,23.6,16.2,19,72.2,5.1,3.1,62.6,46,15.4,31.7
+285,336,Middle East Technical University,TR,Turkey,L,31.2,70.2,9,22.3,12,18.3,74.7,77.5,69.5,37.2
+285,319,Universidad Carlos III de Madrid (UC3M),ES,Spain,L,33.5,56.3,49.5,4.1,64.8,52.3,66.3,20.7,68.3,37.2
+285,268,University of Cologne,DE,Germany,L,35.2,30.4,15.7,29.3,35.9,30.1,90.8,56.8,91.9,37.2
+285,272,University of Leicester,UK,United Kingdom,L,19.8,13.7,30.8,43.4,80,95.3,88.8,22.7,75,37.2
+285,276,University of Milan,IT,Italy,XL,52.8,17,6.4,39.6,6.5,6.8,85.5,44.1,74.8,37.2
+285,244,University of Surrey,UK,United Kingdom,L,19.7,17.9,22.8,55.2,97.1,87.1,86.4,20.4,28.4,37.2
+291,285,Swinburne University of Technology,AU,Australia,L,13.9,11.4,12.4,86.5,94.9,77.3,66.1,13.9,15.4,37.1
+291,281,University of Bergen,NO,Norway,L,31.6,8.3,64.9,28.3,93.3,16.9,90.7,63.9,33.6,37.1
+293,285,The University of Arizona,US,United States,XL,37.3,22.2,44.4,38.8,31.6,15.1,94.1,37.1,40.4,37
+293,307,University of Tasmania,AU,Australia,M,16,7.4,22.1,59.8,79.9,89.7,80,15.9,85.6,37
+302,340,Beijing Institute of Technology,CN,China (Mainland),XL,23.2,24.3,43.4,82,5.7,6.7,68.6,14.3,10.1,35.9
+296,283,Stellenbosch University,ZA,South Africa,L,26.1,35.8,3.5,61.9,19.7,8,94.8,85.2,22,36.7
+297,260,University of Virginia,US,United States,L,37.3,27.3,55.8,29.1,6.1,11.3,81.6,77.9,35.4,36.6
+298,319,Bauman Moscow State Technical University,RU,Russia,L,36.2,51.9,99.9,1.4,65.6,70,15.2,7.7,6.8,36.5
+298,307,Swansea University,UK,United Kingdom,L,23.1,43.1,25.1,27.9,71,59.6,82.3,8.3,91.8,36.5
+300,275,Huazhong University of Science and Technology,CN,China (Mainland),XL,20.4,28.2,7.9,99.9,5.2,2.7,79.4,17.6,15,36.4
+301,297,Georgetown University,US,United States,L,29.3,41.9,63,14,28,37.3,62.5,90.9,37,36.3
+336,355,Sichuan University,CN,China (Mainland),XL,20.4,12.3,10.3,98.5,7.1,4.9,71.3,12.9,11,33.3
+302,236,Université Paris Cité,FR,France,XL,27.8,6.2,9.2,87,12,35.2,99.2,15.2,18.4,35.9
+304,268,Linköping University,SE,Sweden,L,18.5,26.6,37.9,45.4,81.9,32.6,84.6,42.4,41,35.8
+304,371,Universidade Federal do Rio de Janeiro,BR,Brazil,XL,61.9,23.3,13.7,7.8,7.6,1.5,79.7,81.4,59.6,35.8
+306,336,Aalborg University,DK,Denmark,L,19.9,20.8,25.5,53.2,77.3,14.9,92.1,23.3,75.6,35.7
+307,268,"University of California, Irvine",US,United States,XL,37.5,22.3,17.3,40.7,43.9,58.7,84.1,11.2,36,35.5
+308,345,Airlangga University,ID,Indonesia,XL,37.1,79.1,57,1.5,58,6.7,40.3,18.9,16.3,35.3
+309,302,Goethe-University Frankfurt am Main,DE,Germany,XL,43.2,33.2,24.4,15.9,37.4,24.1,90.4,20.2,75,35.2
+309,362,Universität Innsbruck,AT,Austria,L,20.3,7.8,73.1,9.3,100,100,71.5,55.8,61.6,35.2
+311,274,North Carolina State University,US,United States,XL,26.7,25.4,9.8,63.4,55,17,78.1,21.5,35.7,35.1
+312,304,Jagiellonian University,PL,Poland,XL,37.8,46.4,65.1,5.5,5.7,15.4,88.6,51.3,35.4,35
+312,306,University of Johannesburg,ZA,South Africa,L,17.7,17.9,40.3,24.9,96.5,51.4,98,63.1,65.6,35
+314,312,Universität Stuttgart,DE,Germany,L,23.1,33,6.8,55.2,36,46.8,70.4,21.7,65.3,34.9
+315,315,Quaid-i-Azam University,PK,Pakistan,M,17.3,42.4,3.2,93.6,7,1.9,65,21,3.4,34.8
+316,342,RUDN University,RU,Russia,L,24.4,48.7,92,2.1,8,92.2,89.7,10,24,34.7
+489,514,Shanghai University,CN,China (Mainland),XL,20.3,13.1,50.8,30.5,40.9,5.3,58.7,8.9,10.5,24.5
+316,304,University of Notre Dame,US,United States,L,25.8,25.2,60.8,29.2,22.3,18.4,70.1,60.2,68.9,34.7
+319,318,Simon Fraser University,CA,Canada,L,24,11.4,6.2,36.6,97,83.9,76.8,22.8,89.8,34.6
+320,264,University of Colorado Boulder,US,United States,XL,36.1,17.5,38.3,34.9,32.2,4.9,86.3,31.6,62.8,34.4
+321,355,L.N. Gumilyov Eurasian National University (ENU),KZ,Kazakhstan,L,34.4,62,92.6,1.4,68.7,8.2,22.8,5.5,10.5,34.2
+321,347,National Technical University of Athens,GR,Greece,L,21.3,44.9,4.6,76,1.3,4.6,72.7,39.6,5,34.2
+321,349,Universidad Politécnica de Madrid (UPM),ES,Spain,XL,31.3,56.5,16.7,11.4,3.2,32.1,81.1,60.7,86.3,34.2
+324,278,University of Miami,US,United States,L,19,29.5,50,39.3,66.7,16.9,81.6,43.8,27.9,34.1
+324,326,University of Southern Denmark (SDU),DK,Denmark,L,20.2,15.9,22.3,49.3,85.5,24.1,81.1,21.3,73.2,34.1
+326,307,Daegu Gyeongbuk Institute of Science and Technology (DGIST),KR,South Korea,S,10.5,11.8,84.1,99.9,6.6,3.3,12.3,2.7,3.1,34
+326,404,Istanbul Technical University,TR,Turkey,L,27,67.2,9.7,17,8.3,19.8,76.1,69.1,70.3,34
+328,332,Kyung Hee University,KR,South Korea,L,23.2,37.1,82.1,15.1,14.3,53.4,54.5,13.8,80.5,33.8
+328,299,Rutgers University–New Brunswick,US,United States,XL,36.2,28.1,46.3,12.8,18,28.2,78,25.7,95.4,33.8
+328,407,University of Delhi,IN,India,L,38.1,35.3,4.3,25.9,1.3,1.5,75.1,96,70.6,33.8
+332,364,American University of Sharjah,AE,United Arab Emirates,M,20.9,38.6,19.1,23.9,100,100,48.1,48,16.5,33.6
+332,295,University of East Anglia (UEA),UK,United Kingdom,L,17.2,7.2,15.2,58.7,66.8,32.2,87.9,19.2,91.4,33.6
+334,294,Université Grenoble Alpes,FR,France,XL,44.7,14.3,7.9,41.7,20.2,35.1,94.9,20.7,21.5,33.5
+335,369,Indian Institute of Technology Roorkee (IITR),IN,India,M,19.4,29,6.8,93.8,1.3,2,44.3,6.4,37.9,33.4
+336,380,Flinders University,AU,Australia,L,13.5,5.6,7.2,51.8,97.2,88.8,80.8,7.4,87.4,33.3
+336,351,Lappeenranta-Lahti University of Technology LUT,FI,Finland,M,6.4,9.4,9.5,97.6,56.8,28.5,55.6,7.9,55.8,33.3
+295,291,Xi’an Jiaotong University,CN,China (Mainland),XL,19,39.4,14,89.5,3.9,3.8,80.5,26.4,18.2,36.9
+336,404,University of the Philippines,PH,Philippines,XL,36.3,65.3,31.1,1.9,1.6,1.1,60.9,65.6,67.7,33.3
+340,345,University of Saskatchewan,CA,Canada,L,11.1,5.3,18.2,57,77.3,49.5,82.3,32.1,90.7,33.2
+340,326,University of South Australia,AU,Australia,L,21.3,12.7,24.9,31.9,99.8,50.9,85.5,15.5,83.6,33.2
+342,343,Brunel University London,UK,United Kingdom,L,11.1,13.3,7.1,46.5,99.1,99.8,77.9,19.9,71.2,33
+342,334,Sharif University of Technology,IR,"Iran, Islamic Republic of",M,11.5,33.6,5.1,99.9,2.9,1.2,61.4,28.2,1.3,33
+344,364,Indian Institute of Technology Guwahati (IITG),IN,India,M,18.8,32,6.4,97.6,2.3,1.2,51.2,4.9,2.2,32.9
+344,379,Tufts University,US,United States,L,16.9,7.7,53.5,45.7,23.5,38.1,60.2,56.1,81,32.9
+344,313,University of Oulu,FI,Finland,M,15.1,13.5,25.3,59.4,65.3,8.6,89.4,21.7,68.6,32.9
+347,371,Tilburg University,NL,Netherlands,L,14.7,32.5,10.5,55.1,98.4,60.6,56.8,14.3,15.2,32.8
+347,335,University of Naples - Federico II,IT,Italy,XL,36.6,19.7,4.2,65.1,2.2,1.1,92.5,7.3,20.1,32.8
+349,322,University of Victoria (UVic),CA,Canada,L,17,7.7,3.9,62.5,94.7,40.9,54.2,11.3,82.9,32.6
+350,371,Cairo University,EG,Egypt,XL,45.8,41,8.8,3,2.9,7.2,86.4,95.5,47.2,32.5
+350,319,Sciences Po ,FR,France,L,16.8,34.8,81.1,2.8,52.7,97.2,31.4,97.7,7.2,32.5
+352,328,"City, University of London",UK,United Kingdom,L,20.8,21.3,5.6,31.2,95.8,98.9,66.4,54.8,23.2,32.4
+353,367,National University of Sciences And Technology (NUST) Islamabad,PK,Pakistan,L,20.4,71.6,68.8,14.5,4.3,4,73.6,2.8,44.9,32.3
+354,323,University of Pretoria,ZA,South Africa,XL,23.9,48.8,4,15.5,33.3,8.2,98.1,80.1,79.6,32.2
+355,313,Indiana University Bloomington,US,United States,XL,33.4,23.6,23.3,29.1,36.3,10.8,86.6,56.8,32.7,32.1
+355,351,University of Coimbra,PT,Portugal,L,29.4,10.8,10.3,49.8,8.1,22.9,91.2,31.1,75.8,32.1
+355,381,University of Luxembourg,LU,Luxembourg,M,9.2,4.5,80.8,25.2,100,100,70.1,52.8,3.1,32.1
+358,358,University of Tartu,EE,Estonia,M,22.9,10.5,93.7,10.8,48.6,15.1,88.8,85.7,18,32
+359,328,Gwangju Institute of Science and Technology (GIST),KR,South Korea,S,13.8,9,38.6,100,18.6,8.8,27,2.2,9.9,31.9
+359,336,Pontificia Universidad Católica del Perú,PE,Peru,L,48.4,61.6,33.2,1.6,4,1.3,38.1,33,29.6,31.9
+359,344,University of Aveiro,PT,Portugal,L,13.9,5.6,11.1,90.6,4.2,15.3,89,2.7,57.7,31.9
+362,454,Sultan Qaboos University,OM,Oman,M,18.6,17.1,55.6,21.9,100,3.2,78.8,51.5,55.4,31.7
+377,384,Nankai University,CN,China (Mainland),XL,18.5,9.8,25.4,82.9,12.3,2.7,51.1,37.9,11.5,31.1
+362,353,York University,CA,Canada,XL,22.7,18.6,3.9,22.6,53.1,78.7,65.5,76.3,86.5,31.7
+365,315,Saint Petersburg State University,RU,Russia,L,36.3,30.5,59.4,4.6,4.9,38.9,83.9,71.7,3.2,31.6
+365,323,University of Illinois at Chicago (UIC),US,United States,L,38.5,28.3,31.1,23.3,8,19.3,83.8,30.5,34.8,31.6
+367,384,Westfälische Wilhelms-Universität Münster ,DE,Germany,L,31.6,22.8,64.5,10,30.5,4.5,82,35.8,66.8,31.5
+368,382,Mahidol University,TH,Thailand,L,44.1,21.8,81.1,4.7,4.9,4.2,57.2,9.8,57.7,31.4
+368,498,University of Jordan,JO,Jordan,XL,32.9,46.7,19.5,3.5,21.2,43.5,67,82.1,39.5,31.4
+368,360,University of Tehran,IR,"Iran, Islamic Republic of",XL,20.6,26.8,3,79.1,2,2,86.2,23.1,4.7,31.4
+371,340,George Washington University,US,United States,L,25.2,28.8,27.3,27.5,24.6,34.4,79.5,74.5,27.3,31.3
+371,362,Lincoln University ,NZ,New Zealand,S,8.2,5,31.8,52.1,100,96.3,20.2,40,48.9,31.3
+371,354,Universitat Politècnica de Catalunya · BarcelonaTech (UPC),ES,Spain,L,31.8,27.7,38.9,16.7,10.1,19.8,85.3,26.3,82.5,31.3
+371,364,University of Turin,IT,Italy,XL,41.5,7.2,3.2,33.3,4.1,5.3,87.5,51.7,83.6,31.3
+375,358,University of Florence,IT,Italy,XL,34.6,8.4,4.4,46.6,7.3,12.3,88.5,30.3,74.5,31.2
+375,315,University of Turku,FI,Finland,L,27.8,12.1,52.3,29.3,33.2,4.4,86.3,39.9,52.5,31.2
+269,285,Tianjin University,CN,China (Mainland),L,17.2,13.5,38.8,99.5,24.8,25.4,65.2,32.4,16.9,38.6
+377,347,Pontificia Universidad Javeriana,CO,Colombia,L,45.3,56.6,26.3,1.6,3.4,2.5,42.2,78.3,11.3,31.1
+377,355,University of Tsukuba,JP,Japan,L,36.6,22.5,54.7,17.3,12.4,19.3,66.9,9.8,63.4,31.1
+380,1401+,Technische Universität Bergakademie Freiberg,DE,Germany,S,4.9,4.8,3.5,99.1,41.4,100,41.6,1.9,1.1,30.8
+380,336,University of Kent,UK,United Kingdom,L,15.4,10,14.6,45.7,95.1,49.8,78.8,34,40.4,30.8
+382,349,University of Pisa,IT,Italy,L,40.4,15.1,8.6,38.8,5.9,4.2,88.3,15,56.7,30.7
+383,427,Anna University,IN,India,L,10,12,5.5,100,,1.3,89.2,5.9,24.7,30.6
+384,375, Western Sydney University,AU,Australia,XL,19.9,14.2,4.8,31,100,45.5,87.4,8.9,89.2,30.5
+316,360,Shandong University,CN,China (Mainland),XL,16.6,35.5,16.7,88.2,8.2,3.1,64.1,20.7,19.7,34.7
+385,387,Universiti Brunei Darussalam (UBD),BN,Brunei,S,20.2,8.8,92.9,9.9,100,46.5,35.4,56.5,12.7,30.4
+387,387,Belarusian State University,BY,Belarus,L,28.4,40.7,93,1.3,3.8,59.3,36.4,38.2,1,30.3
+388,400,Universidade Nova de Lisboa,PT,Portugal,L,28.7,21.8,15.9,23.9,25.3,57,86.3,48.7,38.2,30.2
+389,595,Università Vita-Salute San Raffaele,IT,Italy,S,3.3,1.8,94.4,88.5,4.4,4.3,39.2,2.1,1.2,30.1
+389,368,University of Cyprus (UCY),CY,Cyprus,M,10,4.7,4.5,75,93.8,20,73.4,42.1,5.8,30.1
+389,302,Virginia Polytechnic Institute and State University,US,United States,XL,26.4,26.2,18.9,28.4,71.8,16.5,82.6,24,34.8,30.1
+392,387,National Taiwan University of Science and Technology (Taiwan Tech),TW,Taiwan,M,27.6,37.9,43.5,29.4,19.7,25.5,29.8,19.9,38.8,30
+393,444,National and Kapodistrian University of Athens,GR,Greece,XL,26.7,33.2,2.1,31,9.9,15.9,86.6,85.8,29.3,29.9
+393,332,"University of California, Santa Cruz",US,United States,L,17.7,5.9,7.4,65.3,53.4,7,64.5,6.1,83.6,29.9
+393,489,"University of Rome ""Tor Vergata""",IT,Italy,L,31.3,15.4,9,47.2,9.6,30.8,69.1,6.3,57.7,29.9
+396,375,Northeastern University,US,United States,XL,19.2,11.8,15.4,24.6,51.6,96.4,67.3,44,72.3,29.7
+396,375,Ruhr-Universität Bochum,DE,Germany,XL,20.3,8.8,2.5,53.4,48.8,39.3,87.3,16.2,53.5,29.7
+396,436,Sejong University ,KR,South Korea,L,10.8,16.1,11.9,76.9,23.8,31.2,64.1,1.8,45.9,29.7
+396,421,Université de Liège,BE,Belgium,L,17,11.8,9.6,38,50.3,53,94.6,23.6,81.2,29.7
+396,410,University of Southern Queensland ,AU,Australia,M,8.8,5.7,4.8,73.1,84.1,23,81,8.6,43,29.7
+401,396,Kazan (Volga region) Federal University,RU,Russia,L,23.6,11.4,95.6,2.4,10.2,95.7,88.3,15.4,22.2,29.6
+401,431,Koç University,TR,Turkey,M,24.3,54.6,19.1,32.4,24.7,13,51.6,6.8,34.8,29.6
+403,375,Amirkabir University of Technology,IR,"Iran, Islamic Republic of",M,5.2,20.5,4.6,100,24.6,2.8,70.2,5.8,1.6,29.5
+403,421,University of Canberra ,AU,Australia,M,14.3,7.7,2.4,51.2,79.6,69.4,63.1,5.6,70.9,29.5
+405,392,Institut National des Sciences Appliquées de Lyon (INSA),FR,France,M,7.4,28.7,33.7,60.6,29.2,58.3,59.5,14.4,2.4,29.3
+405,481,Satbayev University,KZ,Kazakhstan,M,27.8,43.4,88.1,1.2,66.7,16.9,15,23.6,3.8,29.3
+405,328,USI - Università della Svizzera italiana,CH,Switzerland,S,6.1,4.6,73.5,40.7,100,100,39.3,2.1,1.1,29.3
+408,374,"Birkbeck, University of London",UK,United Kingdom,M,10,3.6,15.6,57.1,97.7,99.5,55.5,8.8,7.7,29.1
+408,400,Masaryk University,CZ,Czech Republic,XL,23.5,31.7,9.5,13.8,27.6,66.7,80.2,36,79.1,29.1
+410,399,HSE University,RU,Russia,XL,24,38.4,84.8,1.8,6.6,13.5,83.6,13,44.6,29
+410,415,The American University in Cairo,EG,Egypt,M,32.1,31.1,35.5,5.2,97,3.8,29.4,75.6,14.6,29
+412,407,Auckland University of Technology (AUT),NZ,New Zealand,L,19.3,11.2,10.6,21.7,100,99.8,52.6,12.4,72.6,28.9
+413,421,Graz University of Technology,AT,Austria,M,14.7,15.7,98.9,11.1,81.8,59.7,59.9,11.9,2.8,28.8
+413,369,Yeshiva University,US,United States,S,3.1,2.8,65.3,91.6,31.4,13.5,6.6,3,15.8,28.8
+415,387,Concordia University,CA,Canada,XL,15.8,11.4,3.3,17.5,87.4,92.3,73.8,43.6,89.8,28.7
+416,413,Oxford Brookes University,UK,United Kingdom,L,30.7,37.6,13.7,7,67.5,67.4,68.4,20.5,13.2,28.6
+416,392,Technion - Israel Institute of Technology,IL,Israel,L,23.9,24.8,52,20.1,74.2,4.3,59.1,35.3,15,28.6
+418,441, University of Dundee,UK,United Kingdom,L,18.4,13.7,30.8,14,91.1,89.4,75.2,7.4,55.4,28.5
+418,514,Bo?aziçi University,TR,Turkey,L,24.9,65.3,4.1,10.7,10.7,2.6,46.8,84.9,46.2,28.5
+420,454,Czech Technical University in Prague,CZ,Czech Republic,L,22,42.4,80.6,3.6,19.9,50.2,59.4,15.6,5.8,28.4
+421,436,Dublin City University,IE,Ireland,L,20.1,26,25.8,10.7,75,22.6,75.4,35.3,82.5,28.3
+421,426,University of Limerick,IE,Ireland,L,18.3,25.5,15.7,23,87.1,30.8,72.5,8,76.4,28.3
+423,446,Aston University,UK,United Kingdom,L,12.5,18.5,9,34.4,94.2,53.8,79.2,19.6,46.9,28.1
+423,441,Université Laval,CA,Canada,L,19.2,8.1,26,23.8,55.8,41.6,80.2,36.4,78.4,28.1
+425,431,National Taipei University of Technology,TW,Taiwan,M,13.9,54.7,24.3,41.6,19.8,20.6,21.3,22.5,31.3,28
+426,489,IPB University (a.k.a. Bogor Agricultural University),ID,Indonesia,L,23.5,46.9,71.4,1.8,53.2,3.6,19.1,33.9,35.1,27.9
+426,481,Leibniz University Hannover,DE,Germany,L,21.2,32,17.9,17.4,46.3,26.9,78.5,14.5,82.1,27.9
+428,440,Julius-Maximilians-Universität Würzburg,DE,Germany,L,15.8,7,5.5,74.4,45,9.5,78.5,8.7,8.8,27.8
+431,452,Central South University,CN,China (Mainland),XL,8.6,4.1,5.5,99.7,6.4,4,67.5,14.1,3.9,27.6
+430,436,University of Science and Technology Beijing,CN,China (Mainland),L,11.8,4.2,10.2,99.4,3.1,2.8,56.8,4.9,3.6,27.7
+451,486,University of Electronic Science and Technology of China,CN,China (Mainland),XL,5.3,5,8.2,99.1,3.2,2.5,73.3,7.2,2.3,26.5
+431,418,Tomsk State University,RU,Russia,M,22,13.5,99,4.2,21.6,91.6,64.1,4.4,1.4,27.6
+431,403,University of Granada,ES,Spain,XL,44.4,14.1,5.7,26.2,3.1,14.8,96.3,4.9,26.3,27.6
+434,465,University of Sharjah,AE,United Arab Emirates,L,18.1,17.3,6,22,100,100,84.8,11.2,11.8,27.5
+435,428,IE University,ES,Spain,M,8.1,49.3,46.5,2.2,95.2,100,3.5,65.6,4.6,27.4
+436,451,Iran University of Science and Technology,IR,"Iran, Islamic Republic of",L,7.8,14,2.7,98.7,12,1.5,53.4,5.3,1.6,27.2
+436,431,Murdoch University,AU,Australia,M,8,4.5,5.2,57.3,85.6,73.9,74.9,14.8,11.3,27.2
+436,476,Universitat Politècnica de València,ES,Spain,L,26.5,16.3,36.1,19.7,5.5,25,84.9,11.7,76.1,27.2
+439,473,Vilnius University ,LT,Lithuania,L,19.1,23.5,74.7,3.3,12.4,13.6,75.5,83.7,27.1,27.1
+440,429,Singapore University of Technology and Design,SG,Singapore,S,7.4,5.3,99,66,,,31.2,4.6,1.1,27
+440,469,Università degli Studi di Pavia,IT,Italy,L,21.7,7.4,8.3,64.6,6.2,12.6,82.7,13.5,15.4,27
+442,409,Colorado State University,US,United States,L,18.3,20.4,60.9,17.1,18.5,3.7,78.4,22.2,70.9,26.8
+442,421,Novosibirsk State University,RU,Russia,M,24.7,18.4,91,9.5,6.3,57,56.5,5.8,5.3,26.8
+442,505,Università Cattolica del Sacro Cuore,IT,Italy,L,24.2,35.5,27.6,19.2,15.5,7.1,60.5,32.3,54.8,26.8
+445,415,James Cook University,AU,Australia,M,14.4,6.5,17.5,46.9,36.7,16,76,6.7,88.9,26.7
+445,396,Justus-Liebig-University Giessen,DE,Germany,L,12.7,5.9,1.9,79.3,14.2,18.8,83.9,10.5,11,26.7
+445,485,Universitat de Valencia,ES,Spain,XL,35.6,11,12,19.9,2.1,24.3,89.3,8.4,79.3,26.7
+284,301,Southern University of Science and Technology,CN,China (Mainland),M,9.3,2.5,89.7,98.8,37.5,1.4,48.3,1.6,31.6,37.3
+385,392,South China University of Technology,CN,China (Mainland),XL,12.1,6.6,20,97.8,10.7,4.6,51.3,27.3,7.3,30.4
+448,382,Université de Montpellier,FR,France,XL,18.6,3.4,8.5,57.2,22.8,29.9,99.5,13.1,17.3,26.6
+448,494,Hunan University ,CN,China (Mainland),XL,7.9,10.3,15.2,90.6,4.6,1.8,46.5,23.1,2.7,26.6
+565,600,Nanjing University of Science and Technology,CN,China (Mainland),L,5.7,2.5,8.9,89.3,,,38.7,3.7,2.3,22
+452,431,National Taiwan Normal University,TW,Taiwan,M,34.7,20.5,62.9,5.4,14.5,25.2,23.3,17.3,49.8,26.4
+452,410,University of Kansas,US,United States,L,14.4,12.6,86.7,9.2,60.3,7.2,84.6,28.2,32.4,26.4
+452,431,University of Stirling,UK,United Kingdom,M,11.2,9.4,9.3,30.3,76.9,81.3,61.6,15.8,76.1,26.4
+456,415,Moscow Institute of Physics and Technology (MIPT / Moscow Phystech),RU,Russia,M,16.6,23.6,94.6,12,31.1,45.5,41.7,17.6,1,26.3
+456,465,Umea University,SE,Sweden,L,19.9,11.6,71.8,15.2,51.1,21.8,78,9,26.3,26.3
+456,421,Université de Strasbourg,FR,France,XL,39.1,10.3,5.1,20.7,34.2,35.9,90.7,20.4,5.4,26.3
+456,486,University of Guelph,CA,Canada,L,12.8,12.8,5,50.1,46.4,14.3,65.2,11.2,82.9,26.3
+460,396,"Stony Brook University, State University of New York",US,United States,L,18,7.3,32.2,23.6,34.7,43.5,76,21.2,79.1,26.2
+461,410,Universidad de Santiago de Chile (USACH),CL,Chile,L,43.4,55,7.2,4.2,6.3,2.2,51.1,12.7,11.2,26.1
+462,436,Tampere University,FI,Finland,L,21.7,15.4,20.4,33.1,44.5,5.9,84.8,30.8,23,26
+462,494,Universidad de Sevilla,ES,Spain,XL,39.1,12.6,18.4,8.2,3.5,18.9,91.4,16,67.4,26
+464,505,Macau University of Science and Technology,MO,Macau SAR,L,4.4,3.4,3.9,56.4,100,100,26.2,29.5,11.3,25.9
+465,476,Kobe University,JP,Japan,L,28.4,33.2,43.9,11.4,7,5.6,55,15,49.8,25.8
+466,478,Universität Konstanz,DE,Germany,M,18.3,10.5,37.8,18.3,85.9,14.5,66.1,13.1,63.1,25.7
+466,621-630,Universitat Ramon Llull,ES,Spain,L,11,52,8.7,8.1,93.6,43.1,32.6,71.7,20.1,25.7
+466,491,University at Buffalo SUNY,US,United States,L,18,10.7,8.8,33.6,20.1,36.9,68.6,33.3,82.5,25.7
+466,419,Washington State University,US,United States,L,23.3,20,15.5,33.5,47.1,5,77.3,8.6,29.6,25.7
+470,400,Iowa State University,US,United States,L,20.7,12,9.1,47.9,7.5,12.5,77.3,32.9,31.3,25.6
+471,469,Ben-Gurion University of The Negev,IL,Israel,L,14.4,14.5,11.1,51.7,64,14.3,64.9,16.3,11.8,25.5
+472,459,"Essex, University of",UK,United Kingdom,L,15.5,5.2,12.7,22.6,99.8,98.6,75.1,14,13.2,25.3
+472,446,Johannes Kepler University Linz,AT,Austria,M,12.8,12.3,75.9,14.3,83.5,33.5,59.7,12.2,13.2,25.3
+474,481,Bangor University,UK,United Kingdom,M,8.6,5.8,12.1,43,40.7,52.3,75,8.1,82.9,25.2
+474,472,Hiroshima University,JP,Japan,L,24.1,12.3,75.9,8.9,13.2,12.9,70.1,6.9,50.8,25.2
+474,460,Universität Potsdam,DE,Germany,L,15.8,3.4,18.6,36.5,51.8,21.2,92.9,1.3,67.1,25.2
+477,551,Ajman University,AE,United Arab Emirates,S,17.3,42.2,9.6,3.2,100,100,48.4,9.8,1.4,25.1
+477,502,Bilkent University,TR,Turkey,M,24,52.1,13.3,15.2,61.4,3.7,38.3,19.3,10.6,25.1
+477,454,Indian Institute of Technology Indore (IIT Indore),IN,India,S,6.1,5,27.1,95.6,2.1,1.1,23.6,2.2,4.2,25.1
+477,413,Royal Holloway University of London,UK,United Kingdom,M,14.9,5.7,13,27.2,94.1,86.9,73.2,7.2,19.7,25.1
+481,387,Aix-Marseille University,FR,France,XL,36.9,6.5,7.9,21.7,17.5,18.2,99.1,15.2,25.5,25
+481,514,Pontificia Universidad Católica Argentina,AR,Argentina,L,19.9,29.4,99.9,1.1,1.9,6.7,12.5,85.7,1,25
+481,446,"The University of Tennessee, Knoxville",US,United States,XL,10.1,8.2,9.5,76.3,4.9,2.4,77.3,11,15,25
+484,534,China Agricultural University ,CN,China (Mainland),L,8.4,2.6,18.9,88.8,3.2,1.5,52.2,4.5,5.8,24.9
+485,,American University of Ras Al Khaimah ( AURAK ),AE,United Arab Emirates,S,4.6,3.3,35.5,46.8,100,100,15.4,4.1,1.1,24.8
+485,505,National Sun Yat-sen University,TW,Taiwan,M,26.5,24.9,32,22.1,22.7,10.8,35.6,11.4,48.9,24.8
+487,454,Universität Mannheim,DE,Germany,M,15.3,53.9,3,31,42.4,22.7,27.9,34.9,1.5,24.7
+488,386,University of Hawai?i at M?noa,US,United States,L,15.2,6.6,29.7,41.7,41.7,12,82.9,7.9,30.1,24.6
+448,491,Dalian University of Technology,CN,China (Mainland),XL,9.6,3.8,18.1,88.1,11.5,2.9,55.9,14.4,8,26.6
+489,494,Chung-Ang University (CAU),KR,South Korea,L,16,31.9,67.8,9.3,14.2,37.8,29.9,13.5,49.5,24.5
+489,,Isfahan University of Technology,IR,"Iran, Islamic Republic of",M,4.9,15.7,5.1,92.2,2.3,1.4,43.5,5.6,1.1,24.5
+428,454,Southeast University,CN,China (Mainland),XL,13.5,6.6,20.8,82,14.4,3.4,69.2,5,11.6,27.8
+489,419,UNESP,BR,Brazil,XL,41.1,25.8,13,16.2,5.9,2.7,70.9,1.5,14.5,24.5
+489,446,University of Jyväskylä,FI,Finland,M,16.2,11.4,87.7,12.1,44,2.6,81.2,10.4,16.3,24.5
+495,590,Central Queensland University (CQUniversity Australia),AU,Australia,S,9,6.7,29.4,20.9,97.1,97.8,44,3.1,49.8,24.4
+495,514,Duy Tan University,VN,Vietnam,L,11.9,25.3,3.9,49,37.7,1.4,83.5,4.4,29,24.4
+489,561,Chongqing University,CN,China (Mainland),XL,7.6,4.6,12.1,81.4,21.3,2.1,59.6,13.6,4.1,24.5
+497,461,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),RU,Russia,M,9.2,11.8,98.9,8.1,45.8,89.5,32.9,14.6,1.1,24.2
+497,544,Universidad de Costa Rica,CR,Costa Rica,XL,35.4,24.3,32.3,1.6,2.4,2,45.5,81.6,16.9,24.2
+497,404,"University of California, Riverside",US,United States,L,16.3,9.4,6.6,50.9,47.9,10.4,77.3,3.7,21.3,24.2
+501,580,Abu Dhabi University,AE,United Arab Emirates,S,15.9,24.6,14.9,16.7,100,99.8,27.3,8.3,1.5,24.1
+501,465,Colorado School of Mines,US,United States,M,6.8,12.5,15.8,72,29.7,7.4,30.9,17.7,18,24.1
+511,621-630,Zhengzhou University,CN,China (Mainland),XL,5.4,22,4.9,80.3,,2.4,56.3,5.7,2.4,23.8
+501,464,Johannes Gutenberg Universität Mainz,DE,Germany,L,22.3,11.4,57.8,11.5,42,15.5,87,11.4,16.3,24.1
+501,567,University of Huddersfield,UK,United Kingdom,L,12.7,12.4,7.5,19.4,63.7,85.6,73,1.3,72.3,24.1
+506,498,University of Delaware,US,United States,L,9.4,7.9,6.6,53.9,30,12.6,66.5,16.9,65.3,24
+506,429,University of Trento,IT,Italy,L,24.9,10.5,22,32.7,29.6,6.1,85.8,4.4,19,24
+508,530,Aristotle University of Thessaloniki,GR,Greece,XL,28.2,26.1,4.3,15.8,1.7,4.1,90.5,38.3,44.3,23.9
+508,511,SOAS University of London ,UK,United Kingdom,M,17.1,9.4,14.8,15.1,100,98.7,16.9,22.4,39.1,23.9
+511,498,Ewha Womans University,KR,South Korea,L,22.1,21.2,76.3,6.9,7,24.4,31.3,23,34.2,23.8
+452,473,Beihang University (former BUAA),CN,China (Mainland),L,12.1,7.8,41.5,72.1,7,4.5,51.2,12.8,4.3,26.4
+513,595,Imam Abdulrahman Bin Faisal University (IAU) (formerly UNIVERSITY OF DAMMAM),SA,Saudi Arabia,L,10.5,11.4,89.5,2.6,98.2,19.7,68.3,2.4,18.4,23.7
+513,590,Prince Mohammad Bin Fahd university,SA,Saudi Arabia,S,20.3,23,23.1,27.8,100,18.8,23.3,2.8,1.2,23.7
+513,481,University of Milano-Bicocca ,IT,Italy,L,20.4,10.9,3.3,54.1,3.5,4.3,81.1,11.5,14.8,23.7
+516,563,Ateneo de Manila University,PH,Philippines,L,21.4,64.5,24.4,1.8,2.9,2.5,23,70.6,15.6,23.6
+516,529,Edith Cowan University ,AU,Australia,L,8.5,6.8,4.8,49.8,78.5,57.7,64.5,4.7,5.8,23.6
+516,556,INTI International University,MY,Malaysia,S,7.7,19.9,89.1,1.7,95.4,92.9,7,4.4,1.1,23.6
+516,520,Kyungpook National University,KR,South Korea,L,11.1,16.7,66.9,20.5,11.1,25.7,52,10.6,60.6,23.6
+516,526,Sabanci University,TR,Turkey,S,19.5,44.6,38.2,19.4,32,14.2,25.9,7.2,7.9,23.6
+516,523,University of Hull,UK,United Kingdom,L,8.9,4.5,14.3,21.5,63.3,81.5,76.9,20.5,68,23.6
+516,473,Ural Federal University - UrFU,RU,Russia,XL,19.6,14.2,95.5,2.1,5.4,25.3,86.6,1.9,12.7,23.6
+523,551,Canadian University Dubai,AE,United Arab Emirates,S,20.1,19.9,33.5,2.7,100,100,14,17.4,1.6,23.5
+524,611-620,Pusan National University,KR,South Korea,L,18.7,16.5,43.5,19.5,10.5,13.7,57.7,13.8,65,23.4
+524,520,Universidad Austral,AR,Argentina,M,20.9,36.2,79.7,1.9,2.7,7.5,10.2,65.9,1.3,23.4
+526,461,Universität Jena,DE,Germany,L,17.2,5.7,99.9,8.8,,20.2,94.7,3.9,13.1,23.3
+527,480,Missouri University of Science and Technology,US,United States,M,4,6.1,5.7,86.2,35.2,12.8,30.5,4.8,1.7,23.2
+527,479,Universität Leipzig,DE,Germany,L,23.5,9.7,74.8,8.4,,14.2,84.3,10.5,21.3,23.2
+527,509,University of Bayreuth,DE,Germany,M,10.2,15.7,50.3,25.8,54.8,21.2,75.1,9,11.3,23.2
+527,571,Warsaw University of Technology,PL,Poland,L,23.3,51.9,42.6,4.7,2.4,10.3,60.6,9.8,1.4,23.2
+531,571,Coventry University,UK,United Kingdom,XL,9.7,9.5,16.9,7.1,77,99.9,82.6,10,64.4,23.1
+531,571,Indian Institute of Technology (BHU) Varanasi,IN,India,M,5.5,5.9,3.9,95,1.4,1.1,24.5,6.5,10.1,23.1
+531,441,University of Utah,US,United States,XL,15.7,6.3,50,30.5,15.5,10.3,80.5,17.4,24.5,23.1
+534,540,Universidad Nacional de La Plata (UNLP),AR,Argentina,XL,40.8,19.2,28.4,1.9,5.3,22.6,55.4,27.3,2.2,23
+535,540,Lahore University of Management Sciences (LUMS),PK,Pakistan,S,17.2,73.2,27.1,7.4,12.2,1.8,19.5,37,1.1,22.9
+535,548,Northumbria University at Newcastle,UK,United Kingdom,L,10.9,10.8,11.8,15.8,70.7,56.2,78.4,14,75.3,22.9
+535,465,University of Bordeaux,FR,France,XL,31.3,5.5,11.5,17.6,27.1,23.3,92.9,16.7,20.1,22.9
+535,548,University of Eastern Finland,FI,Finland,L,13.8,7.6,43.7,18.4,37.4,5.2,86.4,4.2,78.6,22.9
+539,582,Applied Science University - Bahrain,BH,Bahrain,S,23.5,25,39.3,2,100,46.8,13.3,11.3,1.7,22.8
+539,481,Hitotsubashi University,JP,Japan,M,14.4,73,30.8,2.1,19.8,20,7.5,51.9,1.1,22.8
+539,586,Sunway University,MY,Malaysia,S,13,39.2,44,10.3,35.9,33.2,51.1,3.9,27.3,22.8
+539,563,Université de Fribourg,CH,Switzerland,M,10.3,3,7.5,25.4,99.9,38.3,58.3,40.6,51.8,22.8
+539,534,University of Salamanca,ES,Spain,L,26.9,14.6,26,6.2,6.9,14.9,80,23.4,69.5,22.8
+544,523,Universidad de Zaragoza,ES,Spain,L,21.3,5.1,56.1,7,4.5,9,89.5,10.7,77.1,22.7
+544,582,Universidad Pontificia Comillas,ES,Spain,M,8.3,71.6,38.3,2.2,18.7,5,9,85.4,7.1,22.7
+531,641-650,University of Bradford,UK,United Kingdom,M,9.1,7.1,6.8,21.7,68.5,97.6,66,34.3,40.7,23.1
+547,,Tashkent Institute of Irrigation and Agricultural Mechanization Engineers - National Research University (TIIAME-NRU),UZ,Uzbekistan,M,30.6,19.9,79,2.2,26.3,4.1,8.6,15.1,9.5,22.6
+547,530,University of Genoa,IT,Italy,L,18.8,4.9,12.7,43.7,5.4,9.2,81.2,10.5,39.5,22.6
+547,1201-1400,University of Iceland,IS,Iceland,M,6.8,2.5,99.9,6.7,25.7,10.3,73.5,83.2,5.9,22.6
+547,641-650,University of Windsor,CA,Canada,L,3.9,3.9,2.2,36.2,88.7,83.8,51.1,25.8,38.5,22.6
+552,611-620,Al Ain University,AE,United Arab Emirates,S,22.6,15.7,13.4,5.9,100,100,27.5,5.9,5.2,22.5
+552,,University of Tabriz,IR,"Iran, Islamic Republic of",L,5.9,5,3.4,81.7,1.5,6.8,71.8,5.3,1.2,22.5
+554,551,Hasselt University ,BE,Belgium,M,5.8,3.3,82.1,15.4,74.2,25.3,69.6,2.4,26.8,22.4
+554,731-740,Jordan University of Science & Technology,JO,Jordan,M,21,30.7,18.8,5.6,38.2,67.7,55.5,4.3,24.5,22.4
+554,538,Universiti Utara Malaysia (UUM),MY,Malaysia,M,22,25.4,38.8,8.2,19.4,79.3,34.1,12.3,5.3,22.4
+554,691-700,University of Dhaka,BD,Bangladesh,XL,23,45.6,11.2,2.9,1.6,1,52,93.7,11.8,22.4
+554,542,University Ulm,DE,Germany,M,7.4,5.5,78.5,31.2,39.6,21,61.1,2.9,2.1,22.4
+559,534,Peter the Great St. Petersburg Polytechnic University,RU,Russia,L,16,10.9,74.3,2.9,14.1,84,64.7,4.9,11.2,22.3
+559,498,Ulster University,UK,United Kingdom,L,8.1,11.3,9.6,11.5,99.8,77.6,73.4,6.8,62.2,22.3
+559,601-610,Umm Al-Qura University ,SA,Saudi Arabia,XL,20.7,12.8,54.7,2.2,100,16,59.7,6.7,3.1,22.3
+562,452,Université Claude Bernard Lyon 1,FR,France,XL,18.1,3.7,7.9,48.3,7.4,12,93.7,12.4,11,22.2
+562,525,Universiti Teknologi Brunei,BN,Brunei,S,15.4,6.3,88.5,9.9,100,5.8,15.9,14.7,1.4,22.2
+564,701-710,Eötvös Loránd University,HU,Hungary,L,23.3,22.6,10.7,6.1,5.2,11,71.3,60.9,61.9,22.1
+565,444,University of Connecticut,US,United States,L,14.4,8.1,18.2,29.8,27.4,19.4,88,23.3,37.6,22
+567,571,Chiang Mai University,TH,Thailand,XL,34.8,17.1,17.3,4.2,4.8,4.2,62.5,19.1,56.1,21.9
+567,577,Lebanese University,LB,Lebanon,XL,29,34.4,10.1,2.2,43.8,29.5,43.7,29.9,5.8,21.9
+567,526,MGIMO University,RU,Russia,M,9.8,25.4,100,1.3,11.3,41.3,5.7,60,1,21.9
+570,556,"University of Chemistry and Technology, Prague",CZ,Czech Republic,S,5.6,9.3,98.4,13.5,23.9,78.4,34.9,4.2,3.4,21.8
+570,601-610,University of Szeged,HU,Hungary,L,18.5,16.8,37,4.8,11.8,41.2,73.1,15,61.9,21.8
+570,741-750,University of the Punjab,PK,Pakistan,XL,15.6,52.2,4.5,11.6,3.2,1.3,62.2,81.4,4.3,21.8
+573,461,Florida State University,US,United States,XL,25.6,18.1,7.2,24.8,10,4.2,71.9,18.4,26.8,21.6
+574,556,Florida International University,US,United States,XL,15.3,22.5,11.8,12.6,20.3,12.9,86.7,16.6,81.2,21.5
+574,671-680,University of Debrecen,HU,Hungary,L,17.9,13.9,34,3.9,10.6,70,76.7,21.4,39.5,21.5
+576,586,National Research Tomsk Polytechnic University,RU,Russia,M,8.9,8.4,95.1,3.7,10.9,82.8,62.7,2,7.1,21.4
+576,509,Sogang University,KR,South Korea,M,17.5,45.5,56.7,5.1,7.1,19.6,13.8,16,17.7,21.4
+576,651-660,Southern Cross University ,AU,Australia,M,4.4,2.8,2.9,46.3,81.1,44.8,44.2,4.8,48.2,21.4
+576,567,Universidad Adolfo Ibáñez,CL,Chile,M,20.6,57,4.7,4.6,36.9,3.9,31.5,53.3,2,21.4
+580,601-610,Jawaharlal Nehru University,IN,India,M,31,14.4,10,28.9,,1.3,47.4,14.7,19.7,21.3
+580,621-630,Management and Science University,MY,Malaysia,S,15.1,18.1,40.2,1.8,97.3,99.4,12.1,4.2,1.2,21.3
+580,556,Politecnico di Bari,IT,Italy,S,6.9,4.8,11.3,76.5,4.6,7.2,46.6,3.5,1.3,21.3
+580,511,Université Paul Sabatier Toulouse III,FR,France,L,17.7,3.4,38.5,28,5.1,21.5,98.5,6,10.3,21.3
+585,621-630,Institut Teknologi Sepuluh Nopember (ITS Surabaya),ID,Indonesia,L,17.3,48.9,47.8,1.6,47.5,5.3,12,13,16.1,21.2
+585,545,Singapore Management University,SG,Singapore,M,12.3,14.2,10.2,18.8,100,58.9,20.8,27.1,26.3,21.2
+587,567,Bond University,AU,Australia,S,4.3,4.6,47.8,28.8,70.4,86.6,26.5,8.4,1,21.1
+587,771-780,Shoolini University of Biotechnology and Management Sciences,IN,India,S,10,14.9,8.1,55.9,33.3,1.7,44.8,2,16.3,21.1
+587,514,The University of Georgia,US,United States,XL,20.6,18.6,9.8,24.4,6.7,4.5,83.7,21.5,30.7,21.1
+587,555,Universiti Teknologi MARA - UiTM,MY,Malaysia,XL,30.8,40.4,17.6,2.8,1.7,2.1,68.6,3.6,15.2,21.1
+587,621-630,University of Kwazulu-Natal,ZA,South Africa,XL,12.6,10.2,5.5,24.5,24.5,1.6,93.7,71.2,37.9,21.1
+592,721-730,Ain Shams University ,EG,Egypt,XL,24,32.2,11.3,1.9,23.1,7.5,74.2,56.3,9.8,21
+592,595,Nottingham Trent University,UK,United Kingdom,XL,10.6,15.1,10.6,5.1,57.1,74,84.6,12,64.1,21
+592,514,Universität Bremen,DE,Germany,L,18.5,7.7,13.1,24.4,46.9,26.4,89.1,1.8,19.9,21
+595,542,ITMO University,RU,Russia,M,10.5,13,95.5,5.4,20.3,36.2,65.3,1.9,1.2,20.9
+596,600,Thammasat University,TH,Thailand,L,24.6,19.4,26.6,2.1,9.1,1.7,41,84.6,33.6,20.8
+596,661-670,Universitas Padjadjaran,ID,Indonesia,XL,19,41.6,41.4,1.4,34.8,2.2,19.6,33.4,21.3,20.8
+596,491,University of Iowa,US,United States,L,18.4,8.7,41.7,19.1,15.5,3.7,75.6,26.6,20.8,20.8
+596,621-630,University of Ljubljana,SI,Slovenia,XL,19.9,9.2,33.3,5.9,4.2,9.7,84.8,97.6,4.9,20.8
+596,520,University of Texas Dallas,US,United States,L,13.1,15.9,3.4,43.3,9.7,47.4,60.4,4.9,9.5,20.8
