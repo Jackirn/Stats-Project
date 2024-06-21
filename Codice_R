@@ -13,107 +13,100 @@ library(readr)
 library(RColorBrewer)
 library(stats)
 
+dataset_anova=dataset
+dataset_poli=subset(dataset,dataset$X2025.Rank==111)
+dataset=subset(dataset,dataset$X2025.Rank!=111)
 n=nrow(dataset)
-n
-
-dataset$price=dataset$price*0.011 #cambio valuta da rupia indiana in euro
+n #587
+names(dataset)
+summary(dataset) #ci sono tanti NA
+sum(is.na(dataset))
+dataset=na.omit(dataset)
+sum(is.na(dataset))
 summary(dataset)
 
-ggpairs(dataset[,c('price','ratings','camera','battery','storage','ram','android_version')])
-g1 = lm( price ~ ratings + camera + battery + storage + ram + android_version, data = dataset )
-summary(g1)
-#R2=0.373 R2_adj=0.3636
-#elimino lo storage che ha poca significatività e in più è altamente correlato con la ram
-cor(dataset$ram,dataset$storage)
+dataset=subset(dataset, select = -X2024.Rank)
+dataset=subset(dataset, select = -Employer.Reputation)
+dataset=subset(dataset, select = -XFaculty.Student)
+dataset=subset(dataset, select = -International.Faculty)
+dataset=subset(dataset, select = -International.Research.Network)
 
 
-g2 = lm( price ~ ratings + camera + battery + ram + android_version, data = dataset )
-summary(g2)
-#R2=0.3699 R2_adj=0.362
-#leviamo android_version
+ggpairs(dataset[,c('QS.Overall.Score','Size','Academic.Reputation','Faculty.Student','Citations.per.Faculty','International.Students','Employment.Outcomes','Sustainability')])
+modello_nullo = lm( QS.Overall.Score ~ 1, data = dataset )
+summary(modello_nullo)
+modello_completo = lm(QS.Overall.Score ~ Academic.Reputation + Faculty.Student + Citations.per.Faculty + International.Students + Employment.Outcomes + Sustainability, data = dataset)
+summary(modello_completo)
+AIC(modello_completo)
+
+step(modello_completo, direction="both",trace=T)
 
 
-g3 = lm( price ~ ratings + camera + battery + ram, data = dataset )
-summary(g3)
-#R2=0.3689 R2_adj=0.3626
-#leviamo camera
+vif(modello_completo)
 
 
-g4 = lm( price ~ ratings + battery + ram, data = dataset )
-summary(g4)
-#R2=0.3647 R2_adj=0.36
-#leviamo ratings perchè è controintuitivo e poi con una significatività del 5% il test ci dice che beta=0
+x=model.matrix(modello_completo)[ , -1]
+y=dataset$QS.Overall.Score
+adjr=leaps(x,y,method="adjr2")
+adjr
 
+bestmodel_adjr2_ind = which.max( adjr$adjr2 )
+adjr$which[ bestmodel_adjr2_ind, ] 
+maxadjr( adjr, 5 ) #prendiamo quello più semplice 1,2,3,4
 
-g5 = lm( price ~ battery + ram, data = dataset )
-summary(g5)
-#R2=0.3591 R2_adj=0.3559
-#leviamo battery perchè ha p-value alto
-
-
-g6 = lm( price ~ ram, data = dataset )
-summary(g6)
-#R2=0.3549 R2_adj=0.3549
-
-
-
-b=boxcox(g6, data = dataset)
-best_lambda_ind=which.max(b$y)
-best_lambda=b$x[best_lambda_ind]
-best_lambda
-g7 = lm( log(price) ~ ram , data = dataset )
-summary(g7)
-#R2=0.3811 R2_adj=0.3796
-
-
-g8 = lm( log(price) ~ ram + ratings , data = dataset )
-summary(g8)
-#R2=0.3865 R2_adj=0.3835
-#con significatività del 10% possiamo inserire il ratings, se il presso è più basso sono più soddisfatto
-
-
+g = lm(QS.Overall.Score ~ Academic.Reputation + Faculty.Student + Citations.per.Faculty + International.Students, data = dataset)
+summary(g)
+vif(g)
+ggpairs(dataset[,c('Academic.Reputation','Faculty.Student','Citations.per.Faculty','International.Students')])
+AIC(g)
 
 #validità modello: vediamo se ora i residui sono normali
 
 #errori normali
-qqnorm(g8$res)
-qqline(g8$res)
-#anomalie sulla coda
+qqnorm(g$res)
+qqline(g$res)
 
 #shapiro test
-shapiro.test(g8$res) #p-value basso
-hist(g8$res)
-boxplot(g8$res)
+shapiro.test(g$res) #p-value basso
+hist(g$res)
+boxplot(g$res)
 
 #omoschedasticità
-plot(g8$fit,g8$res) #sono in media attorno allo zero e che aumentano, proviamo ad individuare i punti influenti
-plot(g8,which=1)
+plot(g$fit,g$res) #sono in media attorno allo zero e che aumentano, proviamo ad individuare i punti influenti
+plot(g,which=1)
+
+
+b=boxcox(g, data = dataset)
+best_lambda_ind=which.max(b$y)
+best_lambda=b$x[best_lambda_ind]
+best_lambda
+
 
 
 #analisi punti influenti
 
 #leverages
-p=g8$rank #p=3
-n=dim(dataset)[1] #n=407
-lev=hatvalues(g8)
-plot(g8$fitted.values,lev)
+p=g$rank #p=5
+n=dim(dataset)[1] #n=587
+lev=hatvalues(g)
+plot(g$fitted.values,lev)
 abline(h=2*(p/n))
 watchout_points_lev=lev[which(lev>2*(p/n))]
 watchout_ids_lev=seq_along(lev)[which(lev>2*p/n)]
 
 
 #residui standardizzati
-g8s=summary(g8)
-res_std=g8$res/g8s$sigma
-plot(g8$fitted.values,res_std)
+gs=summary(g)
+res_std=g$res/gs$sigma
+plot(g$fitted.values,res_std)
 abline(h=c(-2,2))
 watchout_ids_rstd = which( abs( res_std ) > 2 )
 watchout_rstd = res_std[ watchout_ids_rstd ]
 watchout_rstd
 
 #residui studentizzati
-stud=rstandard(g8)
-plot(g8$fitted.values,stud)
+stud=rstandard(g)
+plot(g$fitted.values,stud)
 abline(h=c(-2,2))
 watchout_ids_stud = which( abs( stud ) > 2 )
 watchout_stud = stud[ watchout_ids_stud ]
@@ -121,44 +114,29 @@ watchout_stud
 
 
 
-influencePlot(g8,id.method="identify",main="influential plot",sub="circle size is proportial to Cook's distance")
-
-
-g_post_lev_2=lm( log(price) ~ ram + ratings, dataset , subset = ( lev<2*p/n))
-summary(g_post_lev_2)
-#R2=0.3798 R2_adj=0.3764
-#levo la significatività con i ratings
-
-g_post_lev=lm( log(price) ~ ram, dataset , subset = ( lev<2*p/n))
+g_post_lev=lm( QS.Overall.Score ~ Academic.Reputation + Faculty.Student + Citations.per.Faculty + International.Students , data=dataset, subset = ( lev<2*p/n))
 summary(g_post_lev)
-#R2=0.3785 R2_adj=0.3768
+AIC(g_post_lev)
 
 #validità modello: vediamo se ora i residui sono normali
 
 #errori normali
-qqnorm(g_post_lev$res)
-qqline(g_post_lev$res)
-
-#ha ancora anomalia sulle code
+qqnorm(g$res)
+qqline(g$res)
 
 #shapiro test
-shapiro.test(g_post_lev$res)
-hist(g_post_lev$res)
-boxplot(g_post_lev$res)
+shapiro.test(g$res) #p-value basso
+hist(g$res)
+boxplot(g$res)
 
-#lo shapiro test ha ancora p-value basso ma molto meglio rispetto a prima
-AIC(g_post_lev) #alto
+#omoschedasticità
+plot(g$fit,g$res) #sono in media attorno allo zero e che aumentano, proviamo ad individuare i punti influenti
+plot(g,which=1)
 
 
-
-g_post_rs_2=lm( log(price) ~ ram + ratings,dataset, subset = ( abs(stud)<2 ) )
-summary(g_post_rs_2)
-#R2=0.5197 R2_adj=0.5172
-#levo la significatività con i ratings
-
-g_post_rs=lm( log(price) ~ ram,dataset, subset = ( abs(stud)<2 ) )
+g_post_rs=lm( QS.Overall.Score ~ Academic.Reputation + Faculty.Student + Citations.per.Faculty + International.Students, data=dataset, subset = ( abs(stud)<2 ) )
 summary(g_post_rs)
-#R2=0.5177 R2_adj=0.5165
+AIC(g_post_rs) #si abbassa ma perdiamo noramlità
 
 #validità modello: vediamo se ora i residui sono normali
 
@@ -166,20 +144,17 @@ summary(g_post_rs)
 qqnorm(g_post_rs$res)
 qqline(g_post_rs$res)
 
-#ha ancora anomalia sulle code
 
 #shapiro test
 shapiro.test(g_post_rs$res)
 hist(g_post_rs$res)
 boxplot(g_post_rs$res)
 
-#lo shapiro test ha ancora p-value basso ma molto meglio rispetto a prima
-AIC(g_post_rs)
 
 
-g_post_both=lm( log(price) ~ ram ,dataset, subset = ( abs(stud)<2 | lev<2*p/n ))
+g_post_both=lm( QS.Overall.Score ~ Academic.Reputation + Faculty.Student + Citations.per.Faculty + International.Students , data=dataset, subset = ( abs(stud)<2 | lev<2*p/n ))
 summary(g_post_both)
-#R2=0.3811 R2_adj=0.3796
+AIC(g_post_both)
 
 #validità modello: vediamo se ora i residui sono normali
 
@@ -187,70 +162,157 @@ summary(g_post_both)
 qqnorm(g_post_both$res)
 qqline(g_post_both$res)
 
-#ha ancora anomalia sulle code
 
 #shapiro test
 shapiro.test(g_post_both$res)
 hist(g_post_both$res)
 boxplot(g_post_both$res)
 
-#lo shapiro test ha ancora p-value basso ma molto meglio rispetto a prima
-AIC(g_post_both) #alto
 
 
-#previsione
+summary(g_post_both)
 
 
+#Predizione
 
-#ANOVA
-cor(dataset$storage,dataset$ram)
-#sappiamo che la correlazione tra storage e ram è altissima, per questo nel modello lineare l'abbiamo levata
-#allo stesso tempo, essendoci una correlazione così alta possiamo vedere che il prezzo medio è diverso nelle varie categorie di storage
-#se il prezzo è diverso riscontriamo con l'anova la stessa cosa che abbiamo visto con il modello lineare con covariata la ram
-summary(dataset)
-boxplot( price ~ storage, data=dataset)
-#vediamo che nei vari gruppi ci verrrebbe da dire che la media dei prezzi sia differente, in più crescente
-#dimostriamolo con l'anova
+#Stima puntuale di y_hat
+y_predict=predict(g_post_both,dataset_poli)
+y_predict
+y_mano=g_post_both$coefficients[1]+g_post_both$coefficients[2]*dataset_poli$Academic.Reputation+g_post_both$coefficients[3]*dataset_poli$Faculty.Student+g_post_both$coefficients[4]*dataset_poli$Citations.per.Faculty+g_post_both$coefficients[5]*dataset_poli$International.Students
+y_mano
 
-#ipotesi
+#Intervallo di confidenza per y_hat
+y_confidence=predict(g_post_both,dataset_poli,interval='prediction',se=T)
+y_confidence
 
-#normalità
-dataset_64=subset(dataset,dataset$storage==64)
-dataset_128=subset(dataset,dataset$storage==128)
-dataset_256=subset(dataset,dataset$storage==256)
-boxplot( price ~ storage, data=dataset_64)
-hist(dataset_64$price)
-shapiro.test(dataset_64$price)
-boxplot( price ~ storage, data=dataset_128)
-hist(dataset_128$price)
-shapiro.test(dataset_128$price)
-boxplot( price ~ storage, data=dataset_256)
-hist(dataset_256$price)
-shapiro.test(dataset_256$price)
+
+#Intervallo di confidenza per E[y_hat]
+y_confidence_E=predict(g_post_both,dataset_poli,interval='confidence',se=T)
+y_confidence_E
 
 
 
-#varianza
-dataset_64_256=rbind(dataset_64,dataset_256)
-dataset_128_256=rbind(dataset_128,dataset_256)
-boxplot( price ~ storage, data=dataset_64_256)
-boxplot( price ~ storage, data=dataset_128_256)
-var(dataset_64$price)
-var(dataset_128$price)
-var(dataset_256$price)
-bartlett.test(price ~ storage, data=dataset_64_256)
-bartlett.test(price ~ storage, data=dataset_128_256)
-#leveneTest(price ~ storage, data=dataset_128_256) #non riesco
+#ANOVA su US, UK, FR, DE, IT n=5
+names(dataset_anova)
+dataset_anova=subset(dataset_anova,select=c(QS.Overall.Score,Location))
+dataset_anova=subset(dataset_anova,dataset_anova$Location %in% c('US','UK','FR','DE','IT'))
+summary(dataset_anova)
+my_colors=brewer.pal(5,'Set2')
+boxplot( QS.Overall.Score ~ Location, data=dataset_anova, col = my_colors)
 
-mod=lm( price ~ storage, data=dataset_128_256 )
+#Ipotesi ANOVA
+
+#Normalità dei gruppi
+Ps = tapply( dataset_anova$QS.Overall.Score,dataset_anova$Location , function( x ) ( shapiro.test( x )$p ) )
+Ps
+
+
+dataset_IT=subset(dataset_anova,dataset_anova$Location=='IT')
+shapiro.test(dataset_IT$QS.Overall.Score)
+
+reg=lm(QS.Overall.Score~Location,data=dataset_anova)
+anB=boxcox(reg,lambda = seq(-3,3,by=0.01))
+best_lambda=anB$x[which.max(anB$y)]
+best_lambda
+
+
+Ps = tapply( (dataset_anova$QS.Overall.Score ^ best_lambda - 1)/best_lambda,dataset_anova$Location , function( x ) ( shapiro.test( x )$p ) )
+Ps
+
+boxplot( (QS.Overall.Score ^ best_lambda - 1)/best_lambda ~ Location, data=dataset_anova, col = my_colors)
+
+
+#Omoschedasticità
+
+leveneTest( (dataset_anova$QS.Overall.Score ^ best_lambda - 1)/best_lambda ,dataset_anova$Location )
+bartlett.test(  (dataset_anova$QS.Overall.Score ^ best_lambda - 1)/best_lambda ,dataset_anova$Location )
+
+
+mod = lm( QS.Overall.Score ~ Location , data=dataset_anova)
 summary( mod )
 anova( mod )
 
-mod2=lm( price ~ storage, data=dataset_64_256 )
-summary( mod2 )
-anova( mod2 )
+
+
+#ANOVA su UK, FR, DE, IT n=4
+names(dataset_anova)
+dataset_anova=subset(dataset_anova,select=c(QS.Overall.Score,Location))
+dataset_anova=subset(dataset_anova,dataset_anova$Location %in% c('UK','FR','DE','IT'))
+summary(dataset_anova)
+my_colors=brewer.pal(4,'Set2')
+boxplot( QS.Overall.Score ~ Location, data=dataset_anova, col = my_colors)
+
+#Ipotesi ANOVA
+
+#Normalità dei gruppi
+Ps = tapply( dataset_anova$QS.Overall.Score,dataset_anova$Location , function( x ) ( shapiro.test( x )$p ) )
+Ps
+
+
+dataset_IT=subset(dataset_anova,dataset_anova$Location=='IT')
+shapiro.test(dataset_IT$QS.Overall.Score)
+
+reg=lm(QS.Overall.Score~Location,data=dataset_anova)
+anB=boxcox(reg,lambda = seq(-3,3,by=0.01))
+best_lambda=anB$x[which.max(anB$y)]
+best_lambda
+
+
+Ps = tapply( (dataset_anova$QS.Overall.Score ^ best_lambda - 1)/best_lambda,dataset_anova$Location , function( x ) ( shapiro.test( x )$p ) )
+Ps
+
+boxplot( (QS.Overall.Score ^ best_lambda - 1)/best_lambda ~ Location, data=dataset_anova, col = my_colors)
+
+
+#Omoschedasticità
+
+leveneTest( (dataset_anova$QS.Overall.Score ^ best_lambda - 1)/best_lambda ,dataset_anova$Location )
+bartlett.test(  (dataset_anova$QS.Overall.Score ^ best_lambda - 1)/best_lambda ,dataset_anova$Location )
+
+
+mod = lm( QS.Overall.Score ~ Location , data=dataset_anova)
+summary( mod )
+anova( mod )
 
 
 
+#ANOVA su US IT n=2
+#attento a rifare il dataset anova
+names(dataset_anova)
+dataset_anova=subset(dataset_anova,select=c(QS.Overall.Score,Location))
+dataset_anova=subset(dataset_anova,dataset_anova$Location %in% c('US','IT'))
+summary(dataset_anova)
+my_colors=brewer.pal(2,'Set2')
+boxplot( QS.Overall.Score ~ Location, data=dataset_anova, col = my_colors)
+
+#Ipotesi ANOVA
+
+#Normalità dei gruppi
+Ps = tapply( dataset_anova$QS.Overall.Score,dataset_anova$Location , function( x ) ( shapiro.test( x )$p ) )
+Ps
 
 
+dataset_IT=subset(dataset_anova,dataset_anova$Location=='IT')
+shapiro.test(dataset_IT$QS.Overall.Score)
+
+reg=lm(QS.Overall.Score~Location,data=dataset_anova)
+anB=boxcox(reg,lambda = seq(-3,3,by=0.01))
+best_lambda=anB$x[which.max(anB$y)]
+best_lambda
+
+
+Ps = tapply( (dataset_anova$QS.Overall.Score ^ best_lambda - 1)/best_lambda,dataset_anova$Location , function( x ) ( shapiro.test( x )$p ) )
+Ps
+
+boxplot( (QS.Overall.Score ^ best_lambda - 1)/best_lambda ~ Location, data=dataset_anova, col = my_colors)
+
+
+#Omoschedasticità
+
+leveneTest( (dataset_anova$QS.Overall.Score ^ best_lambda - 1)/best_lambda ,dataset_anova$Location )
+bartlett.test(  (dataset_anova$QS.Overall.Score ^ best_lambda - 1)/best_lambda ,dataset_anova$Location )
+
+
+mod = lm( QS.Overall.Score ~ Location , data=dataset_anova)
+summary( mod )
+anova( mod )
