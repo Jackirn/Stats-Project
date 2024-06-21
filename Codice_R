@@ -14,6 +14,7 @@ library(RColorBrewer)
 library(stats)
 
 dataset_anova=dataset
+dataset_anova_2=dataset
 dataset_poli=subset(dataset,dataset$X2025.Rank==111)
 dataset=subset(dataset,dataset$X2025.Rank!=111)
 n=nrow(dataset)
@@ -27,7 +28,6 @@ summary(dataset)
 
 dataset=subset(dataset, select = -X2024.Rank)
 dataset=subset(dataset, select = -Employer.Reputation)
-dataset=subset(dataset, select = -XFaculty.Student)
 dataset=subset(dataset, select = -International.Faculty)
 dataset=subset(dataset, select = -International.Research.Network)
 
@@ -236,7 +236,6 @@ anova( mod )
 
 #ANOVA su UK, FR, DE, IT n=4
 names(dataset_anova)
-dataset_anova=subset(dataset_anova,select=c(QS.Overall.Score,Location))
 dataset_anova=subset(dataset_anova,dataset_anova$Location %in% c('UK','FR','DE','IT'))
 summary(dataset_anova)
 my_colors=brewer.pal(4,'Set2')
@@ -278,41 +277,41 @@ anova( mod )
 
 #ANOVA su US IT n=2
 #attento a rifare il dataset anova
-names(dataset_anova)
-dataset_anova=subset(dataset_anova,select=c(QS.Overall.Score,Location))
-dataset_anova=subset(dataset_anova,dataset_anova$Location %in% c('US','IT'))
-summary(dataset_anova)
+names(dataset_anova_2)
+dataset_anova_2=subset(dataset_anova_2,select=c(QS.Overall.Score,Location))
+dataset_anova_2=subset(dataset_anova_2,dataset_anova_2$Location %in% c('US','IT'))
+summary(dataset_anova_2)
 my_colors=brewer.pal(2,'Set2')
-boxplot( QS.Overall.Score ~ Location, data=dataset_anova, col = my_colors)
+boxplot( QS.Overall.Score ~ Location, data=dataset_anova_2, col = my_colors)
 
 #Ipotesi ANOVA
 
 #Normalità dei gruppi
-Ps = tapply( dataset_anova$QS.Overall.Score,dataset_anova$Location , function( x ) ( shapiro.test( x )$p ) )
+Ps = tapply( dataset_anova_2$QS.Overall.Score,dataset_anova_2$Location , function( x ) ( shapiro.test( x )$p ) )
 Ps
 
 
-dataset_IT=subset(dataset_anova,dataset_anova$Location=='IT')
+dataset_IT=subset(dataset_anova_2,dataset_anova_2$Location=='IT')
 shapiro.test(dataset_IT$QS.Overall.Score)
 
-reg=lm(QS.Overall.Score~Location,data=dataset_anova)
+reg=lm(QS.Overall.Score~Location,data=dataset_anova_2)
 anB=boxcox(reg,lambda = seq(-3,3,by=0.01))
 best_lambda=anB$x[which.max(anB$y)]
 best_lambda
 
 
-Ps = tapply( (dataset_anova$QS.Overall.Score ^ best_lambda - 1)/best_lambda,dataset_anova$Location , function( x ) ( shapiro.test( x )$p ) )
+Ps = tapply( (dataset_anova_2$QS.Overall.Score ^ best_lambda - 1)/best_lambda,dataset_anova_2$Location , function( x ) ( shapiro.test( x )$p ) )
 Ps
 
-boxplot( (QS.Overall.Score ^ best_lambda - 1)/best_lambda ~ Location, data=dataset_anova, col = my_colors)
+boxplot( (QS.Overall.Score ^ best_lambda - 1)/best_lambda ~ Location, data=dataset_anova_2, col = my_colors)
 
 
 #Omoschedasticità
 
-leveneTest( (dataset_anova$QS.Overall.Score ^ best_lambda - 1)/best_lambda ,dataset_anova$Location )
-bartlett.test(  (dataset_anova$QS.Overall.Score ^ best_lambda - 1)/best_lambda ,dataset_anova$Location )
+leveneTest( (dataset_anova_2$QS.Overall.Score ^ best_lambda - 1)/best_lambda ,dataset_anova_2$Location )
+bartlett.test(  (dataset_anova_2$QS.Overall.Score ^ best_lambda - 1)/best_lambda ,dataset_anova_2$Location )
 
 
-mod = lm( QS.Overall.Score ~ Location , data=dataset_anova)
+mod = lm( QS.Overall.Score ~ Location , data=dataset_anova_2)
 summary( mod )
 anova( mod )
