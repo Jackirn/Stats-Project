@@ -121,17 +121,17 @@ AIC(g_post_lev)
 #validità modello: vediamo se ora i residui sono normali
 
 #errori normali
-qqnorm(g$res)
-qqline(g$res)
+qqnorm(g_post_lev$res)
+qqline(g_post_lev$res)
 
 #shapiro test
-shapiro.test(g$res) #p-value basso
-hist(g$res)
-boxplot(g$res)
+shapiro.test(g_post_lev$res) #p-value basso
+hist(g_post_lev$res)
+boxplot(g_post_lev$res)
 
 #omoschedasticità
-plot(g$fit,g$res) #sono in media attorno allo zero e che aumentano, proviamo ad individuare i punti influenti
-plot(g,which=1)
+plot(g_post_lev$fit,g_post_lev$res) #sono in media attorno allo zero e che aumentano, proviamo ad individuare i punti influenti
+plot(g_post_lev,which=1)
 
 
 g_post_rs=lm( QS.Overall.Score ~ Academic.Reputation + Faculty.Student + Citations.per.Faculty + International.Students, data=dataset, subset = ( abs(stud)<2 ) )
